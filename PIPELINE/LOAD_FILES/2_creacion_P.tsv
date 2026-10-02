@@ -15,7 +15,7 @@ P_lugar	lugar relacionado	<rico:isAssociatedWithPlace> Asocia un recurso documen
 P_materia	materia	<rico:hasOrHadSubject> Conecta un recurso de registro con una entidad, concepto o materia (RiC-R019)	wikibase-item
 P_persona	persona relacionada	<rico:hasOrHadSubject> Conecta el recurso documental con una persona que es o fue su materia (RiC-R019)	wikibase-item
 P_institucion	institución relacionada	<rico:hasOrHadSubject> Conecta el recurso documental con una institución que actúa como su materia o contexto (RiC-R019)	wikibase-item
-P_productor	productor	<rico:hasOrHadCreator> Agente responsable de la producción del documento (RiC-R027 has creator) (ISAD(G) 2.1 Productor)	wikibase-item
+P_productor	productor	<rico:hasCreator> Agente responsable de la producción del documento (RiC-R027 has creator) (ISAD(G) 2.1 Productor)	wikibase-item
 P_lengua	lengua / idioma	<rico:hasOrHadLanguage> Conecta el recurso documental con su lengua o idioma de expresión (RiC-A25 Language)	wikibase-item
 P_fecha	fecha de creación	<rico:hasCreationDate> Fecha relacionada con la creación o expedición del elemento documental (RiC-R080i) (ISAD(G) 1.3 Fechas)	wikibase-item
 P_instanciacion_digital	instanciación digital	<rico:hasOrHadDigitalInstantiation> Conecta un recurso documental con su representación o archivo digital (RiC-R025)	wikibase-item

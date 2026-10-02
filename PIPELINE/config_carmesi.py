@@ -64,7 +64,7 @@ for _p in (PIPELINE_PATH, LOAD_FILES_PATH, EXTRACT_FILES_PATH, EXTRACT_FILES_FON
 # Nombre de la instancia de Wikibase Cloud (la parte antes de ".wikibase.cloud").
 # Cambiar aquí (o vía variable de entorno) basta para apuntar a otra instancia
 # de pruebas sin tocar ningún otro script.
-WIKIBASE_INSTANCE = os.environ.get("CARMESI_WIKIBASE_INSTANCE", "carmesi-test-15")
+WIKIBASE_INSTANCE = os.environ.get("CARMESI_WIKIBASE_INSTANCE", "carmesi-test-19")
 
 MEDIAWIKI_API_URL = f"https://{WIKIBASE_INSTANCE}.wikibase.cloud/w/api.php"
 SPARQL_ENDPOINT_URL = f"https://{WIKIBASE_INSTANCE}.wikibase.cloud/query/sparql"
@@ -77,7 +77,7 @@ USER_AGENT = "CarmesiWikibaseBot/1.0 (script_inyector_wbi)"
 #
 #   CARMESI_BOT_USER=admin
 #   CARMESI_BOT_PASSWORD=su_contraseña_aqui
-#   CARMESI_WIKIBASE_INSTANCE=carmesi-test-15
+#   CARMESI_WIKIBASE_INSTANCE=carmesi-test-19
 #
 # El fichero .env NO debe subirse nunca a un repositorio (añádalo a .gitignore).
 USUARIO_BOT = os.environ.get("CARMESI_BOT_USER")
