@@ -22,13 +22,18 @@ El perfil de aplicación resultante (ítems Q y propiedades P reales, con su cor
 
 ```
 WKBC_CARMESI_Project/
-├── PIPELINE/            # Scripts Python del pipeline, numerados por orden de ejecución
-├── ONTOLOGY/            # Diseño y documentación visual del modelo ontológico
-├── EXTRACT_FILES/        # Salida de la fase de extracción (raspado web), entrada del pipeline
-├── LOAD_FILES/           # Tablas de inyección y ficheros de control/idempotencia del pipeline
-├── TEMPLATES/            # Plantillas y páginas wiki publicadas en la instancia Wikibase
-└── OUTPUT_RDF/           # Dataset final exportado en RDF/Turtle
+├── PIPELINE/                  # Scripts Python del pipeline, numerados por orden de ejecución
+│   ├── EXTRACT_FILES/         # Salida de la fase de extracción (raspado web), entrada del pipeline
+│   │   └── EXTRACT_FONS/      # Una ficha JSON por fondo documental
+│   ├── LOAD_FILES/            # Tablas de inyección y ficheros de control/idempotencia del pipeline
+│   ├── requirements.txt       # Dependencias Python del pipeline
+│   └── .env.example           # Plantilla de configuración de credenciales e instancia
+├── ONTOLOGY/                  # Diseño y documentación visual del modelo ontológico
+├── TEMPLATES/                 # Plantillas y páginas wiki publicadas en la instancia Wikibase
+└── OUTPUT_RDF/                 # Dataset final exportado en RDF/Turtle
 ```
+
+> Las carpetas `EXTRACT_FILES/` y `LOAD_FILES/` residen dentro de `PIPELINE/` (y no en la raíz del repositorio), ya que los scripts anclan sus rutas al directorio de `config_carmesi.py` para que el proyecto sea autocontenido y portable sin tocar código.
 
 ### `PIPELINE/` — scripts del proceso, en orden de ejecución
 
@@ -53,13 +58,13 @@ WKBC_CARMESI_Project/
 - `Ontología y Perfil de Aplicación vTEST-19.gsheet` — tabla maestra del perfil de aplicación (crosswalk ISAD(G) → RiC-CM → Wikibase).
 - `ontologia+perfil_carmesi_v19.drawio` / `.pdf` — diagrama visual del modelo de entidades y relaciones.
 
-### `EXTRACT_FILES/` — entrada del pipeline
+### `PIPELINE/EXTRACT_FILES/` — entrada del pipeline
 
 - `cuadro_clasificacion_definitivo.json` — cuadro de clasificación completo extraído del repositorio original.
 - `documentos_nivel2.json` — índice de documentos de nivel 2.
 - `EXTRACT_FONS/FONDO_*.json` — una ficha por fondo documental, tal como se extrajo de la interfaz ISAD(G) original.
 
-### `LOAD_FILES/` — tablas de inyección y control
+### `PIPELINE/LOAD_FILES/` — tablas de inyección y control
 
 - `1_creacion_Q.tsv`, `2_creacion_P.tsv`, `3_declaraciones.tsv` — definición de la ontología a inyectar (ítems, propiedades y declaraciones entre ellas).
 - `mapa_ontologia_wikibase.json` — mapa resultante Código local → QID/PID real, generado tras la inyección.
@@ -112,7 +117,7 @@ CARMESI_BOT_PASSWORD=su_contraseña
 
 ### 3. Ejecutar los scripts en orden
 
-Cada script está numerado según el orden en que debe ejecutarse. Todos son idempotentes: pueden relanzarse sin duplicar lo ya creado, gracias a los ficheros de control de `LOAD_FILES/`.
+Cada script está numerado según el orden en que debe ejecutarse, y se invoca desde dentro de `PIPELINE/`. Todos son idempotentes: pueden relanzarse sin duplicar lo ya creado, gracias a los ficheros de control de `LOAD_FILES/` (ambas carpetas, `EXTRACT_FILES/` y `LOAD_FILES/`, se resuelven automáticamente como subcarpetas de `PIPELINE/`, sin necesidad de configuración adicional).
 
 ```bash
 python 000_publicar_plantillas.py
@@ -127,7 +132,7 @@ python 070_generar_fichas_documentos.py
 python 080_exportar_rdf_ttl.py
 ```
 
-> La fase de extracción (raspado web previo a `EXTRACT_FILES/`) no forma parte de este pipeline numerado: es específica del repositorio ISAD(G) de origen y no se considera reutilizable para otras fuentes.
+> La fase de extracción (raspado web previo a `PIPELINE/EXTRACT_FILES/`) no forma parte de este pipeline numerado: es específica del repositorio ISAD(G) de origen y no se considera reutilizable para otras fuentes.
 
 ## Documentación técnica completa
 
