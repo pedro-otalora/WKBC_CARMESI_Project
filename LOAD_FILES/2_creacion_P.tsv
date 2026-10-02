@@ -1,0 +1,32 @@
+id_local	label_es	desc_es	datatype
+P_instancia_de	instancia de	<rdf:type> Vincula la entidad con su clase estructural	wikibase-item
+P_subclase_de	subclase de	<rdfs:subClassOf> Relación taxonómica o de jerarquía entre clases	wikibase-item
+P_incluido_en	incluido en	<rico:isDirectlyIncludedIn> Conecta un registro o conjunto con la agrupación en la que está directamente contenido (RiC-R024i is or was included in)	wikibase-item
+P_tipo_agrupacion_doc	tipo de agrupación documental	<rico:hasRecordSetType> Conecta un conjunto de registros con el tipo que lo categoriza (RiC-A36) (ISAD(G) 1.4 Nivel de descripción)	wikibase-item
+P_equivalente_a	elemento externo equivalente	<owl:sameAs> URI o identificador de una entidad equivalente en un repositorio externo (Wikidata, BNE, VIAF, etc.)	external-id
+P_uri	URI RiC-O / RDFS / Schema	<rdfs:isDefinedBy> URI de la clase o propiedad en su ontología o esquema de vocabulario de origen (RiC-O, RDFS, Schema, etc.)	url
+P_codigo_ref	código de referencia	<rico:identifier> Código de referencia o signatura alfanumérica del registro (RiC-A22) (ISAD(G) 1.1 Código de referencia)	string
+P_id_origen	identificador de origen	<rico:identifier> Identificador único del elemento en la base de datos o sistema de origen (RiC-A22)	string
+P_titulo	título	<rico:title> Nombre identificativo o denominación de un recurso documental (RiC-A28 Name) (ISAD(G) 1.2 Título)	string
+P_alcance_contenido	alcance y contenido	<rico:scopeAndContent> Resumen del contenido, alcance y notas del documento o expediente (RiC-A38) (ISAD(G) 3.1 Alcance y contenido)	string
+P_condiciones_acceso	condiciones de acceso	<rico:conditionsOfAccess> Condiciones y circunstancias legales o físicas que afectan a la consulta del recurso (RiC-A08) (ISAD(G) 4.1 Condiciones de acceso)	string
+P_url_acceso	URL de acceso al recurso	<schema:url> Enlace directo al recurso digital o ficha en el repositorio originario	url
+P_lugar	lugar relacionado	<rico:isAssociatedWithPlace> Asocia un recurso documental o entidad con una ubicación geográfica (RiC-R074i)	wikibase-item
+P_materia	materia	<rico:hasOrHadSubject> Conecta un recurso de registro con una entidad, concepto o materia (RiC-R019)	wikibase-item
+P_persona	persona relacionada	<rico:hasOrHadSubject> Conecta el recurso documental con una persona que es o fue su materia (RiC-R019)	wikibase-item
+P_institucion	institución relacionada	<rico:hasOrHadSubject> Conecta el recurso documental con una institución que actúa como su materia o contexto (RiC-R019)	wikibase-item
+P_productor	productor	<rico:hasOrHadCreator> Agente responsable de la producción del documento (RiC-R027 has creator) (ISAD(G) 2.1 Productor)	wikibase-item
+P_lengua	lengua / idioma	<rico:hasOrHadLanguage> Conecta el recurso documental con su lengua o idioma de expresión (RiC-A25 Language)	wikibase-item
+P_fecha	fecha de creación	<rico:hasCreationDate> Fecha relacionada con la creación o expedición del elemento documental (RiC-R080i) (ISAD(G) 1.3 Fechas)	wikibase-item
+P_instanciacion_digital	instanciación digital	<rico:hasOrHadDigitalInstantiation> Conecta un recurso documental con su representación o archivo digital (RiC-R025)	wikibase-item
+P_instanciacion_fisica	instanciación física	<rico:hasOrHadAnalogueInstantiation> Conecta un recurso documental con su soporte o representación física original (RiC-R025 has or had instantiation)	wikibase-item
+P_volumen_soporte	extensión del soporte	<rico:carrierExtent> Número de unidades físicas, número de folios/páginas y/o dimensiones (RiC-A04) (ISAD(G) 1.5 Volumen y soporte de la unidad de descripción)	string
+P_estado_conservacion	estado de conservación	<rico:physicalCharacteristicsNote> Estado de conservación, características físicas, alteraciones o deterioro de la instancia (RiC-A31) (ISAD(G) 4.4 Características físicas y requisitos técnicos)	string
+P_mimetype	tipo MIME del recurso	<dcterms:format> Formato del archivo digital, ej. application/pdf	string
+P_tipo_escritura	tipo de escritura	<dcterms:type> Conecta la instanciación física con el concepto o estilo paleográfico de la grafía	wikibase-item
+P_fecha_expresada	expresión de fecha	<rico:expressedDate> Expresión literal o texto libre de la fecha tal como figura en la fuente (ISAD(G) 1.3 Fechas)	string
+P_fecha_inicio	fecha de inicio	<rico:beginningDate> Fecha o momento cronológico de inicio de un recurso, rango o evento (RiC-E18) (ISAD(G) 1.3 Fechas)	time
+P_fecha_final	fecha final	<rico:endDate> Fecha o momento cronológico de finalización de un recurso, rango o evento (RiC-E18) (ISAD(G) 1.3 Fechas)	time
+P_nota	nota	<rico:generalDescription> Breve declaración textual que proporciona detalles o aclaraciones específicas sobre el recurso, sin atributo RiC-CM propio para "nota" (RiC-A43 General Description) (ISAD(G) 6.1 Notas)	string
+P_fecha_agrupacion	fecha de creación de los miembros	<rico:hasOrHadAllMembersWithCreationDate> Rango cronológico extremo (inicio-fin) de todos los documentos miembro de un fondo/subfondo/serie, calculado a partir de sus fechas (RiC-CM 1.0: RiC-R081i)	wikibase-item
+P_lengua_agrupacion	lengua de los miembros	<rico:hasOrHadAllMembersWithLanguage> Lengua compartida por todos los documentos miembro de una agrupación, cuando es homogénea (sin código RiC-CM 1.0 propio; introducida en RiC-O 1.1)	wikibase-item

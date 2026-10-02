@@ -1,0 +1,59 @@
+{
+  "fondo": "ACC",
+  "total_registros": 1,
+  "registros": [
+    {
+      "id_documento": "5988",
+      "sigla_fondo": "ACC",
+      "nombre_fondo": "Archivo Convento Carmelitas Descalzos de Caravaca",
+      "signatura_nivel2": "",
+      "fecha_nivel2": "1626 / 2008",
+      "titulo_nivel2": "Libro del Estado del convento de Religiosos Descalzos de Nuestra Señora del Carmen de la Villa de Caravaca",
+      "serie_info": {
+        "archivo_id": "917",
+        "serie_id": "3922",
+        "nombre_serie": "Libros Becerros",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=917&series=3922&nombreSerie=Libros Becerros&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5988&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/25/18000/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Convento Carmelitas Descalzos de Caravaca (ACC)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=917&v=a"
+          },
+          {
+            "texto": "Libros Becerros",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3922&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "ACC",
+          "1.2 Título": "Libro del Estado del convento de Religiosos Descalzos de Nuestra Señora del Carmen de la Villa de Caravaca",
+          "1.3  Fecha(s)": "1626/2008.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel 307 x 209 mm",
+          "3.1 Alcance y contenido": "El libro se estructura en tres partes: La primera contiene las memorias de misas y otras obligaciones perpetuas que tiene este convento y sepulturas vendidas perpetuas. La segunda parte contiene los privilegios y breves de sumos pontífices, provisiones reales, escrituras y cartas de censos en favor de este convento. La tercera parte contiene los inventarios de sacristía, librería y otras oficinas del convento. Pero el contenido no se limita a esta estructura, recoge el libro de difuntos, el libro de oro  (o de visitas no canónigas), y el testimonio de hechos relevantes de la vida conventual, como la restauración de 1904 o las fiestas celebradas tras la canonización de San Juan de la Cruz.",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/25/18000/_index.djvu",
+        "url_transcripcion_global": "https://carmesi2.regmurcia.com/recursos/transcripciones/becerro.pdf",
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5988",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5988",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5988"
+        }
+      }
+    }
+  ]
+}

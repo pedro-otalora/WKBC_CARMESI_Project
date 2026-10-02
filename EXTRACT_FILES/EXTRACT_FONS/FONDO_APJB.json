@@ -1,0 +1,325 @@
+{
+  "fondo": "APJB",
+  "total_registros": 6,
+  "registros": [
+    {
+      "id_documento": "7991",
+      "sigla_fondo": "APJB",
+      "nombre_fondo": "Archivo personal Juan G. Soubrier y Belén Laguía",
+      "signatura_nivel2": "RECETARIOSPZ   ,06/01",
+      "fecha_nivel2": "1875",
+      "titulo_nivel2": "Recibo firmado por Luis Sandoval Mena como Mayordomo de la Ilustre Cofradía Nuestro Padre Jesús Nazareno por el coste de la cena para el paso de Semana Santa",
+      "serie_info": {
+        "archivo_id": "953",
+        "serie_id": "4133",
+        "nombre_serie": "Documentos personales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=953&series=4133&nombreSerie=Documentos personales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7991&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/32/24123/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo personal Juan G. Soubrier y Belén Laguía (APJB)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=953&v=a"
+          },
+          {
+            "texto": "Documentos personales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4133&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "APJB RECETARIOSPZ  ,06/01",
+          "1.2 Título": "Recibo firmado por Luis Sandoval Mena como Mayordomo de la Ilustre Cofradía Nuestro Padre Jesús Nazareno por el coste de la cena para el paso de Semana Santa",
+          "1.3  Fecha(s)": "1875.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "3.1 Alcance y contenido": "Contiene copia del gasto en la compra de los alimentos para el paso",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/32/24123/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7991",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7991",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7991"
+        }
+      }
+    },
+    {
+      "id_documento": "7988",
+      "sigla_fondo": "APJB",
+      "nombre_fondo": "Archivo personal Juan G. Soubrier y Belén Laguía",
+      "signatura_nivel2": "RECETARIOSPZ   ,03/01",
+      "fecha_nivel2": "c.1880",
+      "titulo_nivel2": "Copia del retrato de Pilar Zarandona",
+      "serie_info": {
+        "archivo_id": "953",
+        "serie_id": "4133",
+        "nombre_serie": "Documentos personales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=953&series=4133&nombreSerie=Documentos personales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7988&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/32/24127/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo personal Juan G. Soubrier y Belén Laguía (APJB)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=953&v=a"
+          },
+          {
+            "texto": "Documentos personales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4133&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "APJB RECETARIOSPZ  ,03/01",
+          "1.2 Título": "Copia del retrato de Pilar Zarandona",
+          "1.3  Fecha(s)": "c.1880. Murcia",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/32/24127/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7988",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7988",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7988"
+        }
+      }
+    },
+    {
+      "id_documento": "7993",
+      "sigla_fondo": "APJB",
+      "nombre_fondo": "Archivo personal Juan G. Soubrier y Belén Laguía",
+      "signatura_nivel2": "RECETARIOSPZ,   06",
+      "fecha_nivel2": "c.1880",
+      "titulo_nivel2": "Tarjeta de ofrecimiento de la nueva casa de Don Luis Sandoval de Mena y doña Pilar Zanadona",
+      "serie_info": {
+        "archivo_id": "953",
+        "serie_id": "4133",
+        "nombre_serie": "Documentos personales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=953&series=4133&nombreSerie=Documentos personales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7993&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/32/24122/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo personal Juan G. Soubrier y Belén Laguía (APJB)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=953&v=a"
+          },
+          {
+            "texto": "Documentos personales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4133&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "APJB RECETARIOSPZ,  06",
+          "1.2 Título": "Tarjeta de ofrecimiento de la nueva casa de Don Luis Sandoval de Mena y doña Pilar Zanadona",
+          "1.3  Fecha(s)": "c.1880.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Juan G. Soubrier y Belén Laguía",
+          "3.1 Alcance y contenido": "Recoge la dirección, en el Paseo Marqués de Corvera.",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/32/24122/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7993",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7993",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7993"
+        }
+      }
+    },
+    {
+      "id_documento": "7990",
+      "sigla_fondo": "APJB",
+      "nombre_fondo": "Archivo personal Juan G. Soubrier y Belén Laguía",
+      "signatura_nivel2": "RECETARIOSPZ   ,04",
+      "fecha_nivel2": "31-08-1889",
+      "titulo_nivel2": "Testamento de Belén Sandoval",
+      "serie_info": {
+        "archivo_id": "953",
+        "serie_id": "4133",
+        "nombre_serie": "Documentos personales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=953&series=4133&nombreSerie=Documentos personales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7990&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/32/24126/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo personal Juan G. Soubrier y Belén Laguía (APJB)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=953&v=a"
+          },
+          {
+            "texto": "Documentos personales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4133&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "APJB RECETARIOSPZ  ,04",
+          "1.2 Título": "Testamento de Belén Sandoval",
+          "1.3  Fecha(s)": "31-08-1889.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/32/24126/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7990",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7990",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7990"
+        }
+      }
+    },
+    {
+      "id_documento": "7985",
+      "sigla_fondo": "APJB",
+      "nombre_fondo": "Archivo personal Juan G. Soubrier y Belén Laguía",
+      "signatura_nivel2": "RECETARIOSBS,   02",
+      "fecha_nivel2": "1812 c. / 1899 c.",
+      "titulo_nivel2": "Recetarios de Belén Sandoval Melgarejo",
+      "serie_info": {
+        "archivo_id": "953",
+        "serie_id": "4135",
+        "nombre_serie": "Recetarios de Belén Sandoval Melgarejo ",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=953&series=4135&nombreSerie=Recetarios de Belén Sandoval Melgarejo &elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7985&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/32/24117/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo personal Juan G. Soubrier y Belén Laguía (APJB)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=953&v=a"
+          },
+          {
+            "texto": "Recetarios de Belén Sandoval Melgarejo",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4135&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "APJB RECETARIOSBS,  02",
+          "1.2 Título": "Recetarios de Belén Sandoval Melgarejo",
+          "1.3  Fecha(s)": "1812 c./1899 c.. Murcia",
+          "1.5 Volumen y soporte de la unidad de descripción": "70 páginas Papel 21 cm de largo por 15 cm de ancho",
+          "2.1 Nombre del o de los productor(es)": "Juan G. Soubrier y Belén Laguía",
+          "3.1 Alcance y contenido": "a) Reseña biográfica\nNacida en torno a 1812 en San Clemente, Albacete y fallecida alrededor de 1899. Tía de Pilar Zarandona y Sandoval (Recetario II).\nPertenecía a una familia representativa de la antigua nobleza murciana. Su padre Francisco de Paula Manuel Mª Sandoval y Togores había nacido en Murcia en 1775.  Maestrante de Ronda, Colegial del Real Seminario de Nobles de Madrid en 1787. Su madre Isabel Melgarejo y Sandoval nacida en San Clemente, Albacete.\nb) Contenido\nContiene 163 recetas numeradas con números ordinales individualmente cada receta hasta la 12, a partir de esa página deja solo el numero cardinal arriba a la derecha de cada página y entre paréntesis el número que tiene el recetario.\nEmpieza su recetario con Modo y recetas de hacer dulces de almíbar de varios géneros subrayando con dos líneas toda la página. Pasa a describir una veintena de fórmulas para hacer almibares con frutas: de rosa blanca, de pera verdenal, de agraz y calabaza, de guindas, de cerezas, de ciruelas, de melocotón, de higos, de limón majado y en cascos, de acerolas de membrillo, de cidra, de flores de borraja, de sandía \"madura y encarnada\", de melón.\nEl capítulo de las recetas de huevos es abundante y los encontramos escritos ortográficamente de todas las maneras posibles ya que las reglas gramaticales eran flexibles y así nos encontramos con Huevos hilados, Tocinos de cielo, \"güevos guinvos\" con tartas capuchinas, con huevos reales y Pasta flora, Hojaldre abizcochado, Picarotes, Tortas de mosto, Hojuelas y un sinfín de Tortas.\nNos detalla con una explicación muy completa de como hacer almíbar y dá una \"Regla general para clarificar el almíbar\" que distingue de miel o de azúcar.\nEntre sus peculiaridades encontramos la descripción de Las Empringadas y hace un dibujito ilustrando como debe ser la espiral.\nConfecciona Alajú o Alfajores, canutillos que envuelve en cañas y los llama Tirabuzones de buen gusto, Tortas de Pascua, Turrones, Crespillos dulces con matalahúva.\nDescribe una receta de adobo de cerdo de 20 @ escrito con esa abreviatura.\nEl capítulo salado es muy interesante y lo llama Guisos de gusto y aquí describe una cocina de recetas antiguas ya en su época como el Carnero verde, el Guisado de perdices con una onza rallada de chocolate en su interior, Guisado de anguilas en una salsa untuosa, Dulce de gallina pariente del Manjar blanco, nos cuenta como asar un \"pabo\" emborrachado con aguardiente, empanadas de carnes y de pescados o de vigilia y acaba con una Menestra hecha con sesos, perejil y hierbabuena y un Ajo Minchero con conejos, sin olvidar un Capón a la oliva y un cuajado de verenjenas.",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/32/24117/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7985",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7985",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7985"
+        }
+      }
+    },
+    {
+      "id_documento": "7986",
+      "sigla_fondo": "APJB",
+      "nombre_fondo": "Archivo personal Juan G. Soubrier y Belén Laguía",
+      "signatura_nivel2": "RECETARIOSPZ,   02",
+      "fecha_nivel2": "1880 c. / 1915",
+      "titulo_nivel2": "Recetarios de Pilar Zarandona Sanvoval",
+      "serie_info": {
+        "archivo_id": "953",
+        "serie_id": "4134",
+        "nombre_serie": "Recetarios de Pilar Zarandona Sandoval",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=953&series=4134&nombreSerie=Recetarios de Pilar Zarandona Sandoval&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7986&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/32/24118/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo personal Juan G. Soubrier y Belén Laguía (APJB)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=953&v=a"
+          },
+          {
+            "texto": "Recetarios de Pilar Zarandona Sandoval",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4134&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "APJB RECETARIOSPZ,  02",
+          "1.2 Título": "Recetarios de Pilar Zarandona Sanvoval",
+          "1.3  Fecha(s)": "1880 c./1915. Murcia",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel 22 cm de alto por 16,5 cm de ancho",
+          "2.1 Nombre del o de los productor(es)": "Juan G. Soubrier y Belén Laguía",
+          "3.1 Alcance y contenido": "a) Reseña biográfica\nPilar Zarandona y Sandoval 1832-1915. Pertenece a una de las familias representativas de la antigua nobleza murciana del siglo XIX y vinculada al arreglo y ornato de una serie de pasos de Salzillo. Casa con Luis Sandoval y Mena, sin hijos. Su padre Luis Zarandona Fontes (1810) y su madre Pilar Sandoval y Melgarejo (1815 c.). El abuelo de Pilar fue Don José Zarandona y Prieto, enterrado delante del paso de La Cena (Iglesia de Nuestro Padre Jesús). Su casa estaba en el Paseo de Marqués de Corvera (barrio del Carmen) y su padre Don Luis Zarandona vivía en Plaza de Cadenas nº 4\nb) Contenido:\nContiene 199 fórmulas o recetas por orden alfabético (en general) la mayoría dulces con un anexo final, como solían tener los recetarios, con fórmulas para quitar manchas o reparar cerámicas. Recoge una curiosa noticia del London Evenig Post vía Correo Español (1889) en relación con la mordedura de perro y la enfermedad correspondiente \"La rabia\".\nEn la primera página donde nos presenta Recetario por orden alfabético para uso de Pilar Zarandona se aprecian huellas de restos de haber usado papel celo para no perder algún trozo, en tiempos posteriores a su escritura y usado domesticamente. La restauradora Ana Jessen lo aseó y fortaleció las esquinas para su protección.\nLa edad que tenía Pilar podría haber sido de unos 60 años cuando empieza a transcribir recetas que realiza a menudo y que al ser dulces necesitan cantidades precisas.\nEncontraran desaparecida la letra B y tres páginas contiguas encontramos Buñuelos de leche, Buñuelos de viento, Rosquillas de azúcar en la misma página. Y en la siguiente encontramos algunas variantes más de rosquillas para pasar a describir los distintos bocadillos ya en el original.\nDescribe muy bien La garrapiñera con diferentes maneras de hacer sorbetes de 6 clases: de fresa, frambuesa, limón, naranja, uvas, rosas y quesos helados, Pan de España helado, puesto de moda por Isabel II.\nHace Ponches diversos a los que llama: de Damas, con ron, de yema, de café ... etc. Siendo \"Estado de Damas\", uno de los 13 \"oficios de boca\" que la reina Mª Cristina estableció en Palacio Real en Madrid y que cuidaba de proveer algunos caprichos para media tarde, un tentempié para recibir amistades ... Solo su \"Cocina de regalo\" funcionó para algunos soberanos a cargo de personas de confianza. Eran pequeños \"refrigerios\". Explicación que viene muy bien para situar el ambiente social en el que vive Pilar Zarandona.\nOtra receta muy completa es la que describe cómo hacer \"Pastillas de caldo\" a partir de mano de vaca ... y deshidratar en cajitas.\nHace \"jelatina\" de almendra, de naranja, con cola de pescado y de carne con mano de vaca.\nNombra por \"cuajados\" lo que son como flanes salados y dulces hechos en horno de campaña, menos uno, abuelo de los budines, los cocina en cazuela con brasas en la tapa y fuego abajo y los describe hechos con tocino, calabaza, papada, con huevos y sin ellos.\nUsa como técnica el Baño María para hacer cuajados dulces de naranja, chocolate, leche.\nHace empanadas y habla de \"Ojaldras\" describiendo como les da tres vueltas y el hojaldre con 5: de perdiz en hojaldre al horno y frito y también de ternera, de carne, de cordero. Espolvoreados con azúcar y canela.\nHace flanes de distintos sabores al baño María de: café, de yema, de leche, de naranja.\nHace dulces de frutas como: acerolas tomate, naranja, chirigaita, melocotón, cimboa, capuchina...\nHace sopa de té negro y Sopa de bizcochos de las Señoras Calatrava.\nUsa el \"garbanzo\" para hacer diferentes recetas como una que llama \"bocadillos\" que son como buñuelos pequeños y también hace tortadas con ellos, así como cuajados.\nHabla del Pan de regalo, de la Goma tragacanto para espesar, de la cochinilla para teñir un licor de rosas, hace un licor de Noyos huesos de albaricoque.\nExplica 7 maneras diferentes de hacer Tocino de cielo: con 18 yemas, o con 15, con almidón y con sémola en la base, con tocino a trozos, con leche condensada, con almendras, tocino y 6 huevos, unos al horno de campaña otros al baño María.\nVariadas recetas de rosquillas, libritos, mostachones, mojicones, 7 variantes de mantecados, mazapán, mostillos, monas,5 de Tinos, 9 tortadas que son como bizcochos con requesón, de almendra, de garbanzo, de tocino,14 tortas, de piñón, coliflor, calabaza...\nHace Pastillas de Bergamoto típicas de Semana santa\nHace Manjar blanco, pero sin gallina más parecido al actual con polvos de almidón, claras, azúcar glas, canela, raspaduras de limón.\nCroquetas dulces, conserva de membrillo, natillas de arroz, con almidón, leche frita.\nEl capítulo de los huevos también es abundante: se llaman moles si se cuajan las yemas en almíbar y sobre soletillas, rizados, o hilados con cascaron con agujerito, reales con almendra, chumbos, se cuajan las yemas y se bañan con almíbar, a la portuguesa con yemas y almíbar y rellena un cucurucho como hacen en Portugal.\nEn suma, este recetario manuscrito original nos permite entender una época a través de las expresiones que usa pilar para describir los procesos de sus elaboraciones.\nComprobaremos como en su época se escribía con abreviaturas las preposiciones. Que las reglas ortográficas eran flexibles y se escribía indistintamente con \"b\" y \"v\" huevos y la \"g\" y la \"j\" gelatinas, así como la \"h\" con y sin en harina.\nLas expresiones como \"Y se lleva al cura de la parroquia\" o \"entrando la harina\", o \"se lleva al horno\" nos introducen en ese modo coloquial que valoramos más cuando el documento tiene ya más de cien años y constituye una foto fija de la época.",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/32/24118/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7986",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7986",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7986"
+        }
+      }
+    }
+  ]
+}

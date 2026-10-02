@@ -1,0 +1,2745 @@
+{
+  "fondo": "AMFE",
+  "total_registros": 51,
+  "registros": [
+    {
+      "id_documento": "7901",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.01",
+      "fecha_nivel2": "1804",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7901&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24030/index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.01",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1804. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24030/index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7901",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7901",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7901"
+        }
+      }
+    },
+    {
+      "id_documento": "7902",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.02",
+      "fecha_nivel2": "1815",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7902&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24031/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.02",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1815. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24031/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7902",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7902",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7902"
+        }
+      }
+    },
+    {
+      "id_documento": "7903",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.03",
+      "fecha_nivel2": "1836",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7903&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24032/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.03",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1836. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24032/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7903",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7903",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7903"
+        }
+      }
+    },
+    {
+      "id_documento": "7904",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.04",
+      "fecha_nivel2": "1837",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7904&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24033/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.04",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1837. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24033/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7904",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7904",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7904"
+        }
+      }
+    },
+    {
+      "id_documento": "7905",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.05",
+      "fecha_nivel2": "1838",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7905&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24034/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.05",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1838. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24034/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7905",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7905",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7905"
+        }
+      }
+    },
+    {
+      "id_documento": "7906",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.06",
+      "fecha_nivel2": "1839",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7906&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24035/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.06",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1839. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24035/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7906",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7906",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7906"
+        }
+      }
+    },
+    {
+      "id_documento": "7907",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.07",
+      "fecha_nivel2": "1840",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7907&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24036/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.07",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1840. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24036/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7907",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7907",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7907"
+        }
+      }
+    },
+    {
+      "id_documento": "7908",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.08",
+      "fecha_nivel2": "1841",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7908&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24037/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.08",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1841. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24037/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7908",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7908",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7908"
+        }
+      }
+    },
+    {
+      "id_documento": "7909",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.09",
+      "fecha_nivel2": "1842",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7909&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24038/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.09",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1842. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24038/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7909",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7909",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7909"
+        }
+      }
+    },
+    {
+      "id_documento": "7910",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.10",
+      "fecha_nivel2": "1843",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7910&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24039/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.10",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1843. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24039/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7910",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7910",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7910"
+        }
+      }
+    },
+    {
+      "id_documento": "7911",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.11",
+      "fecha_nivel2": "1844",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7911&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24040/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.11",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1844. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24040/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7911",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7911",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7911"
+        }
+      }
+    },
+    {
+      "id_documento": "7912",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.12",
+      "fecha_nivel2": "1845",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7912&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24041/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.12",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1845. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24041/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7912",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7912",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7912"
+        }
+      }
+    },
+    {
+      "id_documento": "7913",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.13",
+      "fecha_nivel2": "1846",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7913&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24042/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.13",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1846. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24042/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7913",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7913",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7913"
+        }
+      }
+    },
+    {
+      "id_documento": "7914",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.14",
+      "fecha_nivel2": "1847",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7914&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24043/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.14",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1847. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24043/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7914",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7914",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7914"
+        }
+      }
+    },
+    {
+      "id_documento": "7915",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.15",
+      "fecha_nivel2": "1848",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7915&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24044/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.15",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1848. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24044/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7915",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7915",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7915"
+        }
+      }
+    },
+    {
+      "id_documento": "7916",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.16",
+      "fecha_nivel2": "1849",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7916&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24045/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.16",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1849. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24045/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7916",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7916",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7916"
+        }
+      }
+    },
+    {
+      "id_documento": "7917",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.17",
+      "fecha_nivel2": "1850",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7917&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24046/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.17",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1850. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24046/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7917",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7917",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7917"
+        }
+      }
+    },
+    {
+      "id_documento": "7918",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.18",
+      "fecha_nivel2": "1851",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7918&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24047/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.18",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1851. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24047/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7918",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7918",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7918"
+        }
+      }
+    },
+    {
+      "id_documento": "7919",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "28.19",
+      "fecha_nivel2": "1852",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7919&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24048/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 28.19",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1852. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24048/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7919",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7919",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7919"
+        }
+      }
+    },
+    {
+      "id_documento": "7920",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "29.01",
+      "fecha_nivel2": "1853",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7920&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24049/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 29.01",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1853. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24049/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7920",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7920",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7920"
+        }
+      }
+    },
+    {
+      "id_documento": "7921",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "29.02",
+      "fecha_nivel2": "1854",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7921&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24050/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 29.02",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1854. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24050/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7921",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7921",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7921"
+        }
+      }
+    },
+    {
+      "id_documento": "7922",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "29.03",
+      "fecha_nivel2": "1855",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7922&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24051/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 29.03",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1855. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24051/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7922",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7922",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7922"
+        }
+      }
+    },
+    {
+      "id_documento": "7923",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "29.04",
+      "fecha_nivel2": "1856",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7923&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24052/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 29.04",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1856. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24052/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7923",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7923",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7923"
+        }
+      }
+    },
+    {
+      "id_documento": "7924",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "29.05",
+      "fecha_nivel2": "1857",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7924&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24053/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 29.05",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1857. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24053/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7924",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7924",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7924"
+        }
+      }
+    },
+    {
+      "id_documento": "7925",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "29.06",
+      "fecha_nivel2": "1858",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7925&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24054/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 29.06",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1858. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24054/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7925",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7925",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7925"
+        }
+      }
+    },
+    {
+      "id_documento": "7926",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "29.07",
+      "fecha_nivel2": "1859",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7926&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24055/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 29.07",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1859. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24055/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7926",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7926",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7926"
+        }
+      }
+    },
+    {
+      "id_documento": "7927",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "29.08",
+      "fecha_nivel2": "1860",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7927&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24056/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 29.08",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1860. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24056/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7927",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7927",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7927"
+        }
+      }
+    },
+    {
+      "id_documento": "7928",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "29.09",
+      "fecha_nivel2": "1861",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7928&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24057/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 29.09",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1861. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24057/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7928",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7928",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7928"
+        }
+      }
+    },
+    {
+      "id_documento": "7929",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "29.10",
+      "fecha_nivel2": "1862",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7929&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/24058/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE 29.10",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1862. Fuenta Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Fuente Álamo",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/24058/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7929",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7929",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7929"
+        }
+      }
+    },
+    {
+      "id_documento": "8024",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "30.1",
+      "fecha_nivel2": "1865",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8024&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25022/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   30.1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1865. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25022/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8024",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8024",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8024"
+        }
+      }
+    },
+    {
+      "id_documento": "8025",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "30.2",
+      "fecha_nivel2": "1866",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8025&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25023/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   30.2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1866. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25023/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8025",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8025",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8025"
+        }
+      }
+    },
+    {
+      "id_documento": "8026",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "30.3",
+      "fecha_nivel2": "1867",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8026&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25024/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   30.3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1867. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25024/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8026",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8026",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8026"
+        }
+      }
+    },
+    {
+      "id_documento": "8027",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "30.4",
+      "fecha_nivel2": "1868",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8027&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25025/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   30.4",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1868. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25025/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8027",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8027",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8027"
+        }
+      }
+    },
+    {
+      "id_documento": "8028",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "30.5",
+      "fecha_nivel2": "1869",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8028&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25026/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   30.5",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1869. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25026/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8028",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8028",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8028"
+        }
+      }
+    },
+    {
+      "id_documento": "8029",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "30.6",
+      "fecha_nivel2": "1870",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8029&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25027/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   30.6",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1870. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25027/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8029",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8029",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8029"
+        }
+      }
+    },
+    {
+      "id_documento": "8030",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "30.7",
+      "fecha_nivel2": "30-01-1870 / 30-06-1871",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8030&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25028/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   30.7",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "30-01-1870/30-06-1871. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25028/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8030",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8030",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8030"
+        }
+      }
+    },
+    {
+      "id_documento": "8031",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "30.8",
+      "fecha_nivel2": "1871",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8031&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25029/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   30.8",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1871. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25029/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8031",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8031",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8031"
+        }
+      }
+    },
+    {
+      "id_documento": "8032",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "31.1",
+      "fecha_nivel2": "1872",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8032&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25030/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   31.1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1872. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25030/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8032",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8032",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8032"
+        }
+      }
+    },
+    {
+      "id_documento": "8033",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "31.2",
+      "fecha_nivel2": "1873",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8033&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25031/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   31.2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1873. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25031/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8033",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8033",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8033"
+        }
+      }
+    },
+    {
+      "id_documento": "8034",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "31.3",
+      "fecha_nivel2": "1874",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8034&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25032/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   31.3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1874. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25032/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8034",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8034",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8034"
+        }
+      }
+    },
+    {
+      "id_documento": "8035",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "31.4",
+      "fecha_nivel2": "1875",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8035&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25033/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   31.4",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1875. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25033/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8035",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8035",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8035"
+        }
+      }
+    },
+    {
+      "id_documento": "8036",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "31.5",
+      "fecha_nivel2": "1876",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8036&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25034/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   31.5",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1876. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25034/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8036",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8036",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8036"
+        }
+      }
+    },
+    {
+      "id_documento": "8037",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "31.6",
+      "fecha_nivel2": "1877",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8037&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25035/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   31.6",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1877. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25035/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8037",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8037",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8037"
+        }
+      }
+    },
+    {
+      "id_documento": "8038",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "31.7",
+      "fecha_nivel2": "1878",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8038&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25036/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   31.7",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1878. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25036/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8038",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8038",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8038"
+        }
+      }
+    },
+    {
+      "id_documento": "8039",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "32.1",
+      "fecha_nivel2": "1879",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8039&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25037/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   32.1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1879. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25037/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8039",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8039",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8039"
+        }
+      }
+    },
+    {
+      "id_documento": "8040",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "32.3",
+      "fecha_nivel2": "1881",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8040&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25038/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   32.3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1881. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25038/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8040",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8040",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8040"
+        }
+      }
+    },
+    {
+      "id_documento": "8041",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "32.4",
+      "fecha_nivel2": "1882",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8041&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25039/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   32.4",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1882. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25039/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8041",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8041",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8041"
+        }
+      }
+    },
+    {
+      "id_documento": "8042",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "32.5",
+      "fecha_nivel2": "1883",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8042&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25040/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   32.5",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1883. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25040/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8042",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8042",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8042"
+        }
+      }
+    },
+    {
+      "id_documento": "8043",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "32.6",
+      "fecha_nivel2": "1884",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8043&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25041/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   32.6",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1884. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25041/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8043",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8043",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8043"
+        }
+      }
+    },
+    {
+      "id_documento": "8044",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "32.7",
+      "fecha_nivel2": "1885",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8044&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25042/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   32.7",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1885. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25042/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8044",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8044",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8044"
+        }
+      }
+    },
+    {
+      "id_documento": "8045",
+      "sigla_fondo": "AMFE",
+      "nombre_fondo": "Archivo Municipal de Fuente Álamo",
+      "signatura_nivel2": "33.1",
+      "fecha_nivel2": "1886",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "946",
+        "serie_id": "4089",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8045&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/31/25043/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Fuente Álamo (AMFE)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=946&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4089&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMFE   33.1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1886. Fuente Álamo",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/31/25043/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8045",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8045",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8045"
+        }
+      }
+    }
+  ]
+}

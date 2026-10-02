@@ -1,0 +1,1882 @@
+{
+  "fondo": "AMMOR",
+  "total_registros": 28,
+  "registros": [
+    {
+      "id_documento": "7935",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 2 Caja 1",
+      "fecha_nivel2": "1800 / 1807",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7935&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24064/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 2 Caja 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1800/1807. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24064/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7935",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7935",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7935"
+        }
+      }
+    },
+    {
+      "id_documento": "7936",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 2 Caja 2",
+      "fecha_nivel2": "1859 / 1861",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7936&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24065/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 2 Caja 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1859/1861. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24065/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7936",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7936",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7936"
+        }
+      }
+    },
+    {
+      "id_documento": "7937",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 3 Caja 1",
+      "fecha_nivel2": "1862 / 1864",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7937&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24066/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 3 Caja 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1862/1864. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24066/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7937",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7937",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7937"
+        }
+      }
+    },
+    {
+      "id_documento": "7938",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 3 Caja 2",
+      "fecha_nivel2": "1865 / 1868",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7938&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24067/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 3 Caja 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1865/1868. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24067/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7938",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7938",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7938"
+        }
+      }
+    },
+    {
+      "id_documento": "7939",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 4 Caja 1",
+      "fecha_nivel2": "1869 / 1871",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7939&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24068/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 4 Caja 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1869/1871. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24068/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7939",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7939",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7939"
+        }
+      }
+    },
+    {
+      "id_documento": "7940",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 4 Caja 2",
+      "fecha_nivel2": "1872",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7940&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24069/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 4 Caja 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1872. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24069/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7940",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7940",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7940"
+        }
+      }
+    },
+    {
+      "id_documento": "7941",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 4 Caja 3",
+      "fecha_nivel2": "1876",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7941&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24070/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 4 Caja 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1876. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24070/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7941",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7941",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7941"
+        }
+      }
+    },
+    {
+      "id_documento": "7942",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 5 Caja 1",
+      "fecha_nivel2": "1877",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7942&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24071/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 5 Caja 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1877. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24071/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7942",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7942",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7942"
+        }
+      }
+    },
+    {
+      "id_documento": "7943",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 5 Caja 2",
+      "fecha_nivel2": "1878",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7943&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24072/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 5 Caja 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1878. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24072/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7943",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7943",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7943"
+        }
+      }
+    },
+    {
+      "id_documento": "7944",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 5 Caja 3",
+      "fecha_nivel2": "1879",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7944&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24073/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 5 Caja 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1879. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24073/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7944",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7944",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7944"
+        }
+      }
+    },
+    {
+      "id_documento": "7946",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 5 Caja 5",
+      "fecha_nivel2": "1880",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7946&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24075/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 5 Caja 5",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1880. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24075/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7946",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7946",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7946"
+        }
+      }
+    },
+    {
+      "id_documento": "7947",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 5 Caja 6",
+      "fecha_nivel2": "1881",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7947&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24076/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 5 Caja 6",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1881. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24076/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7947",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7947",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7947"
+        }
+      }
+    },
+    {
+      "id_documento": "7948",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 6 Caja 1",
+      "fecha_nivel2": "1881 / 1882",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7948&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24077/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 6 Caja 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1881/1882. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24077/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7948",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7948",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7948"
+        }
+      }
+    },
+    {
+      "id_documento": "7945",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 5 Caja 4",
+      "fecha_nivel2": "1879 / 1883",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7945&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24074/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 5 Caja 4",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1879/1883. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24074/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7945",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7945",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7945"
+        }
+      }
+    },
+    {
+      "id_documento": "7949",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 6 Caja 2",
+      "fecha_nivel2": "1882 / 1883",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7949&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24078/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 6 Caja 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1882/1883. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24078/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7949",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7949",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7949"
+        }
+      }
+    },
+    {
+      "id_documento": "7950",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 6 Caja 3",
+      "fecha_nivel2": "1883 / 1884",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7950&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24079/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 6 Caja 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1883/1884. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24079/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7950",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7950",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7950"
+        }
+      }
+    },
+    {
+      "id_documento": "7951",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 6 Caja 4",
+      "fecha_nivel2": "1884 / 1886",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7951&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24080/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 6 Caja 4",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1884/1886. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24080/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7951",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7951",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7951"
+        }
+      }
+    },
+    {
+      "id_documento": "7953",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 7 Caja 1",
+      "fecha_nivel2": "1886 / 1888",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7953&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24082/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 7 Caja 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1886/1888. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24082/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7953",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7953",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7953"
+        }
+      }
+    },
+    {
+      "id_documento": "7954",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 7 Caja 2",
+      "fecha_nivel2": "1889 / 1889",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7954&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24083/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 7 Caja 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1889/1889. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24083/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7954",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7954",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7954"
+        }
+      }
+    },
+    {
+      "id_documento": "7955",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 7 Caja 3",
+      "fecha_nivel2": "1890 / 1892",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7955&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24084/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 7 Caja 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1890/1892. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24084/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7955",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7955",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7955"
+        }
+      }
+    },
+    {
+      "id_documento": "7956",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 7 Caja 4",
+      "fecha_nivel2": "1892 / 1894",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7956&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24085/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 7 Caja 4",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1892/1894. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24085/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7956",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7956",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7956"
+        }
+      }
+    },
+    {
+      "id_documento": "7957",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 7 Caja 5",
+      "fecha_nivel2": "1893 / 1896",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7957&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24085/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 7 Caja 5",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1893/1896. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24085/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7957",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7957",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7957"
+        }
+      }
+    },
+    {
+      "id_documento": "7952",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 6 Caja 5",
+      "fecha_nivel2": "1884 / 1897",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7952&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24081/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 6 Caja 5",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1884/1897. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24081/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7952",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7952",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7952"
+        }
+      }
+    },
+    {
+      "id_documento": "7960",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 9 Caja 1",
+      "fecha_nivel2": "1897",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7960&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24068/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 9 Caja 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1897. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24068/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7960",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7960",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7960"
+        }
+      }
+    },
+    {
+      "id_documento": "7958",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 8 Caja 1",
+      "fecha_nivel2": "1898",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7958&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24066/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 8 Caja 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1898. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24066/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7958",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7958",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7958"
+        }
+      }
+    },
+    {
+      "id_documento": "7959",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "Sec 1 Leg 8 Caja 2",
+      "fecha_nivel2": "1899",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "4090",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7959&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/24067/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4090&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR Sec 1 Leg 8 Caja 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1899. Moratalla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Fundación Integra"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/24067/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7959",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7959",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7959"
+        }
+      }
+    },
+    {
+      "id_documento": "1073",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "UCLÉS",
+      "fecha_nivel2": "1440-11-08",
+      "titulo_nivel2": "Carta de confirmación del infante Enrique de todos los privilegios y franquezas concedidos por los anteriores maestres de la Orden de Santiago a Moratalla.",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "3303",
+        "nombre_serie": "Cartas de confirmación de privilegios",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=3303&nombreSerie=Cartas de confirmación de privilegios&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=1073&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/2688/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Cartas de confirmación de privilegios",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3303&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR UCLÉS",
+          "1.2 Título": "Carta de confirmación del infante Enrique de todos los privilegios y franquezas concedidos por los anteriores maestres de la Orden de Santiago a Moratalla.",
+          "1.3  Fecha(s)": "1440-11-08. Uclés",
+          "1.4 Nivel de descripción": "Unidad Documental",
+          "1.5 Volumen y soporte de la unidad de descripción": "Pergamino 510 x 670  mm.",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "3.1 Alcance y contenido": "El infante Enrique, maestre de Santiago, confirma todos los privilegios y franquezas otorgados por los anteriores maestres a Moratalla. Inserta varios documentos:- Confirmación de privilegios del maestre Lorenzo Suárez de Figueroa (1429-5-20. Segovia).- Confirmación de privilegios del maestre Pedro Fernández Cabeza de Vaca (1383-8-27. Jerez). - Confirmación de privilegios del maestre Fernando Ozores (1371-7-31. Ocaña).- Confirmación de privilegios del maestre García Álvarez (1362-1-9. Écija).- Confirmación de privilegios del maestre don Fadrique (1344-12-30. Santa Cruz).- Confirmación de privilegios del maestre Alfonso Méndez (1329-11-5. Úbeda).- Carta del maestre Vasco Rodríguez, otorgando a Moratalla el fuero de Cuenca, eximiendo del pago del portazgo y ordenando pagar al comendados el diezmo del aceite y 9 arrobas de pez (1331-3-13. Mérida).- Confirmación de privilegios del maestre Juan Ozores (1295-8-30. Alcalá). - Confirmación de privilegios del maestre Juan Ozores (1293-9-10. Montiel).",
+          "4.1 Condiciones de acceso": "Acceso restringido",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCortesana",
+          "4.4 Características físicas y requisitos técnicos": "Mala",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESÍ",
+          "5.4 Nota de publicaciones": "Pub (en parte).  RODRÍGUEZ LLOPIS, MIGUEL. Documentos para la historia medieval de Moratalla. Academia Alfonso X el Sabio: 1988. pp. 67-68 y pp. 70-71"
+        },
+        "puntos_acceso": {
+          "personas": [
+            {
+              "nombre": "Alfonso, Diego. Prior de San Marcos de León",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2711&v=a"
+            },
+            {
+              "nombre": "Díaz, Alfonso. Prior de Uclés",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2719&v=a"
+            },
+            {
+              "nombre": "Enrique, infante de Aragón. Maestre de Santiago. Véade además Enrique, Infante de Aragón",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=901&v=a"
+            },
+            {
+              "nombre": "Estúñiga, Lope de. Comendador de Guadalcanal",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2707&v=a"
+            },
+            {
+              "nombre": "Fadrique. Maestre de la Orden de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2668&v=a"
+            },
+            {
+              "nombre": "Fernández Cabeza de Vaca, Pedro. Maestre de la Orden de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=176&v=a"
+            },
+            {
+              "nombre": "Fernández de Híjar, Pedro. Comendador de Montalbán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2705&v=a"
+            },
+            {
+              "nombre": "Fernández, Alfonso. Prior de Montalbán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2718&v=a"
+            },
+            {
+              "nombre": "Fernández, García. Comendador Mayor de Castilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2723&v=a"
+            },
+            {
+              "nombre": "Fernández, Gómez. Comendador de Montemolín",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2715&v=a"
+            },
+            {
+              "nombre": "Fernández, Juan. Escribano del Maestre de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2726&v=a"
+            },
+            {
+              "nombre": "García Pardo, Diego. Comendador de Villafranca",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2696&v=a"
+            },
+            {
+              "nombre": "González Moniz, Fernando. Comendador de Uclés",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2714&v=a"
+            },
+            {
+              "nombre": "González, Alfonso. Escribano del Maestre de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2724&v=a"
+            },
+            {
+              "nombre": "González, García. Comendador de Mérida",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2729&v=a"
+            },
+            {
+              "nombre": "González, Juan. Comendador de Montiel",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2701&v=a"
+            },
+            {
+              "nombre": "Gutiérrez, Juan. Comendador de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2713&v=a"
+            },
+            {
+              "nombre": "Gómez. Comendador de Guadalcanal",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2717&v=a"
+            },
+            {
+              "nombre": "Heredia, García de. Comendador de Ricote",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2316&v=a"
+            },
+            {
+              "nombre": "López de Cárdenas, García. Comendador de Caravaca",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2710&v=a"
+            },
+            {
+              "nombre": "Manrique, Gabriel. Comendador Mayor de Castilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2709&v=a"
+            },
+            {
+              "nombre": "Manrique, Rodrigo. Comendador de Segura",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2699&v=a"
+            },
+            {
+              "nombre": "Martínez de Céspedes, Gutierre",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2702&v=a"
+            },
+            {
+              "nombre": "Martínez, Gabriel. Comendador mayor del Castilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2704&v=a"
+            },
+            {
+              "nombre": "Martínez, Ruy. Escribano del maestre de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2728&v=a"
+            },
+            {
+              "nombre": "Mejía, Gonzalo. Comendador de Segura",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2706&v=a"
+            },
+            {
+              "nombre": "Mejía, Gómez. Comendador de Jerez",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2721&v=a"
+            },
+            {
+              "nombre": "Moniz, Ruy. Comendador de Utrera",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2731&v=a"
+            },
+            {
+              "nombre": "Muñoz de Prado, Juan. Comendador de La Presa",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2727&v=a"
+            },
+            {
+              "nombre": "Méndez, Alfonso. Maestre de la Orden de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2732&v=a"
+            },
+            {
+              "nombre": "Orozco, Álvaro de. Caballero de la Orden de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2722&v=a"
+            },
+            {
+              "nombre": "Ozores, Fernando. Maestre de la Orden de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2667&v=a"
+            },
+            {
+              "nombre": "Ozores, Juan. Maestre de la Orden de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2698&v=a"
+            },
+            {
+              "nombre": "Pantoja, Martín. comendador de Corrales",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2716&v=a"
+            },
+            {
+              "nombre": "Rodríguez, Vasco. Maestre de la Orden de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2730&v=a"
+            },
+            {
+              "nombre": "Suárez Mejía, Lope. Comendador de Beas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2712&v=a"
+            },
+            {
+              "nombre": "Suárez de Figueroa, Lorenzo. Maestre de la Orden de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2664&v=a"
+            },
+            {
+              "nombre": "Sánchez, Fernando. Escribano del maestre de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2671&v=a"
+            },
+            {
+              "nombre": "Vázquez de Parada, Fernando. Comendador de Santa Cruz",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2725&v=a"
+            },
+            {
+              "nombre": "Yáñez de Godoy, Gonzalo. Comendador de Ocaña",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2720&v=a"
+            },
+            {
+              "nombre": "Álvarez de Mesa, Diego. Comendador de Caravaca",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2700&v=a"
+            },
+            {
+              "nombre": "Álvarez, Diego. Comendador de Estepa",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2708&v=a"
+            },
+            {
+              "nombre": "Álvarez, García. Maestre de la Orden de Santiago",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2697&v=a"
+            },
+            {
+              "nombre": "Álvarez, Lope. Comendador Mayor de León",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2703&v=a"
+            }
+          ],
+          "instituciones": [
+            {
+              "nombre": "Moratalla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=92&v=a"
+            },
+            {
+              "nombre": "Santiago, Orden militar de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=31&v=a"
+            }
+          ],
+          "materias": [
+            {
+              "nombre": "Aceite",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=372&v=a"
+            },
+            {
+              "nombre": "Franquezas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=84&v=a"
+            },
+            {
+              "nombre": "Impuestos reales. Diezmos",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=102&v=a"
+            },
+            {
+              "nombre": "Impuestos. Portazgo",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=527&v=a"
+            },
+            {
+              "nombre": "Pez",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=532&v=a"
+            },
+            {
+              "nombre": "Privilegios",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=105&v=a"
+            },
+            {
+              "nombre": "Privilegios, confirmación de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=202&v=a"
+            },
+            {
+              "nombre": "Santiago, Orden militar de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=242&v=a"
+            }
+          ],
+          "lugares": [
+            {
+              "nombre": "Jerez de la Frontera",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=110&v=a"
+            },
+            {
+              "nombre": "Moratalla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=270&v=a"
+            },
+            {
+              "nombre": "Mérida",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=360&v=a"
+            },
+            {
+              "nombre": "Ocaña",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=101&v=a"
+            },
+            {
+              "nombre": "Santa Cruz de la Zurza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=361&v=a"
+            },
+            {
+              "nombre": "Segovia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=54&v=a"
+            },
+            {
+              "nombre": "Segura de la Sierra",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=362&v=a"
+            },
+            {
+              "nombre": "Uclés",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=363&v=a"
+            },
+            {
+              "nombre": "Écija",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=118&v=a"
+            },
+            {
+              "nombre": "Úbeda",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=125&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/2688/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.1073",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.1073",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.1073"
+        }
+      }
+    },
+    {
+      "id_documento": "1072",
+      "sigla_fondo": "AMMOR",
+      "nombre_fondo": "Archivo Municipal de Moratalla",
+      "signatura_nivel2": "SF (C_1427)",
+      "fecha_nivel2": "1427-04-10",
+      "titulo_nivel2": "Ordenanza de riegos de Moratalla otorgada por los visitadores de la Orden de Santiago.",
+      "serie_info": {
+        "archivo_id": "819",
+        "serie_id": "3302",
+        "nombre_serie": "Ordenanzas",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=3302&nombreSerie=Ordenanzas&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=1072&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/07/2687/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Moratalla (AMMOR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=819&v=a"
+          },
+          {
+            "texto": "Ordenanzas",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3302&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMMOR SF (C_1427)",
+          "1.2 Título": "Ordenanza de riegos de Moratalla otorgada por los visitadores de la Orden de Santiago.",
+          "1.3  Fecha(s)": "1427-04-10. Moratalla",
+          "1.4 Nivel de descripción": "Unidad Documental",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Moratalla",
+          "3.1 Alcance y contenido": "Los visitadores de la Orden de Santiago presentan ante el concejo de Moratalla una ordenanza acerca de la forma en que deben regarse los cultivos de cereales de esa población, con las aguas del río Alhárabe.",
+          "4.1 Condiciones de acceso": "Acceso restringido",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCortesana",
+          "4.4 Características físicas y requisitos técnicos": "Mala",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESÍ",
+          "5.4 Nota de publicaciones": "Documento incompleto. Pub. RODRÍGUEZ LLOPIS, MIGUEL. Documentos para la historia medieval de Moratalla. Academia Alfonso X el Sabio: 1988. pp. 87-88"
+        },
+        "puntos_acceso": {
+          "personas": [
+            {
+              "nombre": "Clemente, Pedro. Alcalde ordinario de Moratalla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2692&v=a"
+            },
+            {
+              "nombre": "Duárrez, Pedro. Comendador de Moratalla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2693&v=a"
+            },
+            {
+              "nombre": "Díez, Alfonso. Regidor de Moratalla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2695&v=a"
+            },
+            {
+              "nombre": "García, Lope. Vecino de Moratalla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2694&v=a"
+            },
+            {
+              "nombre": "González, Ruy. Alcalde ordinario de Moratalla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2688&v=a"
+            },
+            {
+              "nombre": "Luna, Alvaro de. Condestable de Castilla. Conde de San Esteban.",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=365&v=a"
+            },
+            {
+              "nombre": "López, Diego. Regidor de Moratalla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2689&v=a"
+            },
+            {
+              "nombre": "López, Pedro. Regidor de Moratalla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2690&v=a"
+            },
+            {
+              "nombre": "Martínez, Fernando. Vecino de Moratalla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2691&v=a"
+            }
+          ],
+          "instituciones": [
+            {
+              "nombre": "Moratalla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=92&v=a"
+            },
+            {
+              "nombre": "Santiago, Orden militar de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=31&v=a"
+            }
+          ],
+          "materias": [
+            {
+              "nombre": "Cereales",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=281&v=a"
+            },
+            {
+              "nombre": "Regadío",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=206&v=a"
+            },
+            {
+              "nombre": "Río",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=274&v=a"
+            }
+          ],
+          "lugares": [
+            {
+              "nombre": "Moratalla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=270&v=a"
+            },
+            {
+              "nombre": "Moratalla. Río Alhárabe",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=359&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/07/2687/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.1072",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.1072",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.1072"
+        }
+      }
+    }
+  ]
+}

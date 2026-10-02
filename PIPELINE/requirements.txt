@@ -1,0 +1,2 @@
+wikibaseintegrator
+python-dotenv

@@ -1,0 +1,3136 @@
+{
+  "fondo": "AMJU",
+  "total_registros": 49,
+  "registros": [
+    {
+      "id_documento": "6443",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-242-00",
+      "fecha_nivel2": "1550-09",
+      "titulo_nivel2": "Acuerdo del concejo de la villa de Jumilla y testimonios presentados ante el mismo sobre la escasez de pan",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3969",
+        "nombre_serie": "Abastos",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3969&nombreSerie=Abastos&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6443&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18099/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Abastos",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3969&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-242-00",
+          "1.2 Título": "Acuerdo del concejo de la villa de Jumilla y testimonios presentados ante el mismo sobre la escasez de pan",
+          "1.3  Fecha(s)": "28. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Simple",
+          "1.5 Volumen y soporte de la unidad de descripción": "6 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18099/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6443",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6443",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6443"
+        }
+      }
+    },
+    {
+      "id_documento": "2584",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "1521-1528",
+      "fecha_nivel2": "1522-02-17/1528-03-10",
+      "titulo_nivel2": "Libro de Actas Capitulares.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=2584&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/5583/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU 1521-1528",
+          "1.2 Título": "Libro de Actas Capitulares.",
+          "1.3  Fecha(s)": "1522-02-17/1528-03-10. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "221 fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.1 Condiciones de acceso": "Acceso restringido",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHíbrida",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.1 Localización de originales": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Jumilla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=61&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/5583/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.2584",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.2584",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.2584"
+        }
+      }
+    },
+    {
+      "id_documento": "2585",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "1537-1548",
+      "fecha_nivel2": "1536-10-10/1548-07-22",
+      "titulo_nivel2": "Libro de Actas Capitulares.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=2585&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/5584/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU 1537-1548",
+          "1.2 Título": "Libro de Actas Capitulares.",
+          "1.3  Fecha(s)": "1536-10-10/1548-07-22. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "445 fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.1 Condiciones de acceso": "Acceso restringido",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHíbrida",
+          "4.4 Características físicas y requisitos técnicos": "Regular"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Jumilla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=61&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/5584/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.2585",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.2585",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.2585"
+        }
+      }
+    },
+    {
+      "id_documento": "2579",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "1518-1560",
+      "fecha_nivel2": "1548-07-30/1559-08-20",
+      "titulo_nivel2": "Libro de Actas Capitulares.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=2579&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/5582/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU 1518-1560",
+          "1.2 Título": "Libro de Actas Capitulares.",
+          "1.3  Fecha(s)": "1548-07-30/1559-08-20. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "556 fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.1 Condiciones de acceso": "Acceso restringido",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHíbrida",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Jumilla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=61&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/5582/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.2579",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.2579",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.2579"
+        }
+      }
+    },
+    {
+      "id_documento": "2586",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "1580-1590",
+      "fecha_nivel2": "1580-11-06/1590-12-29",
+      "titulo_nivel2": "Libro de Actas Capitulares.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=2586&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/5585/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU 1580-1590",
+          "1.2 Título": "Libro de Actas Capitulares.",
+          "1.3  Fecha(s)": "1580-11-06/1590-12-29. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "543 fols. Pergamino",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.1 Condiciones de acceso": "Acceso restringido",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHíbrida",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Jumilla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=61&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/5585/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.2586",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.2586",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.2586"
+        }
+      }
+    },
+    {
+      "id_documento": "3471",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "V",
+      "fecha_nivel2": "1609-01-18 / 1627-09-22",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3471&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/10116/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU V",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1609-01-18/1627-09-22. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "442 Fols Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHíbrida\r\n\t\t\t\t,\r\nProcesal",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "6.1 Notas": "Mala encuadernación"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Jumilla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=61&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/10116/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3471",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3471",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3471"
+        }
+      }
+    },
+    {
+      "id_documento": "3472",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "VI",
+      "fecha_nivel2": "1627-09-23 / 1647-12-31",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3472&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/10117/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU VI",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1627-09-23/1647-12-31. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "531 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda\r\n\t\t\t\t,\r\nHíbrida\r\n\t\t\t\t,\r\nProcesal",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Jumilla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=61&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/10117/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3472",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3472",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3472"
+        }
+      }
+    },
+    {
+      "id_documento": "3473",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "VII",
+      "fecha_nivel2": "1648-02-03 / 1676-03-29",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3473&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/10118/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU VII",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1648-02-03/1676-03-29. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "517 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Jumilla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=61&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/10118/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3473",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3473",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3473"
+        }
+      }
+    },
+    {
+      "id_documento": "3474",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "VIII",
+      "fecha_nivel2": "1676-06-03 / 1689-08-27",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3474&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/10119/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU VIII",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1676-06-03/1689-08-27. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "309 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Jumilla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=61&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/10119/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3474",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3474",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3474"
+        }
+      }
+    },
+    {
+      "id_documento": "5188",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "",
+      "fecha_nivel2": "1691-01-26 / 1704-11-28",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5188&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/15119/index.djv",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1691-01-26/1704-11-28.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "806 p. Papel 32.4 x 22.5 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/15119/index.djv",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5188",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5188",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5188"
+        }
+      }
+    },
+    {
+      "id_documento": "3475",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "IX",
+      "fecha_nivel2": "1690-01-29 / 1705-12-12",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3475&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/10120/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU IX",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1690-01-29/1705-12-12. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "397 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Mala",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Jumilla, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=61&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/10120/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3475",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3475",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3475"
+        }
+      }
+    },
+    {
+      "id_documento": "5189",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "",
+      "fecha_nivel2": "1722-01-01 / 1730-10-02",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5189&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/15120/index.djv",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1722-01-01/1730-10-02.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "592 p. Papel 32,4 x 22",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/15120/index.djv",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5189",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5189",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5189"
+        }
+      }
+    },
+    {
+      "id_documento": "5190",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "",
+      "fecha_nivel2": "1739-06-10 / 1741-12-31",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5190&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/15121/index.djv",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1739-06-10/1741-12-31.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "31,5 x 22 cm Papel 732 p.",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/15121/index.djv",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5190",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5190",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5190"
+        }
+      }
+    },
+    {
+      "id_documento": "5191",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "",
+      "fecha_nivel2": "1741-06-02 / 1746-01-03",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5191&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/15122/index.djv",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1741-06-02/1746-01-03.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "818 p. Papel 32,5 x 23 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/15122/index.djv",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5191",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5191",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5191"
+        }
+      }
+    },
+    {
+      "id_documento": "5192",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "",
+      "fecha_nivel2": "1746-01-05 / 1751-12-24",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5192&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/15123/index.djv",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1746-01-05/1751-12-24.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "701 p. Papel 31,8 x 23 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/15123/index.djv",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5192",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5192",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5192"
+        }
+      }
+    },
+    {
+      "id_documento": "5193",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "",
+      "fecha_nivel2": "1751-12-30 / 1759-10-17",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5193&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/15124/index.djv",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1751-12-30/1759-10-17.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "888 p. Papel 32,4 x 22,5 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/15124/index.djv",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5193",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5193",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5193"
+        }
+      }
+    },
+    {
+      "id_documento": "5808",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XV",
+      "fecha_nivel2": "1760-07-02 / 1764-12-08",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5808&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/16166/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XV",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1760-07-02/1764-12-08. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "859 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/16166/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5808",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5808",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5808"
+        }
+      }
+    },
+    {
+      "id_documento": "5809",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XVI",
+      "fecha_nivel2": "1767-01-01 / 1766-12-30",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5809&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/16167/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XVI",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1767-01-01/1766-12-30. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "672 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/16167/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5809",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5809",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5809"
+        }
+      }
+    },
+    {
+      "id_documento": "5810",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XVII",
+      "fecha_nivel2": "1769-11-11 / 1774-12-31",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5810&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/16168/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XVII",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1769-11-11/1774-12-31. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "719 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/16168/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5810",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5810",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5810"
+        }
+      }
+    },
+    {
+      "id_documento": "5811",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XVIII",
+      "fecha_nivel2": "1776-05-06 / 1789-12-24",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5811&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/16169/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XVIII",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1776-05-06/1789-12-24. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "750 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/16169/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5811",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5811",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5811"
+        }
+      }
+    },
+    {
+      "id_documento": "5812",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XIX",
+      "fecha_nivel2": "1789-12-01 / 1798-12-24",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5812&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/16170/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XIX",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1789-12-01/1798-12-24. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "743 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/16170/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5812",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5812",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5812"
+        }
+      }
+    },
+    {
+      "id_documento": "5813",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XX",
+      "fecha_nivel2": "1799-01-01 / 1804-12-15",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5813&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/16171/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XX",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1799-01-01/1804-12-15. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "685 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=132&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/16171/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5813",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5813",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5813"
+        }
+      }
+    },
+    {
+      "id_documento": "7795",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Caja 57   1805-1807",
+      "fecha_nivel2": "1805 / 1807",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7795&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/23095/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Caja 57  1805-1807",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1805/1807. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/23095/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7795",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7795",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7795"
+        }
+      }
+    },
+    {
+      "id_documento": "7796",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Caja 57   1814-1817",
+      "fecha_nivel2": "1814 / 1817",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7796&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/23096/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Caja 57  1814-1817",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1814/1817. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/23096/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7796",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7796",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7796"
+        }
+      }
+    },
+    {
+      "id_documento": "7797",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XXII",
+      "fecha_nivel2": "1817 / 1820",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7797&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/23096/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XXII",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1817/1820. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/23096/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7797",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7797",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7797"
+        }
+      }
+    },
+    {
+      "id_documento": "7798",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XXIII",
+      "fecha_nivel2": "1821 / 1825",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7798&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/23098/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XXIII",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1821/1825. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/23098/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7798",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7798",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7798"
+        }
+      }
+    },
+    {
+      "id_documento": "7799",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XXIV",
+      "fecha_nivel2": "1826 / 1831",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7799&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/23099/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XXIV",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1826/1831. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/23099/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7799",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7799",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7799"
+        }
+      }
+    },
+    {
+      "id_documento": "7800",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XXV",
+      "fecha_nivel2": "1832 / 1834",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7800&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/23100/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XXV",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1832/1834. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/23100/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7800",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7800",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7800"
+        }
+      }
+    },
+    {
+      "id_documento": "7801",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XXVI",
+      "fecha_nivel2": "1835 / 1845",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7801&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/23101/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XXVI",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1835/1845. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/23101/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7801",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7801",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7801"
+        }
+      }
+    },
+    {
+      "id_documento": "7802",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "Libro XXVII",
+      "fecha_nivel2": "1843 / 1853",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3287",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7802&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/23102/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3287&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU Libro XXVII",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1843/1853. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/23102/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7802",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7802",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7802"
+        }
+      }
+    },
+    {
+      "id_documento": "6437",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-38-00",
+      "fecha_nivel2": "1448-07-27",
+      "titulo_nivel2": "Carta del bachiller vicente al concejo de Jumilla y al regidor Francisco Pérez solicitando que envíe al procurador y que lleve el privelegio del rey D. Pedro y el traslado del testamento y de otro privilegio.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3970",
+        "nombre_serie": "Autos judiciales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3970&nombreSerie=Autos judiciales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6437&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18093/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Autos judiciales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3970&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-38-00",
+          "1.2 Título": "Carta del bachiller vicente al concejo de Jumilla y al regidor Francisco Pérez solicitando que envíe al procurador y que lleve el privelegio del rey D. Pedro y el traslado del testamento y de otro privilegio.",
+          "1.3  Fecha(s)": "1448-07-27. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Simple",
+          "1.5 Volumen y soporte de la unidad de descripción": "2 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Mala",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18093/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6437",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6437",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6437"
+        }
+      }
+    },
+    {
+      "id_documento": "6438",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-38-01",
+      "fecha_nivel2": "1522-08-23 / 1522-08-27",
+      "titulo_nivel2": "Comparecencia de Benito Herrero, como procurador y alcalde de la villa, y de otros vecinos de Jumilla ante el corregidor Francisco de Velastegui en relación a los autos contra el también vecino Martín Fernández.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3970",
+        "nombre_serie": "Autos judiciales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3970&nombreSerie=Autos judiciales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6438&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18094/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Autos judiciales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3970&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-38-01",
+          "1.2 Título": "Comparecencia de Benito Herrero, como procurador y alcalde de la villa, y de otros vecinos de Jumilla ante el corregidor Francisco de Velastegui en relación a los autos contra el también vecino Martín Fernández.",
+          "1.3  Fecha(s)": "1522-08-23/1522-08-27.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "20 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI",
+          "6.1 Notas": "Incompleto"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18094/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6438",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6438",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6438"
+        }
+      }
+    },
+    {
+      "id_documento": "6444",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-5706-00",
+      "fecha_nivel2": "1524 / 1525",
+      "titulo_nivel2": "Libro de Cuentas de Propios.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3970",
+        "nombre_serie": "Autos judiciales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3970&nombreSerie=Autos judiciales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6444&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18100/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Autos judiciales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3970&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-5706-00",
+          "1.2 Título": "Libro de Cuentas de Propios.",
+          "1.3  Fecha(s)": "1524/1525. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "36 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalziación Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18100/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6444",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6444",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6444"
+        }
+      }
+    },
+    {
+      "id_documento": "6439",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-38-02",
+      "fecha_nivel2": "1539",
+      "titulo_nivel2": "Testimonio presentado por Antón Tomás y otros vecinos de Jumilla para que se respete el derecho y las libertades de la dicha villa.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3970",
+        "nombre_serie": "Autos judiciales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3970&nombreSerie=Autos judiciales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6439&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18095/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Autos judiciales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3970&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-38-02",
+          "1.2 Título": "Testimonio presentado por Antón Tomás y otros vecinos de Jumilla para que se respete el derecho y las libertades de la dicha villa.",
+          "1.3  Fecha(s)": "1539. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental simple",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18095/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6439",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6439",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6439"
+        }
+      }
+    },
+    {
+      "id_documento": "6445",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-8332-00",
+      "fecha_nivel2": "1544",
+      "titulo_nivel2": "Libero del Padrón Antiguo del Agua.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3970",
+        "nombre_serie": "Autos judiciales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3970&nombreSerie=Autos judiciales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6445&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18101/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Autos judiciales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3970&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-8332-00",
+          "1.2 Título": "Libero del Padrón Antiguo del Agua.",
+          "1.3  Fecha(s)": "1544. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "1031 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18101/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6445",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6445",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6445"
+        }
+      }
+    },
+    {
+      "id_documento": "6441",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-38-04",
+      "fecha_nivel2": "1552-07-09",
+      "titulo_nivel2": "Testamento Pedro Bernal.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3970",
+        "nombre_serie": "Autos judiciales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3970&nombreSerie=Autos judiciales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6441&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18097/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Autos judiciales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3970&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-38-04",
+          "1.2 Título": "Testamento Pedro Bernal.",
+          "1.3  Fecha(s)": "1552-07-09.",
+          "1.4 Nivel de descripción": "Unidad Documental Simple",
+          "1.5 Volumen y soporte de la unidad de descripción": "12 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18097/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6441",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6441",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6441"
+        }
+      }
+    },
+    {
+      "id_documento": "6440",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-38-03",
+      "fecha_nivel2": "1582-11-27",
+      "titulo_nivel2": "Notificación del escribano de la Audiencia y Chancillería de Granada solicitando testimonio a las partes del pleito entre el concejo de Jumilla y Martín Pérez, vecino de Yecla.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3970",
+        "nombre_serie": "Autos judiciales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3970&nombreSerie=Autos judiciales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6440&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18096/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Autos judiciales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3970&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-38-03",
+          "1.2 Título": "Notificación del escribano de la Audiencia y Chancillería de Granada solicitando testimonio a las partes del pleito entre el concejo de Jumilla y Martín Pérez, vecino de Yecla.",
+          "1.3  Fecha(s)": "1582-11-27. Granada",
+          "1.4 Nivel de descripción": "Unidad Documental Simple",
+          "1.5 Volumen y soporte de la unidad de descripción": "4 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18096/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6440",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6440",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6440"
+        }
+      }
+    },
+    {
+      "id_documento": "6442",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-141-00",
+      "fecha_nivel2": "1536-10-31",
+      "titulo_nivel2": "Traslado de una orden del concejo de la ciudad prohibiendo que se avecinen en la ciudad de Murcia para obtener yerba para el ganado sin tener que pagarla",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3968",
+        "nombre_serie": "Bandos y edictos",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3968&nombreSerie=Bandos y edictos&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6442&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18098/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Bandos y edictos",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3968&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-141-00",
+          "1.2 Título": "Traslado de una orden del concejo de la ciudad prohibiendo que se avecinen en la ciudad de Murcia para obtener yerba para el ganado sin tener que pagarla",
+          "1.3  Fecha(s)": "1536-10-31. Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "4 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18098/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6442",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6442",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6442"
+        }
+      }
+    },
+    {
+      "id_documento": "2851",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "EXPEDIENTE PROTOCOLO",
+      "fecha_nivel2": "1495-01-24/1495-01-28",
+      "titulo_nivel2": "Testimonio sobre el traslado efectuado por Alfonso de Palazol de la concordia realizada entre la ciudad de Murcia y la villa de Jumilla en el año 1461",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3288",
+        "nombre_serie": "Cartas de concordia",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3288&nombreSerie=Cartas de concordia&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=2851&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/5586/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Cartas de concordia",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3288&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU EXPEDIENTE PROTOCOLO",
+          "1.2 Título": "Testimonio sobre el traslado efectuado por Alfonso de Palazol de la concordia realizada entre la ciudad de Murcia y la villa de Jumilla en el año 1461",
+          "1.3  Fecha(s)": "1495-01-24/1495-01-28. Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Simple",
+          "1.5 Volumen y soporte de la unidad de descripción": "4 fol. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "3.1 Alcance y contenido": "Petición de Gonzalo Marín a Pedro Gómez de Setúbal para que autorizase a Alfonso de Palazol a sacar un traslado de la concordia realizada entre Jumilla y Murcia en el año 1461. (1495-01-24. Murcia). \r\n- Traslado de la concordia realizada entre Murcia y Jumilla, por la cual ambas establecen diversos capítulos y se comprometen a guardarlos. (1461-02-14. Murcia). Traslado: 1495-01-28. Murcia. Se establecen los siguientes acuerdos:\r\n  - Que los vecinos de Jumilla se rijan por los fueros, privilegios, usos y buenas costumbres, mercedes y franquezas que posee la ciudad de Murcia\r\n  - Que los vecinos de ambos términos queden exentos de pagar el impuesto de borra y asadura \r\n  - Que los vecinos de Jumilla queden exentos de pagar a Murcia por el paso de sus ganados por el Campo de Cartagena\r\n  - Que los ganados de los vecinos de Murcia y Jumilla puedan pacer indistintamente por las dehesas de ambos términos\r\n  - Que los vecinos de Murcia puedan sacar y vender libremente la grana que cogieran en el término de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCortesana",
+          "4.4 Características físicas y requisitos técnicos": "Mala",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI."
+        },
+        "puntos_acceso": {
+          "personas": [
+            {
+              "nombre": "Abellán, Alfonso. Alcalde ordinario de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=5138&v=a"
+            },
+            {
+              "nombre": "Abellán, Antón. Jurado de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2491&v=a"
+            },
+            {
+              "nombre": "Arróniz, Sancho de. Regidor de Murcia. Alcaide de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7047&v=a"
+            },
+            {
+              "nombre": "Carles, Alfonso. Regidor de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=1725&v=a"
+            },
+            {
+              "nombre": "Cascales, Juan de. Regidor de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=307&v=a"
+            },
+            {
+              "nombre": "Castro, Pedro de. Guarda y vasallo de los reyes. Asistente real en Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7051&v=a"
+            },
+            {
+              "nombre": "Descortel, Beltrán. Jurado de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=5101&v=a"
+            },
+            {
+              "nombre": "Dávalos, Alfonso de. Regidor de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2431&v=a"
+            },
+            {
+              "nombre": "Fajardo, Pedro",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=4675&v=a"
+            },
+            {
+              "nombre": "Fernández, Antón. Mensajero y procurador del concejo de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7048&v=a"
+            },
+            {
+              "nombre": "González Aventurado, Pedro. Mayordomo",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2562&v=a"
+            },
+            {
+              "nombre": "González de Arróniz, Sancho. Regidor de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=1004&v=a"
+            },
+            {
+              "nombre": "Gómez de Setúbal, Pedro. Corregidor y justicia mayor de Murcia y Lorca",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=4211&v=a"
+            },
+            {
+              "nombre": "Marín, Gonzalo. Vecino de Jumilla. Escribano del concejo de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7052&v=a"
+            },
+            {
+              "nombre": "Ortigosa, Alfonso de. Mensajero y procurador del concejo de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7050&v=a"
+            },
+            {
+              "nombre": "Pacheco, Juan. Marqués de Villena. Señor de la villa de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7053&v=a"
+            },
+            {
+              "nombre": "Palazol, Alfonso de. Escribano del rey. Fiador de Mose Cohen de Briviesca. Vecino de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2282&v=a"
+            },
+            {
+              "nombre": "Pérez Beltrán, Francisco. Escribano mayor del concejo de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=346&v=a"
+            },
+            {
+              "nombre": "Soto, Juan de. Regidor de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=5053&v=a"
+            },
+            {
+              "nombre": "Torrano, Sancho de. Regidor de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7049&v=a"
+            },
+            {
+              "nombre": "Vicente, Juan. Regidor de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2111&v=a"
+            }
+          ],
+          "instituciones": [
+            {
+              "nombre": "Murcia. Corregimiento",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=157&v=a"
+            }
+          ],
+          "materias": [
+            {
+              "nombre": "Diplomacia. Acuerdos",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=85&v=a"
+            },
+            {
+              "nombre": "Franquezas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=84&v=a"
+            },
+            {
+              "nombre": "Fuero de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=432&v=a"
+            },
+            {
+              "nombre": "Ganados",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=153&v=a"
+            },
+            {
+              "nombre": "Impuestos. Borra y Asadura",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=339&v=a"
+            },
+            {
+              "nombre": "Mercedes",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=244&v=a"
+            },
+            {
+              "nombre": "Privilegios",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=105&v=a"
+            },
+            {
+              "nombre": "Tintes. Grana",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "lugares": [
+            {
+              "nombre": "Cartagena. Campo",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=176&v=a"
+            },
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            },
+            {
+              "nombre": "Lorca",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=42&v=a"
+            },
+            {
+              "nombre": "Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=2&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/5586/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.2851",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.2851",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.2851"
+        }
+      }
+    },
+    {
+      "id_documento": "6433",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-17-03",
+      "fecha_nivel2": "1542",
+      "titulo_nivel2": "Carta del Concejo de Jumilla dirigida al Marqués de Villena para hacer de cal y canto y la acequia del agua de la Fuente.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3966",
+        "nombre_serie": "Correspondencia",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3966&nombreSerie=Correspondencia&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6433&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18090/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Correspondencia",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3966&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-17-03",
+          "1.2 Título": "Carta del Concejo de Jumilla dirigida al Marqués de Villena para hacer de cal y canto y la acequia del agua de la Fuente.",
+          "1.3  Fecha(s)": "1542. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Simple",
+          "1.5 Volumen y soporte de la unidad de descripción": "4 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18090/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6433",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6433",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6433"
+        }
+      }
+    },
+    {
+      "id_documento": "6435",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-17-04",
+      "fecha_nivel2": "1555",
+      "titulo_nivel2": "Carta de Fernando de Valera al concejo de Jumilla sobre los 3000 reales del pan que se deben a Santiago Pardo.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3971",
+        "nombre_serie": "Denuncias y reclamaciones",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3971&nombreSerie=Denuncias y reclamaciones&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6435&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18091/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Denuncias y reclamaciones",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3971&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-17-04",
+          "1.2 Título": "Carta de Fernando de Valera al concejo de Jumilla sobre los 3000 reales del pan que se deben a Santiago Pardo.",
+          "1.3  Fecha(s)": "1555.",
+          "1.4 Nivel de descripción": "Unidad Documental Simple",
+          "1.5 Volumen y soporte de la unidad de descripción": "4 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18091/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6435",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6435",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6435"
+        }
+      }
+    },
+    {
+      "id_documento": "6436",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-23-00",
+      "fecha_nivel2": "1514-01-06",
+      "titulo_nivel2": "Ordenanzas municipales del concejo de la villa de Jumilla.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3967",
+        "nombre_serie": "Ordenanzas municipales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3967&nombreSerie=Ordenanzas municipales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6436&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18092/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Ordenanzas municipales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3967&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-23-00",
+          "1.2 Título": "Ordenanzas municipales del concejo de la villa de Jumilla.",
+          "1.3  Fecha(s)": "1514-01-06. Bullas",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "4 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18092/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6436",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6436",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6436"
+        }
+      }
+    },
+    {
+      "id_documento": "8002",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMJU2303-1861",
+      "fecha_nivel2": "1861",
+      "titulo_nivel2": "Libro de padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "4149",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=4149&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8002&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/25044/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4149&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMJU2303-1861",
+          "1.2 Título": "Libro de padrones de vecindario",
+          "1.3  Fecha(s)": "1861. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/25044/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8002",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8002",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8002"
+        }
+      }
+    },
+    {
+      "id_documento": "8003",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMJU2303-1871",
+      "fecha_nivel2": "1871",
+      "titulo_nivel2": "Libro de padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "4149",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=4149&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8003&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/25045/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4149&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMJU2303-1871",
+          "1.2 Título": "Libro de padrones de vecindario",
+          "1.3  Fecha(s)": "1871. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/25045/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8003",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8003",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8003"
+        }
+      }
+    },
+    {
+      "id_documento": "8004",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMJU2303-1881",
+      "fecha_nivel2": "1881",
+      "titulo_nivel2": "Libro de padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "4149",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=4149&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8004&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/25046/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4149&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMJU2303-1881",
+          "1.2 Título": "Libro de padrones de vecindario",
+          "1.3  Fecha(s)": "1881. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/25046/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8004",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8004",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8004"
+        }
+      }
+    },
+    {
+      "id_documento": "8005",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMJU2303-1885",
+      "fecha_nivel2": "1885",
+      "titulo_nivel2": "Libro de padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "4149",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=4149&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8005&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/25047/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4149&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMJU2303-1885",
+          "1.2 Título": "Libro de padrones de vecindario",
+          "1.3  Fecha(s)": "1885. Jumilla",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/25047/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8005",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8005",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8005"
+        }
+      }
+    },
+    {
+      "id_documento": "6434",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMAJU-17-01",
+      "fecha_nivel2": "1511",
+      "titulo_nivel2": "Carta de Juan Ruíz de Molina, corregidor del Marquesado de villena, al Concejo de Jumilla trasladando mandamientos del Marqués.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3965",
+        "nombre_serie": "Provisiones",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3965&nombreSerie=Provisiones&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6434&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18088/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Provisiones",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3965&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMAJU-17-01",
+          "1.2 Título": "Carta de Juan Ruíz de Molina, corregidor del Marquesado de villena, al Concejo de Jumilla trasladando mandamientos del Marqués.",
+          "1.3  Fecha(s)": "1511.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "6 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "3.1 Alcance y contenido": "Contiene diligencias de recepción",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18088/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6434",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6434",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6434"
+        }
+      }
+    },
+    {
+      "id_documento": "6432",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "AMJU-17-02",
+      "fecha_nivel2": "1560",
+      "titulo_nivel2": "Carta de Provisión sobre los derechos de oficios otorgada por Francisco López Pacheco de Cabrera y Bobadilla, Marqués de Villena, a petición del concejo de la Villa de Jumilla y, en su nombre, del procurador Alonso Guardiola.",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3965",
+        "nombre_serie": "Provisiones",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3965&nombreSerie=Provisiones&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6432&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/18089/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Provisiones",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3965&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU AMJU-17-02",
+          "1.2 Título": "Carta de Provisión sobre los derechos de oficios otorgada por Francisco López Pacheco de Cabrera y Bobadilla, Marqués de Villena, a petición del concejo de la Villa de Jumilla y, en su nombre, del procurador Alonso Guardiola.",
+          "1.3  Fecha(s)": "1560. Jumilla",
+          "1.4 Nivel de descripción": "Unidad Documental Simple",
+          "1.5 Volumen y soporte de la unidad de descripción": "4 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "3.1 Alcance y contenido": "Contiene diligencias de recepción",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/18089/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6432",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6432",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6432"
+        }
+      }
+    },
+    {
+      "id_documento": "2850",
+      "sigla_fondo": "AMJU",
+      "nombre_fondo": "Archivo Municipal de Jumilla",
+      "signatura_nivel2": "ORDEN REAL",
+      "fecha_nivel2": "1443-02-26",
+      "titulo_nivel2": "Testimonio de la presentación de una provisión de Juan II prohibiendo sacar pan, trigo o cebada de sus reinos",
+      "serie_info": {
+        "archivo_id": "815",
+        "serie_id": "3402",
+        "nombre_serie": "Provisiones Reales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3402&nombreSerie=Provisiones Reales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=2850&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/15/5587/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Jumilla (AMJU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=815&v=a"
+          },
+          {
+            "texto": "Provisiones Reales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3402&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMJU ORDEN REAL",
+          "1.2 Título": "Testimonio de la presentación de una provisión de Juan II prohibiendo sacar pan, trigo o cebada de sus reinos",
+          "1.3  Fecha(s)": "1443-02-26. Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Jumilla",
+          "3.1 Alcance y contenido": "Testimonio de la presentación del traslado de una provisión de Juan II por parte de Juan González de Alcocer. Inserta: \r\nProvisión de Juan II prohibiendo sacar pan, trigo o cebada de sus reinos. (1442-12-2. Toledo)",
+          "4.1 Condiciones de acceso": "Acceso restringido",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCortesana",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI.",
+          "5.4 Nota de publicaciones": "Pub. ABELLÁN PÉREZ, JUAN. Documentos de Juan II. Murcia: Academia Alfonso X el Sabio, 1984, p.557-558"
+        },
+        "puntos_acceso": {
+          "personas": [
+            {
+              "nombre": "Aznar, Martín. Alcalde de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7041&v=a"
+            },
+            {
+              "nombre": "Díaz de Toledo, Fernando. Doctor. Oidor de la Audiencia, relator y secretario de Juan II",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=863&v=a"
+            },
+            {
+              "nombre": "González de Alcocer, Juan. Ballestero de maza del rey",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7044&v=a"
+            },
+            {
+              "nombre": "Jaén, Martín. Teniente de alguacil de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7042&v=a"
+            },
+            {
+              "nombre": "Jiménez, Sancho. Regidor de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7040&v=a"
+            },
+            {
+              "nombre": "Juan II, rey de Castilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=114&v=a"
+            },
+            {
+              "nombre": "Marco, Juan. Jurado de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7046&v=a"
+            },
+            {
+              "nombre": "Pérez Navarro, Pedro.",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7043&v=a"
+            },
+            {
+              "nombre": "Requena, Juan. Regidor de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7045&v=a"
+            },
+            {
+              "nombre": "Rodríguez de Baeza, Juan. Escribano del rey",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7038&v=a"
+            },
+            {
+              "nombre": "Tarragona, Juan de. Pregonero público de Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=7039&v=a"
+            }
+          ],
+          "instituciones": [
+            {
+              "nombre": "Monarquía castellana",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=3&v=a"
+            }
+          ],
+          "materias": [
+            {
+              "nombre": "Cereales",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=281&v=a"
+            },
+            {
+              "nombre": "Sacas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=475&v=a"
+            }
+          ],
+          "lugares": [
+            {
+              "nombre": "Alcaraz",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=71&v=a"
+            },
+            {
+              "nombre": "Cuenca",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=156&v=a"
+            },
+            {
+              "nombre": "Jumilla",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=103&v=a"
+            },
+            {
+              "nombre": "Murcia. Ciudad",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=35&v=a"
+            },
+            {
+              "nombre": "Sigüenza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=228&v=a"
+            },
+            {
+              "nombre": "Toledo",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=33&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/15/5587/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.2850",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.2850",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.2850"
+        }
+      }
+    }
+  ]
+}

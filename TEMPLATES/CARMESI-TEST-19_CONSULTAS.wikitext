@@ -1,0 +1,534 @@
+<div style="background-color: #f8f9fa; border: 1px solid #e9ecef; padding: 25px; border-radius: 8px; margin-bottom: 20px;">
+<div style="font-size: 1.8em; font-weight: bold; line-height: 1.3; color: #202122;">Wikificación del Proyecto Carmesí</div>
+<em style="font-size: 1.3em;">Consultas SPARQL de ejemplo realizadas en Wikibase Query Service</em>
+</div>
+
+<div style="background-color: #eaf6ea; border-left: 4px solid #2a8f3c; padding: 12px 18px; margin: 15px 0; font-size: 0.9em;">
+En el repositorio Github del proyecto se localiza toda la documentación del proyecto, scripts del pipeline y ficheros de extracción y carga de todo el proceso, incluida la salida del conjunto de datos en formato rdf/ttl
+
+https://github.com/pedro-otalora/WKBC_CARMESI_Project
+</div>
+
+== Consultas SPARQL de ejemplo ==
+La migración hacia la ontología RiC-O permite ejecutar consultas semánticas complejas que superan las limitaciones de búsqueda de los catálogos ISAD(G) tradicionales.
+
+A continuación se presentan una serie de consultas para explorar el conjunto de datos migrado a partir del proyecto Carmesí:
+
+=== Número de ítems por tipo ([https://carmesi-test-19.wikibase.cloud/query/#PREFIX%20P_instancia_de%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP1%3E%0APREFIX%20Q_fondo%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ6%3E%0APREFIX%20Q_subfondo%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ7%3E%0APREFIX%20Q_serie%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ8%3E%0APREFIX%20Q_documento%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ2%3E%0APREFIX%20Q_persona%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ11%3E%0APREFIX%20Q_institucion%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ12%3E%0APREFIX%20Q_materia%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ14%3E%0APREFIX%20Q_lugar%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ13%3E%0APREFIX%20Q_lengua%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ16%3E%0APREFIX%20Q_tipo_escritura%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ20%3E%0A%0A%23defaultView%3ABarChart%0ASELECT%20%3Fclase%20%3FclaseLabel%20%28COUNT%28%3Fitem%29%20AS%20%3FtotalInstancias%29%0AWHERE%20%7B%0A%20%20%23%201.%20Lista%20de%20clases%20Q%20que%20queremos%20auditar%2Fcontar%0A%20%20VALUES%20%3Fclase%20%7B%20%0A%20%20%20%20Q_fondo%3A%20%0A%20%20%20%20Q_subfondo%3A%20%0A%20%20%20%20Q_serie%3A%20%0A%20%20%20%20Q_documento%3A%20%0A%20%20%20%20Q_persona%3A%20%0A%20%20%20%20Q_institucion%3A%20%0A%20%20%20%20Q_materia%3A%20%0A%20%20%20%20Q_lugar%3A%20%0A%20%20%20%20Q_lengua%3A%20%0A%20%20%20%20Q_tipo_escritura%3A%20%0A%20%20%7D%0A%20%20%0A%20%20%23%202.%20Buscamos%20los%20%C3%ADtems%20que%20son%20instancia%20de%20cada%20una%20de%20estas%20clases%0A%20%20%3Fitem%20P_instancia_de%3A%20%3Fclase%20.%0A%20%20%0A%20%20%23%203.%20Servicio%20de%20etiquetas%20de%20Wikibase%20para%20obtener%20los%20nombres%20amigables%20en%20espa%C3%B1ol%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fclase%20%3FclaseLabel%0AORDER%20BY%20DESC%28%3FtotalInstancias%29 Enlace a la consulta]) ===
+Presenta un gráfico de barras con el número de ítems de cada tipo.<syntaxhighlight lang="sparql">
+PREFIX P_instancia_de: <https://carmesi-test-19.wikibase.cloud/prop/direct/P1>
+PREFIX Q_fondo: <https://carmesi-test-19.wikibase.cloud/entity/Q6>
+PREFIX Q_subfondo: <https://carmesi-test-19.wikibase.cloud/entity/Q7>
+PREFIX Q_serie: <https://carmesi-test-19.wikibase.cloud/entity/Q8>
+PREFIX Q_documento: <https://carmesi-test-19.wikibase.cloud/entity/Q2>
+PREFIX Q_persona: <https://carmesi-test-19.wikibase.cloud/entity/Q11>
+PREFIX Q_institucion: <https://carmesi-test-19.wikibase.cloud/entity/Q12>
+PREFIX Q_materia: <https://carmesi-test-19.wikibase.cloud/entity/Q14>
+PREFIX Q_lugar: <https://carmesi-test-19.wikibase.cloud/entity/Q13>
+PREFIX Q_lengua: <https://carmesi-test-19.wikibase.cloud/entity/Q16>
+PREFIX Q_tipo_escritura: <https://carmesi-test-19.wikibase.cloud/entity/Q20>
+
+#defaultView:BarChart
+SELECT ?clase ?claseLabel (COUNT(?item) AS ?totalInstancias)
+WHERE {
+  # 1. Lista de clases Q que queremos auditar/contar
+  VALUES ?clase {
+    Q_fondo:
+    Q_subfondo:
+    Q_serie:
+    Q_documento:
+    Q_persona:
+    Q_institucion:
+    Q_materia:
+    Q_lugar:
+    Q_lengua:
+    Q_tipo_escritura:
+  }
+
+  # 2. Buscamos los ítems que son instancia de cada una de estas clases
+  ?item P_instancia_de: ?clase .
+
+  # 3. Servicio de etiquetas de Wikibase para obtener los nombres amigables en español
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+}
+GROUP BY ?clase ?claseLabel
+ORDER BY DESC(?totalInstancias)
+</syntaxhighlight>
+
+=== Cuadro de clasificación ([https://carmesi-test-19.wikibase.cloud/query/#PREFIX%20Q_fondo%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ6%3E%0APREFIX%20Q_subfondo%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ7%3E%0APREFIX%20Q_serie%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ8%3E%0APREFIX%20P_incluido_en%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP3%3E%0APREFIX%20P_tipo_agrupacion_doc%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP4%3E%0A%0A%23defaultView%3ATree%0A%0ASELECT%20%3Fpadre%20%3FpadreLabel%20%3FclasePadreLabel%20%3Fhijo%20%3FhijoLabel%20%3FclaseHijoLabel%20%3Fnieto%20%3FnietoLabel%20%3FclaseNietoLabel%0AWHERE%20%7B%0A%20%20%23%201.%20El%20nodo%20ra%C3%ADz%20del%20%C3%A1rbol%20es%20estrictamente%20un%20Fondo%0A%20%20%3Fpadre%20P_tipo_agrupacion_doc%3A%20Q_fondo%3A%20.%0A%20%20%0A%20%20%23%202.%20El%20hijo%20est%C3%A1%20incluido%20en%20el%20fondo%20y%20puede%20ser%20Subfondo%20o%20Serie%20directa%0A%20%20%3Fhijo%20P_incluido_en%3A%20%3Fpadre%20.%0A%20%20%3Fhijo%20P_tipo_agrupacion_doc%3A%20%3FclaseHijo%20.%0A%20%20VALUES%20%3FclaseHijo%20%7B%20Q_subfondo%3A%20Q_serie%3A%20%7D%0A%20%20%0A%20%20%23%203.%20El%20nieto%20%28opcional%29%20est%C3%A1%20incluido%20en%20el%20hijo%20y%20es%20una%20Serie%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fnieto%20P_incluido_en%3A%20%3Fhijo%20.%0A%20%20%20%20%3Fnieto%20P_tipo_agrupacion_doc%3A%20Q_serie%3A%20.%20%0A%20%20%7D%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%22.%20%7D%0A%7D%0AORDER%20BY%20%3FpadreLabel Enlace a la consulta]) ===
+Esta consulta muestra el cuadro de clasificación con vista de árbol jerárquico de forma similar a la estructura ISADG). Los niveles mostrados son fondo, subfondo y serie.<syntaxhighlight lang="sparql">PREFIX Q_fondo: <https://carmesi-test-19.wikibase.cloud/entity/Q6>
+PREFIX Q_subfondo: <https://carmesi-test-19.wikibase.cloud/entity/Q7>
+PREFIX Q_serie: <https://carmesi-test-19.wikibase.cloud/entity/Q8>
+PREFIX P_incluido_en: <https://carmesi-test-19.wikibase.cloud/prop/direct/P3>
+PREFIX P_tipo_agrupacion_doc: <https://carmesi-test-19.wikibase.cloud/prop/direct/P4>
+
+#defaultView:Tree
+
+SELECT ?padre ?padreLabel ?clasePadreLabel ?hijo ?hijoLabel ?claseHijoLabel ?nieto ?nietoLabel ?claseNietoLabel
+WHERE {
+  # 1. El nodo raíz del árbol es estrictamente un Fondo
+  ?padre P_tipo_agrupacion_doc: Q_fondo: .
+
+  # 2. El hijo está incluido en el fondo y puede ser Subfondo o Serie directa
+  ?hijo P_incluido_en: ?padre .
+  ?hijo P_tipo_agrupacion_doc: ?claseHijo .
+  VALUES ?claseHijo { Q_subfondo: Q_serie: }
+
+  # 3. El nieto (opcional) está incluido en el hijo y es una Serie
+  OPTIONAL {
+    ?nieto P_incluido_en: ?hijo .
+    ?nieto P_tipo_agrupacion_doc: Q_serie: .
+  }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+}
+ORDER BY ?padreLabel</syntaxhighlight>
+
+=== Distribución de documentos por archivo ([https://carmesi-test-19.wikibase.cloud/query/#PREFIX%20Q_documento%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ2%3E%0APREFIX%20Q_fondo%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ6%3E%0APREFIX%20P_instancia_de%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP1%3E%0APREFIX%20P_incluido_en%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP3%3E%0APREFIX%20P_tipo_agrupacion_doc%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP4%3E%0A%0A%23defaultView%3ABarChart%0ASELECT%20%3Ffondo%20%3FfondoLabel%20%28COUNT%28%3Fdoc%29%20AS%20%3FnumDocumentos%29%0AWHERE%20%7B%0A%20%20%23%201.%20Identificamos%20los%20fondos%20documentales%0A%20%20%3Ffondo%20P_tipo_agrupacion_doc%3A%20Q_fondo%3A%20.%0A%20%20%0A%20%20%23%202.%20Identificamos%20los%20documentos%0A%20%20%3Fdoc%20P_instancia_de%3A%20Q_documento%3A%20.%0A%20%20%0A%20%20%23%203.%20Navegamos%20hacia%20arriba%20en%20la%20jerarqu%C3%ADa%20%28documento%20-%3E%20serie%20-%3E%20subfondo%20-%3E%20fondo%29%0A%20%20%3Fdoc%20P_incluido_en%3A%2B%20%3Ffondo%20.%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Ffondo%20%3FfondoLabel%0AORDER%20BY%20DESC%28%3FnumDocumentos%29 Enlace a la consulta]) ===
+Gráfico de barras con la distribución de documentos en cada fondo documental<syntaxhighlight lang="sparql">
+PREFIX Q_documento: <https://carmesi-test-19.wikibase.cloud/entity/Q2>
+PREFIX Q_fondo: <https://carmesi-test-19.wikibase.cloud/entity/Q6>
+PREFIX P_instancia_de: <https://carmesi-test-19.wikibase.cloud/prop/direct/P1>
+PREFIX P_incluido_en: <https://carmesi-test-19.wikibase.cloud/prop/direct/P3>
+PREFIX P_tipo_agrupacion_doc: <https://carmesi-test-19.wikibase.cloud/prop/direct/P4>
+
+#defaultView:BarChart
+SELECT ?fondo ?fondoLabel (COUNT(?doc) AS ?numDocumentos)
+WHERE {
+  # 1. Identificamos los fondos documentales
+  ?fondo P_tipo_agrupacion_doc: Q_fondo: .
+
+  # 2. Identificamos los documentos
+  ?doc P_instancia_de: Q_documento: .
+
+  # 3. Navegamos hacia arriba en la jerarquía (documento -> serie -> subfondo -> fondo)
+  ?doc P_incluido_en:+ ?fondo .
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+}
+GROUP BY ?fondo ?fondoLabel
+ORDER BY DESC(?numDocumentos)
+</syntaxhighlight>
+
+=== Distribución de documentos por siglo ([https://carmesi-test-19.wikibase.cloud/query/#PREFIX%20Q_documento%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ2%3E%0APREFIX%20P_instancia_de%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP1%3E%0APREFIX%20P_fecha%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP19%3E%0APREFIX%20P_fecha_inicio%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP27%3E%0APREFIX%20P_fecha_final%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP28%3E%0A%0A%23defaultView%3ABarChart%0ASELECT%20%3Fsiglo%20%28COUNT%28%3Fitem%29%20AS%20%3FnumDocumentos%29%0AWHERE%20%7B%0A%20%20%23%201.%20Identificamos%20los%20documentos%0A%20%20%3Fitem%20P_instancia_de%3A%20Q_documento%3A%20.%0A%20%20%0A%20%20%23%202.%20Navegamos%20al%20nodo%20Q_fecha%20y%20obtenemos%20su%20fecha%20de%20inicio%20o%20fecha%20general%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fitem%20P_fecha%3A%20%3FnodoFecha%20.%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%3FnodoFecha%20P_fecha_inicio%3A%20%3FfechaLiteral%20.%0A%20%20%20%20%7D%20UNION%20%7B%0A%20%20%20%20%20%20%3FnodoFecha%20P_fecha%3A%20%3FfechaLiteral%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20%0A%20%20%23%203.%20Extraemos%20el%20a%C3%B1o%2C%20si%20no%20hay%20fecha%2C%20asignamos%200%20temporalmente%0A%20%20BIND%28IF%28BOUND%28%3FfechaLiteral%29%2C%20xsd%3Ainteger%28SUBSTR%28STR%28%3FfechaLiteral%29%2C%201%2C%204%29%29%2C%200%29%20AS%20%3Fanio%29%0A%20%20%0A%20%20%23%204.%20Calculamos%20matem%C3%A1ticamente%20el%20n%C3%BAmero%20de%20siglo%0A%20%20BIND%28FLOOR%28%28%3Fanio%20-%201%29%20%2F%20100%29%20%2B%201%20AS%20%3FnumSiglo%29%0A%20%20%0A%20%20%23%205.%20Mapeamos%20a%20etiqueta%20de%20siglo%20en%20romano%20o%20asignamos%20%22s.f.%20%28sin%20fecha%29%22%20si%20aplica%0A%20%20BIND%28%0A%20%20%20%20IF%28%21BOUND%28%3FfechaLiteral%29%2C%20%22s.f.%20%28sin%20fecha%29%22%2C%0A%20%20%20%20%20%20CONCAT%28%22Siglo%20%22%2C%20%0A%20%20%20%20%20%20%20%20IF%28%3FnumSiglo%20%3D%2012%2C%20%22XII%22%2C%0A%20%20%20%20%20%20%20%20IF%28%3FnumSiglo%20%3D%2013%2C%20%22XIII%22%2C%0A%20%20%20%20%20%20%20%20IF%28%3FnumSiglo%20%3D%2014%2C%20%22XIV%22%2C%0A%20%20%20%20%20%20%20%20IF%28%3FnumSiglo%20%3D%2015%2C%20%22XV%22%2C%0A%20%20%20%20%20%20%20%20IF%28%3FnumSiglo%20%3D%2016%2C%20%22XVI%22%2C%0A%20%20%20%20%20%20%20%20IF%28%3FnumSiglo%20%3D%2017%2C%20%22XVII%22%2C%0A%20%20%20%20%20%20%20%20IF%28%3FnumSiglo%20%3D%2018%2C%20%22XVIII%22%2C%0A%20%20%20%20%20%20%20%20IF%28%3FnumSiglo%20%3D%2019%2C%20%22XIX%22%2C%0A%20%20%20%20%20%20%20%20IF%28%3FnumSiglo%20%3D%2020%2C%20%22XX%22%2C%20STR%28%3FnumSiglo%29%29%29%29%29%29%29%29%29%29%0A%20%20%20%20%20%20%29%0A%20%20%20%20%29%20AS%20%3Fsiglo%0A%20%20%29%0A%7D%0AGROUP%20BY%20%3Fsiglo%0AORDER%20BY%20%3Fsiglo Enlace a la consulta]) ===
+Muestra un gráfico de barras con el número de documentos agrupado por siglo.<syntaxhighlight lang="sparql">
+PREFIX Q_documento: <https://carmesi-test-19.wikibase.cloud/entity/Q2>
+PREFIX P_instancia_de: <https://carmesi-test-19.wikibase.cloud/prop/direct/P1>
+PREFIX P_fecha: <https://carmesi-test-19.wikibase.cloud/prop/direct/P19>
+PREFIX P_fecha_inicio: <https://carmesi-test-19.wikibase.cloud/prop/direct/P27>
+PREFIX P_fecha_final: <https://carmesi-test-19.wikibase.cloud/prop/direct/P28>
+
+#defaultView:BarChart
+SELECT ?siglo (COUNT(?item) AS ?numDocumentos)
+WHERE {
+  # 1. Identificamos los documentos
+  ?item P_instancia_de: Q_documento: .
+
+  # 2. Navegamos al nodo Q_fecha y obtenemos su fecha de inicio o fecha general
+  OPTIONAL {
+    ?item P_fecha: ?nodoFecha .
+    {
+      ?nodoFecha P_fecha_inicio: ?fechaLiteral .
+    } UNION {
+      ?nodoFecha P_fecha: ?fechaLiteral .
+    }
+  }
+
+  # 3. Extraemos el año, si no hay fecha, asignamos 0 temporalmente
+  BIND(IF(BOUND(?fechaLiteral), xsd:integer(SUBSTR(STR(?fechaLiteral), 1, 4)), 0) AS ?anio)
+
+  # 4. Calculamos matemáticamente el número de siglo
+  BIND(FLOOR((?anio - 1) / 100) + 1 AS ?numSiglo)
+
+  # 5. Mapeamos a etiqueta de siglo en romano o asignamos "s.f. (sin fecha)" si aplica
+  BIND(
+    IF(!BOUND(?fechaLiteral), "s.f. (sin fecha)",
+      CONCAT("Siglo ",
+        IF(?numSiglo = 12, "XII",
+        IF(?numSiglo = 13, "XIII",
+        IF(?numSiglo = 14, "XIV",
+        IF(?numSiglo = 15, "XV",
+        IF(?numSiglo = 16, "XVI",
+        IF(?numSiglo = 17, "XVII",
+        IF(?numSiglo = 18, "XVIII",
+        IF(?numSiglo = 19, "XIX",
+        IF(?numSiglo = 20, "XX", STR(?numSiglo))))))))))
+      )
+    ) AS ?siglo
+  )
+}
+GROUP BY ?siglo
+ORDER BY ?siglo
+</syntaxhighlight>
+
+=== Listado Materias ([https://carmesi-test-19.wikibase.cloud/query/#PREFIX%20Q_materia%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ14%3E%0APREFIX%20P_instancia_de%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP1%3E%0APREFIX%20P_materia%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP14%3E%0A%0ASELECT%20%3Fmateria%20%3FmateriaLabel%20%28COUNT%28%3Fdocumento%29%20AS%20%3Ffrecuencia%29%20WHERE%20%7B%0A%20%20%23%20Buscamos%20documentos%20que%20tengan%20una%20propiedad%20de%20materia%0A%20%20%3Fdocumento%20P_materia%3A%20%3Fmateria%20.%0A%20%20%0A%20%20%23%20Aseguramos%20que%20el%20%C3%ADtem%20sea%20realmente%20una%20materia%0A%20%20%3Fmateria%20P_instancia_de%3A%20Q_materia%3A%20.%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%22.%20%7D%0A%7D%20%0AGROUP%20BY%20%3Fmateria%20%3FmateriaLabel%20%0AORDER%20BY%20DESC%28%3Ffrecuencia%29 Enlace a la consulta]) ===
+Listado de todas las Materias ordenadas por frecuencia de aparición<syntaxhighlight lang="sparql">PREFIX Q_materia: <https://carmesi-test-19.wikibase.cloud/entity/Q14>
+PREFIX P_instancia_de: <https://carmesi-test-19.wikibase.cloud/prop/direct/P1>
+PREFIX P_materia: <https://carmesi-test-19.wikibase.cloud/prop/direct/P14>
+
+SELECT ?materia ?materiaLabel (COUNT(?documento) AS ?frecuencia) WHERE {
+  # Buscamos documentos que tengan una propiedad de materia
+  ?documento P_materia: ?materia .
+
+  # Aseguramos que el ítem sea realmente una materia
+  ?materia P_instancia_de: Q_materia: .
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+}
+GROUP BY ?materia ?materiaLabel
+ORDER BY DESC(?frecuencia)</syntaxhighlight>
+
+=== Listado de Agentes ([https://carmesi-test-19.wikibase.cloud/query/#PREFIX%20P_productor%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP17%3E%0APREFIX%20P_institucion%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP16%3E%0APREFIX%20P_persona%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP15%3E%0A%0ASELECT%20%3Fagente%20%3FagenteLabel%20%3FtipoAgenteLabel%20%28COUNT%28%3Fdocumento%29%20AS%20%3Ffrecuencia%29%0AWHERE%20%7B%0A%20%20%7B%0A%20%20%20%20%7B%20%0A%20%20%20%20%20%20%3Fdocumento%20P_institucion%3A%20%3Fagente%20.%20%0A%20%20%20%20%20%20BIND%28%22Instituci%C3%B3n%22%20AS%20%3FtipoAgenteLabel%29%0A%20%20%20%20%7D%0A%20%20%20%20UNION%0A%20%20%20%20%7B%20%0A%20%20%20%20%20%20%3Fdocumento%20P_persona%3A%20%3Fagente%20.%20%0A%20%20%20%20%20%20BIND%28%22Persona%22%20AS%20%3FtipoAgenteLabel%29%0A%20%20%20%20%7D%0A%20%20%20%20UNION%0A%20%20%20%20%7B%20%0A%20%20%20%20%20%20%3Fdocumento%20P_productor%3A%20%3Fagente%20.%20%0A%20%20%20%20%20%20BIND%28%22Productor%22%20AS%20%3FtipoAgenteLabel%29%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fagente%20%3FagenteLabel%20%3FtipoAgenteLabel%0AORDER%20BY%20DESC%28%3Ffrecuencia%29 Enlace a la consulta]) ===
+Listado de todos los Agentes ordenado por número de aparición sean del tipo persona, institución<syntaxhighlight lang="sparql">PREFIX P_productor: <https://carmesi-test-19.wikibase.cloud/prop/direct/P17>
+PREFIX P_institucion: <https://carmesi-test-19.wikibase.cloud/prop/direct/P16>
+PREFIX P_persona: <https://carmesi-test-19.wikibase.cloud/prop/direct/P15>
+
+SELECT ?agente ?agenteLabel ?tipoAgenteLabel (COUNT(?documento) AS ?frecuencia)
+WHERE {
+  {
+    {
+      ?documento P_institucion: ?agente .
+      BIND("Institución" AS ?tipoAgenteLabel)
+    }
+    UNION
+    {
+      ?documento P_persona: ?agente .
+      BIND("Persona" AS ?tipoAgenteLabel)
+    }
+    UNION
+    {
+      ?documento P_productor: ?agente .
+      BIND("Productor" AS ?tipoAgenteLabel)
+    }
+  }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+}
+GROUP BY ?agente ?agenteLabel ?tipoAgenteLabel
+ORDER BY DESC(?frecuencia)</syntaxhighlight>
+
+=== Listado de Lugares ([https://carmesi-test-19.wikibase.cloud/query/#PREFIX%20Q_lugar%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ13%3E%0APREFIX%20P_instancia_de%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP1%3E%0APREFIX%20P_lugar%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP13%3E%0A%0ASELECT%20%3Flugar%20%3FlugarLabel%20%28COUNT%28%3Fdocumento%29%20AS%20%3Ffrecuencia%29%0AWHERE%20%7B%0A%20%20%23%20Buscamos%20documentos%20que%20tengan%20una%20propiedad%20de%20lugar%0A%20%20%3Fdocumento%20P_lugar%3A%20%3Flugar%20.%0A%20%20%0A%20%20%23%20Aseguramos%20que%20el%20%C3%ADtem%20sea%20realmente%20un%20lugar%20%28por%20si%20acaso%29%0A%20%20%3Flugar%20P_instancia_de%3A%20Q_lugar%3A%20.%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Flugar%20%3FlugarLabel%0AORDER%20BY%20DESC%28%3Ffrecuencia%29 Enlace a la consulta]) ===
+Listado de Lugares ordenado por número de aparición en documentos <syntaxhighlight lang="sparql">PREFIX Q_lugar: <https://carmesi-test-19.wikibase.cloud/entity/Q13>
+PREFIX P_instancia_de: <https://carmesi-test-19.wikibase.cloud/prop/direct/P1>
+PREFIX P_lugar: <https://carmesi-test-19.wikibase.cloud/prop/direct/P13>
+
+SELECT ?lugar ?lugarLabel (COUNT(?documento) AS ?frecuencia)
+WHERE {
+  # Buscamos documentos que tengan una propiedad de lugar
+  ?documento P_lugar: ?lugar .
+
+  # Aseguramos que el ítem sea realmente un lugar (por si acaso)
+  ?lugar P_instancia_de: Q_lugar: .
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+}
+GROUP BY ?lugar ?lugarLabel
+ORDER BY DESC(?frecuencia)</syntaxhighlight>
+
+=== Listado de Lenguas ([https://carmesi-test-19.wikibase.cloud/query/#PREFIX%20Q_lengua%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ16%3E%0APREFIX%20P_instancia_de%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP1%3E%0APREFIX%20P_lengua%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP18%3E%0A%0A%23defaultView%3ABarChart%0ASELECT%20%3Flengua%20%3FlenguaLabel%20%28COUNT%28%3Fdocumento%29%20AS%20%3Ffrecuencia%29%0AWHERE%20%7B%0A%20%20%23%20Buscamos%20documentos%20que%20tengan%20una%20lengua%20asociada%0A%20%20%3Fdocumento%20P_lengua%3A%20%3Flengua%20.%0A%20%20%0A%20%20%23%20Aseguramos%20que%20el%20%C3%ADtem%20sea%20realmente%20una%20lengua%0A%20%20%3Flengua%20P_instancia_de%3A%20Q_lengua%3A%20.%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Flengua%20%3FlenguaLabel%0AORDER%20BY%20DESC%28%3Ffrecuencia%29 Enlace a la consulta]) ===
+Gráfico de barras con la distribución de documentos por lengua de redacción.<syntaxhighlight lang="sparql">
+PREFIX Q_lengua: <https://carmesi-test-19.wikibase.cloud/entity/Q16>
+PREFIX P_instancia_de: <https://carmesi-test-19.wikibase.cloud/prop/direct/P1>
+PREFIX P_lengua: <https://carmesi-test-19.wikibase.cloud/prop/direct/P18>
+
+#defaultView:BarChart
+SELECT ?lengua ?lenguaLabel (COUNT(?documento) AS ?frecuencia)
+WHERE {
+  # Buscamos documentos que tengan una lengua asociada
+  ?documento P_lengua: ?lengua .
+
+  # Aseguramos que el ítem sea realmente una lengua
+  ?lengua P_instancia_de: Q_lengua: .
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+}
+GROUP BY ?lengua ?lenguaLabel
+ORDER BY DESC(?frecuencia)
+</syntaxhighlight>
+
+=== Listado de Tipos de escritura ([https://carmesi-test-19.wikibase.cloud/query/#PREFIX%20Q_tipo_escritura%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ20%3E%0APREFIX%20P_instancia_de%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP1%3E%0APREFIX%20P_tipo_escritura%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP25%3E%0A%0A%23defaultView%3ABarChart%0ASELECT%20%3Fescritura%20%3FescrituraLabel%20%28COUNT%28%3Fdocumento%29%20AS%20%3Ffrecuencia%29%0AWHERE%20%7B%0A%20%20%23%20Buscamos%20documentos%20que%20tengan%20un%20tipo%20de%20escritura%20asociado%0A%20%20%3Fdocumento%20P_tipo_escritura%3A%20%3Fescritura%20.%0A%20%20%0A%20%20%23%20Aseguramos%20que%20el%20%C3%ADtem%20sea%20realmente%20un%20tipo%20de%20escritura%0A%20%20%3Fescritura%20P_instancia_de%3A%20Q_tipo_escritura%3A%20.%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fescritura%20%3FescrituraLabel%0AORDER%20BY%20DESC%28%3Ffrecuencia%29 Enlace a la consulta]) ===
+Gráfico de barras con la distribución de documentos por mano paleográfica o tipográfica (<code>Q_tipo_escritura</code> / <code>P_tipo_escritura</code>). <syntaxhighlight lang="sparql">
+PREFIX Q_tipo_escritura: <https://carmesi-test-19.wikibase.cloud/entity/Q20>
+PREFIX P_instancia_de: <https://carmesi-test-19.wikibase.cloud/prop/direct/P1>
+PREFIX P_tipo_escritura: <https://carmesi-test-19.wikibase.cloud/prop/direct/P25>
+
+#defaultView:BarChart
+SELECT ?escritura ?escrituraLabel (COUNT(?documento) AS ?frecuencia)
+WHERE {
+  # Buscamos documentos que tengan un tipo de escritura asociado
+  ?documento P_tipo_escritura: ?escritura .
+
+  # Aseguramos que el ítem sea realmente un tipo de escritura
+  ?escritura P_instancia_de: Q_tipo_escritura: .
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+}
+GROUP BY ?escritura ?escrituraLabel
+ORDER BY DESC(?frecuencia)
+</syntaxhighlight>
+
+=== Búsqueda en cualquier campo ([https://carmesi-test-19.wikibase.cloud/query/#PREFIX%20p%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20ps%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fstatement%2F%3E%0APREFIX%20pq%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0APREFIX%20Q_documento%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ2%3E%0APREFIX%20Q_fondo%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fentity%2FQ6%3E%0APREFIX%20P_incluido_en%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP3%3E%0APREFIX%20P_tipo_agrupacion_doc%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP4%3E%0APREFIX%20P_id_origen%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP8%3E%0APREFIX%20P_instanciacion_digital%3A%20%3Chttps%3A%2F%2Fcarmesi-test-19.wikibase.cloud%2Fprop%2Fdirect%2FP20%3E%0A%0ASELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3FidOrigen%20%3FfondoLabel%20%3Furl_PDF%20WHERE%20%7B%0A%20%20%0A%20%20%23%201.%20Definimos%20los%20t%C3%A9rminos%20que%20queremos%20buscar%20mediante%20VALUES%0A%20%20VALUES%20%3FterminoRaw%20%7B%20%22ENRIQUE%20III%22%20%7D%20%23%20Se%20pueden%20a%C3%B1adir%20m%C3%A1s%20t%C3%A9rminos%20aqu%C3%AD%3A%20%28%22enrique%20iii%22%20%22juana%20i%22%20%22toledo%22%29%0A%20%20%23%20Convierte%20din%C3%A1micamente%20el%20valor%20a%20min%C3%BAsculas%0A%20%20BIND%28LCASE%28STR%28%3FterminoRaw%29%29%20AS%20%3FterminoBuscado%29%0A%20%20%0A%20%20%23%202.%20Identificamos%20el%20documento%0A%20%20%3Fitem%20p%3AP1%20%3Fstatement%20.%0A%20%20%3Fstatement%20ps%3AP1%20Q_documento%3A%20.%0A%20%20%0A%20%20%23%203.%20Buscamos%20en%20cualquier%20propiedad%20de%20texto%20del%20%C3%ADtem%20de%20forma%20insensible%20a%20may%C3%BAsculas%0A%20%20%3Fitem%20%3Fpropiedad%20%3FtextoEncontrado%20.%0A%20%20FILTER%28isLiteral%28%3FtextoEncontrado%29%29%0A%20%20FILTER%28CONTAINS%28LCASE%28STR%28%3FtextoEncontrado%29%29%2C%20%3FterminoBuscado%29%29%0A%0A%20%20%23%204.%20Capturamos%20el%20identificador%20de%20origen%0A%20%20OPTIONAL%20%7B%20%20%0A%20%20%20%20%3Fitem%20P_id_origen%3A%20%3FidOrigen%20.%20%20%0A%20%20%7D%0A%0A%20%20%23%205.%20Navegamos%20hacia%20el%20Fondo%0A%20%20OPTIONAL%20%7B%20%20%0A%20%20%20%20%3Fitem%20P_incluido_en%3A%2B%20%3Ffondo%20.%0A%20%20%20%20%3Ffondo%20P_tipo_agrupacion_doc%3A%20%3FtipoAgrupacion%20.%0A%20%20%20%20FILTER%28%3FtipoAgrupacion%20%3D%20Q_fondo%3A%29%0A%20%20%7D%0A%0A%20%20%23%206.%20Capturamos%20el%20PDF%20de%20la%20instanciaci%C3%B3n%20digital%0A%20%20OPTIONAL%20%7B%20%20%0A%20%20%20%20%3Fitem%20P_instanciacion_digital%3A%20%3FinstanciacionDigital%20.%20%20%0A%20%20%20%20%3FinstanciacionDigital%20p%3AP12%20%3FurlStatement%20.%0A%20%20%20%20%3FurlStatement%20ps%3AP12%20%3Furl_PDF%20.%0A%20%20%20%20%3FurlStatement%20pq%3AP24%20%3Fmimetype%20.%0A%20%20%20%20FILTER%28CONTAINS%28LCASE%28STR%28%3Fmimetype%29%29%2C%20%22pdf%22%29%29%0A%20%20%7D%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22es%22.%20%7D%0A%7D%0AORDER%20BY%20%3FfondoLabel Enlace a la consulta]) ===
+Búsqueda de una cadena en cualquier parte de un documento y listado de fondo asociado y url al objeto digital pdf de su instanciación.
+
+En el ejemplo se pueden obtener los enlaces a los pdf de cualquier documento relacionado con "Enrique III". <syntaxhighlight lang="sparql">
+PREFIX p: <https://carmesi-test-19.wikibase.cloud/prop/>
+PREFIX ps: <https://carmesi-test-19.wikibase.cloud/prop/statement/>
+PREFIX pq: <https://carmesi-test-19.wikibase.cloud/prop/qualifier/>
+PREFIX Q_documento: <https://carmesi-test-19.wikibase.cloud/entity/Q2>
+PREFIX Q_fondo: <https://carmesi-test-19.wikibase.cloud/entity/Q6>
+PREFIX P_incluido_en: <https://carmesi-test-19.wikibase.cloud/prop/direct/P3>
+PREFIX P_tipo_agrupacion_doc: <https://carmesi-test-19.wikibase.cloud/prop/direct/P4>
+PREFIX P_id_origen: <https://carmesi-test-19.wikibase.cloud/prop/direct/P8>
+PREFIX P_instanciacion_digital: <https://carmesi-test-19.wikibase.cloud/prop/direct/P20>
+
+SELECT DISTINCT ?item ?itemLabel ?idOrigen ?fondoLabel ?url_PDF WHERE {
+
+  # 1. Definimos los términos que queremos buscar mediante VALUES
+  VALUES ?terminoRaw { "ENRIQUE III" } # Se pueden añadir más términos aquí: ("enrique iii" "juana i" "toledo")
+  # Convierte dinámicamente el valor a minúsculas
+  BIND(LCASE(STR(?terminoRaw)) AS ?terminoBuscado)
+
+  # 2. Identificamos el documento
+  ?item p:P1 ?statement .
+  ?statement ps:P1 Q_documento: .
+
+  # 3. Buscamos en cualquier propiedad de texto del ítem de forma insensible a mayúsculas
+  ?item ?propiedad ?textoEncontrado .
+  FILTER(isLiteral(?textoEncontrado))
+  FILTER(CONTAINS(LCASE(STR(?textoEncontrado)), ?terminoBuscado))
+
+  # 4. Capturamos el identificador de origen
+  OPTIONAL {
+    ?item P_id_origen: ?idOrigen .
+  }
+
+  # 5. Navegamos hacia el Fondo
+  OPTIONAL {
+    ?item P_incluido_en:+ ?fondo .
+    ?fondo P_tipo_agrupacion_doc: ?tipoAgrupacion .
+    FILTER(?tipoAgrupacion = Q_fondo:)
+  }
+
+  # 6. Capturamos el PDF de la instanciación digital
+  OPTIONAL {
+    ?item P_instanciacion_digital: ?instanciacionDigital .
+    ?instanciacionDigital p:P12 ?urlStatement .
+    ?urlStatement ps:P12 ?url_PDF .
+    ?urlStatement pq:P24 ?mimetype .
+    FILTER(CONTAINS(LCASE(STR(?mimetype)), "pdf"))
+  }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+}
+ORDER BY ?fondoLabel
+</syntaxhighlight>
+
+== Anexos ==
+
+=== Mapeo de Entidades y Propiedades en wikidata ===
+La tabla siguiente muestra el resultado real de la creación de la ontología, verificado en <code>mapa_ontologia_wikibase.json</code> (fichero generado tras la inyección efectiva en la instancia). Coincide exactamente con la asignación secuencial de <code>pipeline/1_creacion_Q.tsv</code> y <code>pipeline/2_creacion_P.tsv</code>.
+
+{| class="wikitable sortable"
+|+
+! Elemento Local !! Label !! Elemento Wikibase (confirmado)
+|-
+| Q_cosa || Cosa || Q1
+|-
+| Q_documento || Documento || Q2
+|-
+| Q_agrupacion_doc || Agrupación documental || Q3
+|-
+| Q_tipo_agrupacion_doc || Tipo de agrupación documental || Q4
+|-
+| Q_agrupacion_fondos || Agrupación de fondos || Q5
+|-
+| Q_fondo || Fondo documental || Q6
+|-
+| Q_subfondo || Subfondo documental || Q7
+|-
+| Q_serie || Serie documental || Q8
+|-
+| Q_instanciacion || Instanciación || Q9
+|-
+| Q_agente || Agente || Q10
+|-
+| Q_persona || Persona || Q11
+|-
+| Q_institucion || Institución || Q12
+|-
+| Q_lugar || Lugar || Q13
+|-
+| Q_materia || Materia || Q14
+|-
+| Q_fecha || Fecha || Q15
+|-
+| Q_lengua || Lengua || Q16
+|-
+| Q_castellano || Castellano || Q17
+|-
+| Q_valenciano || Valenciano || Q18
+|-
+| Q_latin || Latín || Q19
+|-
+| Q_tipo_escritura || Tipo de escritura || Q20
+|-
+| Q_escritura_cortesana || Escritura cortesana || Q21
+|-
+| Q_escritura_precortesana || Escritura precortesana || Q22
+|-
+| Q_escritura_procesal || Escritura procesal || Q23
+|-
+| Q_escritura_gotica_semicursiva || Escritura gótica semicursiva || Q24
+|-
+| Q_escritura_gotica_aragonesa || Escritura gótica aragonesa || Q25
+|-
+| Q_escritura_humanistica || Escritura humanística || Q26
+|-
+| Q_escritura_bastarda || Escritura bastarda || Q27
+|-
+| Q_escritura_hibrida || Escritura híbrida || Q28
+|-
+| Q_escritura_impresa || Escritura impresa || Q29
+|-
+| Q_escritura_caligrafia_sXVIII || Caligrafía de época (s. XVIII+) || Q30
+|-
+| P_instancia_de || instancia de || P1
+|-
+| P_subclase_de || subclase de || P2
+|-
+| P_incluido_en || incluido en || P3
+|-
+| P_tipo_agrupacion_doc || tipo de agrupación documental || P4
+|-
+| P_equivalente_a || elemento externo equivalente || P5
+|-
+| P_uri || URI RiC-O / RDFS / Schema || P6
+|-
+| P_codigo_ref || código de referencia || P7
+|-
+| P_id_origen || identificador de origen || P8
+|-
+| P_titulo || título || P9
+|-
+| P_alcance_contenido || alcance y contenido || P10
+|-
+| P_condiciones_acceso || condiciones de acceso || P11
+|-
+| P_url_acceso || URL de acceso al recurso || P12
+|-
+| P_lugar || lugar relacionado || P13
+|-
+| P_materia || materia || P14
+|-
+| P_persona || persona relacionada || P15
+|-
+| P_institucion || institución relacionada || P16
+|-
+| P_productor || productor || P17
+|-
+| P_lengua || lengua / idioma || P18
+|-
+| P_fecha || fecha de creación || P19
+|-
+| P_instanciacion_digital || instanciación digital || P20
+|-
+| P_instanciacion_fisica || instanciación física || P21
+|-
+| P_volumen_soporte || extensión del soporte || P22
+|-
+| P_estado_conservacion || estado de conservación || P23
+|-
+| P_mimetype || tipo MIME del recurso || P24
+|-
+| P_tipo_escritura || tipo de escritura || P25
+|-
+| P_fecha_expresada || expresión de fecha || P26
+|-
+| P_fecha_inicio || fecha de inicio || P27
+|-
+| P_fecha_final || fecha final || P28
+|-
+| P_nota || nota || P29
+|-
+| P_lengua_agrupacion || lengua de los miembros || P31
+|-
+| P_fecha_agrupacion || fecha de creación de los miembros || P33
+|}
+
+=== Acceso al servicio SPARQL: espacios de nombres y prefijos ===
+Aunque es totalmente posible trabajar directamente con la nomenclatura de ítems y propiedades nativa de Wikibase (Q1, P1, etc) se pueden definir prefijos para mapearlos a nos nombres usados en el modelo ontológico, lo cual facilita en gran medida la comprensión de las consultas. Tomando la url de la instancia de wikibase actual [https://carmesi-test-19.wikibase.cloud/ https://carmesi-test-19.wikibase.cloud/], los espacios de nombres y prefijos se configuran de la siguiente forma:
+ # --- CABECERA MAESTRA: ONTOLOGÍA CARMESÍ (RiC-O) ---
+ # Instancia: <nowiki>https://carmesi-test-19.wikibase.cloud/</nowiki>
+ PREFIX wd: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/</nowiki>>
+ PREFIX wdt: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/</nowiki>>
+ PREFIX p: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/</nowiki>>
+ PREFIX ps: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/statement/</nowiki>>
+ PREFIX pq: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/qualifier/</nowiki>>
+ PREFIX wikibase: <<nowiki>http://wikiba.se/ontology#</nowiki>>
+ PREFIX bd: <<nowiki>http://www.bigdata.com/rdf#</nowiki>>
+ PREFIX xsd: <<nowiki>http://www.w3.org/2001/XMLSchema#</nowiki>>
+
+ # --- Alias de Clases (Q) ---
+ PREFIX Q_cosa: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q1</nowiki>>
+ PREFIX Q_documento: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q2</nowiki>>
+ PREFIX Q_agrupacion_doc: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q3</nowiki>>
+ PREFIX Q_tipo_agrupacion_doc: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q4</nowiki>>
+ PREFIX Q_agrupacion_fondos: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q5</nowiki>>
+ PREFIX Q_fondo: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q6</nowiki>>
+ PREFIX Q_subfondo: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q7</nowiki>>
+ PREFIX Q_serie: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q8</nowiki>>
+ PREFIX Q_instanciacion: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q9</nowiki>>
+ PREFIX Q_agente: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q10</nowiki>>
+ PREFIX Q_persona: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q11</nowiki>>
+ PREFIX Q_institucion: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q12</nowiki>>
+ PREFIX Q_lugar: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q13</nowiki>>
+ PREFIX Q_materia: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q14</nowiki>>
+ PREFIX Q_fecha: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q15</nowiki>>
+ PREFIX Q_lengua: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q16</nowiki>>
+ PREFIX Q_castellano: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q17</nowiki>>
+ PREFIX Q_valenciano: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q18</nowiki>>
+ PREFIX Q_latin: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q19</nowiki>>
+ PREFIX Q_tipo_escritura: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q20</nowiki>>
+ PREFIX Q_escritura_cortesana: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q21</nowiki>>
+ PREFIX Q_escritura_precortesana: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q22</nowiki>>
+ PREFIX Q_escritura_procesal: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q23</nowiki>>
+ PREFIX Q_escritura_gotica_semicursiva: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q24</nowiki>>
+ PREFIX Q_escritura_gotica_aragonesa: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q25</nowiki>>
+ PREFIX Q_escritura_humanistica: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q26</nowiki>>
+ PREFIX Q_escritura_bastarda: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q27</nowiki>>
+ PREFIX Q_escritura_hibrida: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q28</nowiki>>
+ PREFIX Q_escritura_impresa: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q29</nowiki>>
+ PREFIX Q_escritura_caligrafia_sXVIII: <<nowiki>https://carmesi-test-19.wikibase.cloud/entity/Q30</nowiki>>
+
+ # --- Alias de Propiedades (P) ---
+ PREFIX P_instancia_de: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P1</nowiki>>
+ PREFIX P_subclase_de: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P2</nowiki>>
+ PREFIX P_incluido_en: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P3</nowiki>>
+ PREFIX P_tipo_agrupacion_doc: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P4</nowiki>>
+ PREFIX P_equivalente_a: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P5</nowiki>>
+ PREFIX P_uri: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P6</nowiki>>
+ PREFIX P_codigo_ref: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P7</nowiki>>
+ PREFIX P_id_origen: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P8</nowiki>>
+ PREFIX P_titulo: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P9</nowiki>>
+ PREFIX P_alcance_contenido: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P10</nowiki>>
+ PREFIX P_condiciones_acceso: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P11</nowiki>>
+ PREFIX P_url_acceso: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P12</nowiki>>
+ PREFIX P_lugar: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P13</nowiki>>
+ PREFIX P_materia: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P14</nowiki>>
+ PREFIX P_persona: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P15</nowiki>>
+ PREFIX P_institucion: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P16</nowiki>>
+ PREFIX P_productor: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P17</nowiki>>
+ PREFIX P_lengua: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P18</nowiki>>
+ PREFIX P_fecha: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P19</nowiki>>
+ PREFIX P_instanciacion_digital: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P20</nowiki>>
+ PREFIX P_instanciacion_fisica: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P21</nowiki>>
+ PREFIX P_volumen_soporte: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P22</nowiki>>
+ PREFIX P_estado_conservacion: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P23</nowiki>>
+ PREFIX P_mimetype: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P24</nowiki>>
+ PREFIX P_tipo_escritura: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P25</nowiki>>
+ PREFIX P_fecha_expresada: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P26</nowiki>>
+ PREFIX P_fecha_inicio: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P27</nowiki>>
+ PREFIX P_fecha_final: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P28</nowiki>>
+ PREFIX P_nota: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P29</nowiki>>
+ PREFIX P_lengua_agrupacion: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P31</nowiki>>
+ PREFIX P_fecha_agrupacion: <<nowiki>https://carmesi-test-19.wikibase.cloud/prop/direct/P33</nowiki>>

@@ -1,0 +1,51 @@
+__NOTOC__
+= Serie {{{id|}}} - {{#invoke:CustomLabel|label_Qlnk|{{{qserie|}}}}} ([[Item:{{{qserie|}}}]]) =
+== Clasificación ==
+* [[CUADRO_CLASIFICACION|{{#invoke:CustomLabel|label_Q|{{{agrupacion|}}}}}]] ([[Item:{{{agrupacion|}}}]])
+** [[CUADRO_CLASIFICACION|{{#invoke:CustomLabel|label_Q|{{{fondo|}}}}}]] ([[Item:{{{fondo|}}}]]){{#if: {{{subfondo|}}}|
+*** [[CUADRO_CLASIFICACION|{{#invoke:CustomLabel|label_Q|{{{subfondo|}}}}}]] ([[Item:{{{subfondo|}}}]])
+**** [[SR-{{{id|}}}|{{#invoke:CustomLabel|label_Q|{{{serie|}}}}}]] ([[Item:{{{serie|}}}]])|
+*** [[SR-{{{id|}}}|{{#invoke:CustomLabel|label_Q|{{{serie|}}}}}]] ([[Item:{{{serie|}}}]])}}
+
+== Datos de la serie ==
+=== 1. Área de identificación ===
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{serie}}}|{{{p_titulo|}}}}}|
+: '''1.2 Título:'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{serie}}}|{{{p_titulo|}}}}}
+|}}
+
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{serie}}}|{{{p_fecha_agrupacion|}}}}}|
+: '''1.3 Fecha(s):'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{serie}}}|{{{p_fecha_agrupacion|}}}}}
+|}}
+
+{{#if: {{{nivel|}}}|
+: '''1.4 Nivel de descripción:'''
+:: [[Item:{{{nivel|}}}|{{#invoke:CustomLabel|label_Q|{{{nivel|}}}}}]] ([[Item:{{{nivel|}}}]])
+|}}
+
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk_desc_prop|{{{serie}}}|{{{p_productor|}}}}}|
+=== 2. Área de contexto ===
+: '''2.1 Nombre del o de los productor(es):'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk_desc_prop|{{{serie}}}|{{{p_productor|}}}}}
+|}}
+
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{serie}}}|{{{p_alcance_contenido|}}}}}|
+=== 3. Área de contenido y estructura ===
+: '''3.1 Alcance y contenido:'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{serie}}}|{{{p_alcance_contenido|}}}}}
+|}}
+
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{serie}}}|{{{p_lengua_agrupacion|}}}}}|
+=== 4. Área de condiciones de acceso y utilización ===
+: '''4.3 Lengua de los documentos:'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{serie}}}|{{{p_lengua_agrupacion|}}}}}
+|}}
+
+{{#if: {{{documentos|}}}|
+== Documentos asociados ==
+{{{documentos}}}
+|}}
+
+== Referencias ==
+* [[Special:WhatLinksHere/{{FULLPAGENAME}}|Ver todas las páginas que enlazan a esta serie (incluye documentos)]]

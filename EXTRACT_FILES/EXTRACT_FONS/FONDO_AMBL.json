@@ -1,0 +1,170 @@
+{
+  "fondo": "AMBL",
+  "total_registros": 3,
+  "registros": [
+    {
+      "id_documento": "7881",
+      "sigla_fondo": "AMBL",
+      "nombre_fondo": "Archivo Municipal de Blanca",
+      "signatura_nivel2": "LP,109   /1",
+      "fecha_nivel2": "1840",
+      "titulo_nivel2": "Cuaderno de padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "944",
+        "serie_id": "4088",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=944&series=4088&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7881&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/30/24012/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Blanca (AMBL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=944&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4088&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBL LP,109  /1",
+          "1.2 Título": "Cuaderno de padrones de vecindario",
+          "1.3  Fecha(s)": "1840. Blanca",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Blanca",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/30/24012/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7881",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7881",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7881"
+        }
+      }
+    },
+    {
+      "id_documento": "7882",
+      "sigla_fondo": "AMBL",
+      "nombre_fondo": "Archivo Municipal de Blanca",
+      "signatura_nivel2": "LP,109   /2",
+      "fecha_nivel2": "1842",
+      "titulo_nivel2": "Cuaderno de padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "944",
+        "serie_id": "4088",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=944&series=4088&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7882&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/30/24013/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Blanca (AMBL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=944&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4088&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBL LP,109  /2",
+          "1.2 Título": "Cuaderno de padrones de vecindario",
+          "1.3  Fecha(s)": "1842. Blanca",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Blanca",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/30/24013/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7882",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7882",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7882"
+        }
+      }
+    },
+    {
+      "id_documento": "7883",
+      "sigla_fondo": "AMBL",
+      "nombre_fondo": "Archivo Municipal de Blanca",
+      "signatura_nivel2": "LP,109   /3",
+      "fecha_nivel2": "1850",
+      "titulo_nivel2": "Cuaderno de padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "944",
+        "serie_id": "4088",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=944&series=4088&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7883&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/30/24014/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Blanca (AMBL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=944&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4088&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBL LP,109  /3",
+          "1.2 Título": "Cuaderno de padrones de vecindario",
+          "1.3  Fecha(s)": "1850. Blanca",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Blanca",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/30/24014/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7883",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7883",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7883"
+        }
+      }
+    }
+  ]
+}

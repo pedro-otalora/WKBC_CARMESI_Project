@@ -1,0 +1,642 @@
+{
+  "fondo": "AMCR",
+  "total_registros": 12,
+  "registros": [
+    {
+      "id_documento": "8093",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,1   /3",
+      "fecha_nivel2": "28/04/1923 / 16/04/1924",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8093&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26019/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,1  /3",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "28/04/1923/16/04/1924 . Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26019/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8093",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8093",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8093"
+        }
+      }
+    },
+    {
+      "id_documento": "8095",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,7   /1",
+      "fecha_nivel2": "1924",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8095&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26021/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,7  /1",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "1924. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26021/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8095",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8095",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8095"
+        }
+      }
+    },
+    {
+      "id_documento": "8096",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,7   /2",
+      "fecha_nivel2": "1928",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8096&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26022/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,7  /2",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "1928. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26022/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8096",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8096",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8096"
+        }
+      }
+    },
+    {
+      "id_documento": "8094",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,1   /6",
+      "fecha_nivel2": "31/05/1948 / 31/01/1931",
+      "titulo_nivel2": "Libro de actas Comisión Gestora",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8094&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26020/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,1  /6",
+          "1.2 Título": "Libro de actas Comisión Gestora",
+          "1.3  Fecha(s)": "31/05/1948/31/01/1931. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26020/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8094",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8094",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8094"
+        }
+      }
+    },
+    {
+      "id_documento": "8097",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,7   /3",
+      "fecha_nivel2": "1930 / 1932",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8097&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26023/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,7  /3",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "1930/1932. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26023/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8097",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8097",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8097"
+        }
+      }
+    },
+    {
+      "id_documento": "8098",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,7   /4",
+      "fecha_nivel2": "1932",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8098&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26024/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,7  /4",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "1932. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26024/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8098",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8098",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8098"
+        }
+      }
+    },
+    {
+      "id_documento": "8099",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,7   /5",
+      "fecha_nivel2": "1933 / 1937",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8099&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26025/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,7  /5",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "1933/1937. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26025/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8099",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8099",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8099"
+        }
+      }
+    },
+    {
+      "id_documento": "8104",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,8   /5",
+      "fecha_nivel2": "30/01/1938 / 09/08/1940",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8104&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26030/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,8  /5",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "30/01/1938/09/08/1940. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26030/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8104",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8104",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8104"
+        }
+      }
+    },
+    {
+      "id_documento": "8101",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,8   /2",
+      "fecha_nivel2": "16/08/1940 / 16/01/1942",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8101&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26027/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,8  /2",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "16/08/1940/16/01/1942. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26027/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8101",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8101",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8101"
+        }
+      }
+    },
+    {
+      "id_documento": "8103",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,8   /4",
+      "fecha_nivel2": "06/02/1942  / 25/02/1944",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8103&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26029/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,8  /4",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "06/02/1942 /25/02/1944. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26029/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8103",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8103",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8103"
+        }
+      }
+    },
+    {
+      "id_documento": "8100",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,8   /1",
+      "fecha_nivel2": "03/03/1944 / 12/12/1945",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8100&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26026/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,8  /1",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "03/03/1944/12/12/1945. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26026/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8100",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8100",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8100"
+        }
+      }
+    },
+    {
+      "id_documento": "8102",
+      "sigla_fondo": "AMCR",
+      "nombre_fondo": "Archivo Municipal de Campos del Río",
+      "signatura_nivel2": "AMCR,8   /3",
+      "fecha_nivel2": "31/12/1945 / 15/05/1948",
+      "titulo_nivel2": "Libro de actas Pleno",
+      "serie_info": {
+        "archivo_id": "958",
+        "serie_id": "4164",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8102&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/36/26028/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Campos del Río (AMCR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=958&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4164&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCR AMCR,8  /3",
+          "1.2 Título": "Libro de actas Pleno",
+          "1.3  Fecha(s)": "31/12/1945/15/05/1948. Campos del Río",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Campos del Río",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/36/26028/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8102",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8102",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8102"
+        }
+      }
+    }
+  ]
+}

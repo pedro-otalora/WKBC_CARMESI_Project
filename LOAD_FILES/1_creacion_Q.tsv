@@ -1,0 +1,31 @@
+id_local	label_es	desc_es
+Q_cosa	Cosa	<rico:Thing> Cualquier idea, objeto material o acontecimiento dentro del ámbito de la experiencia humana (RiC-E01)
+Q_documento	Documento	<rico:Record> Contenido informativo discreto formado e inscrito por cualquier método en cualquier soporte persistente por un Agente (RiC-E04)
+Q_agrupacion_doc	Agrupación documental	<rico:RecordSet> Uno o más registros agrupados por un agente en función de atributos o relaciones compartidas (RiC-E03)
+Q_tipo_agrupacion_doc	Tipo de agrupación documental	<skos:Concept> Categorización del tipo de conjunto de registros
+Q_agrupacion_fondos	Agrupación de fondos documentales	(vocabulario de Q_tipo_agrupacion_doc) Nivel superior en la jerarquía de agrupaciones documentales
+Q_fondo	Fondo documental	(vocabulario de Q_tipo_agrupacion_doc) Fondo documental de una misma procedencia o productor
+Q_subfondo	Subfondo documental	(vocabulario de Q_tipo_agrupacion_doc) Subdivisión orgánica o funcional de un fondo documental
+Q_serie	Serie documental	(vocabulario de Q_tipo_agrupacion_doc) Conjunto de documentos producidos en el desarrollo de una misma función o actividad
+Q_instanciacion	Instanciación	<rico:Instantiation> Inscripción de información realizada por un agente en un soporte físico o digital, en cualquier formato persistente y recuperable (RiC-E06)
+Q_agente	Agente	<rico:Agent> Persona, grupo o entidad que actúa en el mundo (RiC-E07)
+Q_persona	Persona	<rico:Person> Ser humano individual. Subclase de rico:Agent (RiC-E08)
+Q_institucion	Institución	<rico:CorporateBody> Grupo organizado de personas que actúa conjuntamente como un agente y tiene estatus legal o social reconocido (RiC-E11)
+Q_lugar	Lugar	<rico:Place> Área o región geográfica delimitada y con nombre (RiC-E22)
+Q_materia	Materia	<skos:Concept> Entidad, concepto o recurso que es objeto o materia del documento
+Q_fecha	Fecha	<rico:Date> Información cronológica asociada a una entidad que contribuye a su identificación y contextualización (RiC-E18)
+Q_lengua	Lengua	<rico:Language> Sistema de comunicación verbal empleado en la redacción del recurso
+Q_castellano	Castellano	(vocabulario de Q_lengua) Lengua castellana/española
+Q_valenciano	Valenciano	(vocabulario de Q_lengua) Lengua valenciana
+Q_latin	Latín	(vocabulario de Q_lengua) Lengua latín
+Q_tipo_escritura	Tipo de escritura	<skos:Concept> Categorización paleográfica o tipográfica del tipo de grafía o escritura
+Q_escritura_cortesana	Escritura cortesana	(vocabulario de Q_tipo_escritura) Estilo paleográfico de escritura cortesana
+Q_escritura_precortesana	Escritura precortesana	(vocabulario de Q_tipo_escritura) Estilo paleográfico de escritura precortesana
+Q_escritura_procesal	Escritura procesal	(vocabulario de Q_tipo_escritura) Estilo paleográfico de escritura procesal
+Q_escritura_gotica_semicursiva	Escritura gótica semicursiva	(vocabulario de Q_tipo_escritura) Estilo paleográfico de escritura gótica semicursiva
+Q_escritura_gotica_aragonesa	Escritura gótica aragonesa	(vocabulario de Q_tipo_escritura) Estilo paleográfico de escritura gótica aragonesa
+Q_escritura_humanistica	Escritura humanística	(vocabulario de Q_tipo_escritura) Estilo paleográfico de escritura humanística
+Q_escritura_bastarda	Escritura bastarda	(vocabulario de Q_tipo_escritura) Estilo paleográfico de escritura bastarda
+Q_escritura_hibrida	Escritura híbrida	(vocabulario de Q_tipo_escritura) Estilo paleográfico de escritura híbrida
+Q_escritura_impresa	Escritura impresa	(vocabulario de Q_tipo_escritura) Texto en soporte tipográfico / impreso
+Q_escritura_caligrafia_sXVIII	Caligrafía de la época (a partir del siglo XVIII)	(vocabulario de Q_tipo_escritura) Estilo caligráfico propio del siglo XVIII

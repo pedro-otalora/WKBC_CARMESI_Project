@@ -1,0 +1,3060 @@
+{
+  "fondo": "AMAL",
+  "total_registros": 51,
+  "registros": [
+    {
+      "id_documento": "2971",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "AC 1575",
+      "fecha_nivel2": "1575-01-01/1575-08-04",
+      "titulo_nivel2": "Libro de Actas Capitulares.",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=2971&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/5636/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL AC 1575",
+          "1.2 Título": "Libro de Actas Capitulares.",
+          "1.3  Fecha(s)": "1575-01-01/1575-08-04. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "13 fol. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHíbrida",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/5636/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.2971",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.2971",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.2971"
+        }
+      }
+    },
+    {
+      "id_documento": "2972",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "AC 1576",
+      "fecha_nivel2": "1576-01-06/1576-12-21",
+      "titulo_nivel2": "Libro de Actas Capitulares.",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=2972&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/5637/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL AC 1576",
+          "1.2 Título": "Libro de Actas Capitulares.",
+          "1.3  Fecha(s)": "1576-01-06/1576-12-21. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "10 fol. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHíbrida",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/5637/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.2972",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.2972",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.2972"
+        }
+      }
+    },
+    {
+      "id_documento": "2973",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "AC 1577",
+      "fecha_nivel2": "1577-01-11/1577-11-19",
+      "titulo_nivel2": "Libro de Actas Capitulares.",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=2973&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/5638/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL AC 1577",
+          "1.2 Título": "Libro de Actas Capitulares.",
+          "1.3  Fecha(s)": "1577-01-11/1577-11-19. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "18 fol. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHíbrida",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/5638/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.2973",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.2973",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.2973"
+        }
+      }
+    },
+    {
+      "id_documento": "2974",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "AC 1578",
+      "fecha_nivel2": "1577-12-25/1578-04-19",
+      "titulo_nivel2": "Libro de Actas Capitulares.",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=2974&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/5639/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL AC 1578",
+          "1.2 Título": "Libro de Actas Capitulares.",
+          "1.3  Fecha(s)": "1577-12-25/1578-04-19. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "5 fol. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHíbrida",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/5639/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.2974",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.2974",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.2974"
+        }
+      }
+    },
+    {
+      "id_documento": "3665",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 1, Libro 1",
+      "fecha_nivel2": "1613-04-16 / 1614-04-22",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3665&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10313/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 1, Libro 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1613-04-16/1614-04-22. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "17 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda\r\n\t\t\t\t,\r\nHumanística",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10313/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3665",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3665",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3665"
+        }
+      }
+    },
+    {
+      "id_documento": "3666",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 2, Libro 2_01",
+      "fecha_nivel2": "1640-05-13 / 1640-09-29",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3666&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10314/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 2, Libro 2_01",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1640-05-13/1640-09-29. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "7 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10314/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3666",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3666",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3666"
+        }
+      }
+    },
+    {
+      "id_documento": "3667",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 2, Libro 2_02",
+      "fecha_nivel2": "1645-05-07 / 1645-05-03",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3667&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10315/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 2, Libro 2_02",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1645-05-07/1645-05-03. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "19 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10315/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3667",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3667",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3667"
+        }
+      }
+    },
+    {
+      "id_documento": "3668",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 2, Libro 2_03",
+      "fecha_nivel2": "1648-07-20 / 1649-02-08",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3668&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10316/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 2, Libro 2_03",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1648-07-20/1649-02-08. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "9 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=720&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10316/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3668",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3668",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3668"
+        }
+      }
+    },
+    {
+      "id_documento": "3669",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 2, Libro 2_04",
+      "fecha_nivel2": "1650-05-03 / 1650-05-03",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3669&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10317/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 2, Libro 2_04",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1650-05-03/1650-05-03. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "28 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=720&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10317/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3669",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3669",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3669"
+        }
+      }
+    },
+    {
+      "id_documento": "3670",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 2, Libro 2_05",
+      "fecha_nivel2": "1654-05-03 / 1658-05-17",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3670&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10318/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 2, Libro 2_05",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1654-05-03/1658-05-17. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "49 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10318/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3670",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3670",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3670"
+        }
+      }
+    },
+    {
+      "id_documento": "3671",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 2, Libro 2_06",
+      "fecha_nivel2": "1658-05-26 / 1659-05-03",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3671&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10319/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 2, Libro 2_06",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1658-05-26/1659-05-03. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "14 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=720&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10319/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3671",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3671",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3671"
+        }
+      }
+    },
+    {
+      "id_documento": "3672",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 2, Libro 2_07",
+      "fecha_nivel2": "1659-05-03 / 1660-04-29",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3672&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10320/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 2, Libro 2_07",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1659-05-03/1660-04-29. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "17 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10320/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3672",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3672",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3672"
+        }
+      }
+    },
+    {
+      "id_documento": "3673",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 2, Libro 2_08",
+      "fecha_nivel2": "1660-05-20 / 1666-08-06",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3673&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10321/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 2, Libro 2_08",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1660-05-20/1666-08-06. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "104 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10321/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3673",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3673",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3673"
+        }
+      }
+    },
+    {
+      "id_documento": "3674",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 2, Libro 2_09",
+      "fecha_nivel2": "1667-05-03 / 1676-05-31",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3674&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10322/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 2, Libro 2_09",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1667-05-03/1676-05-31. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "132 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10322/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3674",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3674",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3674"
+        }
+      }
+    },
+    {
+      "id_documento": "3675",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 2, Libro 2_10",
+      "fecha_nivel2": "1677-06-04 / 1681-06-05",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3675&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10323/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 2, Libro 2_10",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1677-06-04/1681-06-05. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "109 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10323/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3675",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3675",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3675"
+        }
+      }
+    },
+    {
+      "id_documento": "3676",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 3, Libro 3_01",
+      "fecha_nivel2": "1682-06-23 / 1685-05-23",
+      "titulo_nivel2": "Libro de Acta Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3676&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10324/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 3, Libro 3_01",
+          "1.2 Título": "Libro de Acta Capitulares",
+          "1.3  Fecha(s)": "1682-06-23/1685-05-23. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "122 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10324/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3676",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3676",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3676"
+        }
+      }
+    },
+    {
+      "id_documento": "3677",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 3, Libro 3_02",
+      "fecha_nivel2": "1685-05-23 / 1689-04-25",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3677&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10325/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 3, Libro 3_02",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1685-05-23/1689-04-25. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "185 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10325/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3677",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3677",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3677"
+        }
+      }
+    },
+    {
+      "id_documento": "3678",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 3, Libro 3_03",
+      "fecha_nivel2": "1689-05-22 / 1695-05-12",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3678&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10326/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 3, Libro 3_03",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1689-05-22/1695-05-12. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "174 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10326/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3678",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3678",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3678"
+        }
+      }
+    },
+    {
+      "id_documento": "3679",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja 3, Libro 3_04",
+      "fecha_nivel2": "1695-05-20 / 1701-04-25",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3679&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/10327/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja 3, Libro 3_04",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1695-05-20/1701-04-25. Alhama de Murcia",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "156 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI",
+          "6.1 Notas": "Los cinco primeros folios están cortados."
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Alhama de Murcia, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=111&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/10327/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3679",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3679",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3679"
+        }
+      }
+    },
+    {
+      "id_documento": "5347",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº 4, Volumen 4",
+      "fecha_nivel2": "1701-05-28 / 1710-03-16",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5347&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/16000/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº 4, Volumen 4",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1701-05-28/1710-03-16.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "872 p. Papel 34 x 22,5 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=186&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/16000/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5347",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5347",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5347"
+        }
+      }
+    },
+    {
+      "id_documento": "5348",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº 4, Volumen 5",
+      "fecha_nivel2": "1710-05-16 / 1726-05-21",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5348&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/16001/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº 4, Volumen 5",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1710-05-16/1726-05-21.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "982 p. Papel 34 x 22 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=186&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/16001/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5348",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5348",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5348"
+        }
+      }
+    },
+    {
+      "id_documento": "5349",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº 4, Volumen 6",
+      "fecha_nivel2": "1726-06-15 / 1744-08-14",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5349&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/16002/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº 4, Volumen 6",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1726-06-15/1744-08-14.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "1196 p. Papel 32,5 x 22 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=186&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/16002/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5349",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5349",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5349"
+        }
+      }
+    },
+    {
+      "id_documento": "5350",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº 4, Volumen 7",
+      "fecha_nivel2": "1745-05-06 / 1748-03-20",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5350&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/16003/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº 4, Volumen 7",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1745-05-06/1748-03-20.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "666 p. Papel 31 x 22,5 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=186&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/16003/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5350",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5350",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5350"
+        }
+      }
+    },
+    {
+      "id_documento": "5351",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº 4, Volumen 8",
+      "fecha_nivel2": "1748-05-11 / 1751-05-28",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5351&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/16004/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº 4, Volumen 8",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1748-05-11/1751-05-28.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "780 p. Papel 320 x 230 mm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=186&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/16004/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5351",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5351",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5351"
+        }
+      }
+    },
+    {
+      "id_documento": "5352",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº 4, Volumen 9",
+      "fecha_nivel2": "1752-05-06 / 1761-05-17",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5352&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/16005/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº 4, Volumen 9",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1752-05-06/1761-05-17.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "1190 p. Papel 32 x 22 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=186&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/16005/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5352",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5352",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5352"
+        }
+      }
+    },
+    {
+      "id_documento": "5353",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº 4, Volumen 10",
+      "fecha_nivel2": "1761-05-09 / 1774-01-17",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5353&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/16006/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº 4, Volumen 10",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1761-05-09/1774-01-17.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "1096 p. Papel 32 x 22 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=186&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/16006/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5353",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5353",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5353"
+        }
+      }
+    },
+    {
+      "id_documento": "5377",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº 9, Volumen 11",
+      "fecha_nivel2": "1773-12-31 / 1799-12-11",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5377&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/16007/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº 9, Volumen 11",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1773-12-31/1799-12-11.",
+          "1.5 Volumen y soporte de la unidad de descripción": "1046 p.  Papel 32 x 22 cm",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Alhama",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=186&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Alhama de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=30&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/16007/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5377",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5377",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5377"
+        }
+      }
+    },
+    {
+      "id_documento": "7696",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº10",
+      "fecha_nivel2": "17-12-1799 / 18-12-1820",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7696&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22000/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº10",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "17-12-1799/18-12-1820.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22000/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7696",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7696",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7696"
+        }
+      }
+    },
+    {
+      "id_documento": "7697",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº11",
+      "fecha_nivel2": "21-12-1820 / 09-12-1834",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7697&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22001/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº11",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "21-12-1820/09-12-1834.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22001/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7697",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7697",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7697"
+        }
+      }
+    },
+    {
+      "id_documento": "7698",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº12",
+      "fecha_nivel2": "1839 / 1845",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7698&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22002/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº12",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1839/1845.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22002/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7698",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7698",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7698"
+        }
+      }
+    },
+    {
+      "id_documento": "7699",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "Caja nº13",
+      "fecha_nivel2": "01-01-1846 / 23-12-1855",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3246",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7699&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22003/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3246&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL Caja nº13",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "01-01-1846/23-12-1855.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22003/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7699",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7699",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7699"
+        }
+      }
+    },
+    {
+      "id_documento": "6458",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-01",
+      "fecha_nivel2": "1768",
+      "titulo_nivel2": "Padrones de vecindario.",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6458&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/18039/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-01",
+          "1.2 Título": "Padrones de vecindario.",
+          "1.3  Fecha(s)": "1768. Alhama",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "74 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/18039/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6458",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6458",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6458"
+        }
+      }
+    },
+    {
+      "id_documento": "6459",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-02",
+      "fecha_nivel2": "1775",
+      "titulo_nivel2": "Padrones de vecindario.",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6459&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/18040/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-02",
+          "1.2 Título": "Padrones de vecindario.",
+          "1.3  Fecha(s)": "1775. Alhama",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "12 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/18040/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6459",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6459",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6459"
+        }
+      }
+    },
+    {
+      "id_documento": "6460",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-03",
+      "fecha_nivel2": "1777",
+      "titulo_nivel2": "Padrones de vecindario.",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6460&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/18041/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-03",
+          "1.2 Título": "Padrones de vecindario.",
+          "1.3  Fecha(s)": "1777. Alhama",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "92 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/18041/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6460",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6460",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6460"
+        }
+      }
+    },
+    {
+      "id_documento": "6461",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-04",
+      "fecha_nivel2": "1794",
+      "titulo_nivel2": "Padrones de vecindario.",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6461&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/18042/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-04",
+          "1.2 Título": "Padrones de vecindario.",
+          "1.3  Fecha(s)": "1794. Alhama",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "98 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/18042/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6461",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6461",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6461"
+        }
+      }
+    },
+    {
+      "id_documento": "6462",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-05",
+      "fecha_nivel2": "1821",
+      "titulo_nivel2": "Padrones de vecindario.",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6462&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/18043/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-05",
+          "1.2 Título": "Padrones de vecindario.",
+          "1.3  Fecha(s)": "1821.",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "70 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/18043/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6462",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6462",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6462"
+        }
+      }
+    },
+    {
+      "id_documento": "6463",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-06",
+      "fecha_nivel2": "1827",
+      "titulo_nivel2": "Padrones de vecindario.",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6463&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/18044/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-06",
+          "1.2 Título": "Padrones de vecindario.",
+          "1.3  Fecha(s)": "1827. Alhama",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "52 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Alhama",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/18044/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6463",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6463",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6463"
+        }
+      }
+    },
+    {
+      "id_documento": "7700",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4307-07",
+      "fecha_nivel2": "1830",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7700&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22040/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4307-07",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1830.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22040/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7700",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7700",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7700"
+        }
+      }
+    },
+    {
+      "id_documento": "7701",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4307-08",
+      "fecha_nivel2": "1831",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7701&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22041/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4307-08",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1831.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22041/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7701",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7701",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7701"
+        }
+      }
+    },
+    {
+      "id_documento": "7702",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4307-09",
+      "fecha_nivel2": "1833",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7702&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22042/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4307-09",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1833.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22042/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7702",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7702",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7702"
+        }
+      }
+    },
+    {
+      "id_documento": "7703",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4307-10",
+      "fecha_nivel2": "1836",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7703&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22043/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4307-10",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1836.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22043/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7703",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7703",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7703"
+        }
+      }
+    },
+    {
+      "id_documento": "7704",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4307-11",
+      "fecha_nivel2": "1837",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7704&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22044/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4307-11",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1837.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22044/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7704",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7704",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7704"
+        }
+      }
+    },
+    {
+      "id_documento": "7705",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4307-12",
+      "fecha_nivel2": "1843",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7705&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22045/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4307-12",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1843.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22045/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7705",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7705",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7705"
+        }
+      }
+    },
+    {
+      "id_documento": "7706",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4307-13",
+      "fecha_nivel2": "1844",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7706&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22046/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4307-13",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1844.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22046/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7706",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7706",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7706"
+        }
+      }
+    },
+    {
+      "id_documento": "7707",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4307-14",
+      "fecha_nivel2": "1845",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7707&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/22047/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4307-14",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1845.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/22047/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7707",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7707",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7707"
+        }
+      }
+    },
+    {
+      "id_documento": "8007",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-15",
+      "fecha_nivel2": "1852",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8007&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/25001/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-15",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1852. Alhama de Murcia",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/25001/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8007",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8007",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8007"
+        }
+      }
+    },
+    {
+      "id_documento": "8008",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-16",
+      "fecha_nivel2": "1853",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8008&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/25002/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-16",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1853. Alhama de Murcia",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/25002/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8008",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8008",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8008"
+        }
+      }
+    },
+    {
+      "id_documento": "8009",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-17",
+      "fecha_nivel2": "1854",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8009&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/25003/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-17",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1854. Alhama de Murcia",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/25003/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8009",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8009",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8009"
+        }
+      }
+    },
+    {
+      "id_documento": "8010",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-20",
+      "fecha_nivel2": "1861",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8010&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/25006/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-20",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1861. Alhama de Murcia",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/25006/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8010",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8010",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8010"
+        }
+      }
+    },
+    {
+      "id_documento": "8011",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4037-21",
+      "fecha_nivel2": "1864",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8011&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/25007/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4037-21",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1864. Alhama de Murcia",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/25007/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8011",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8011",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8011"
+        }
+      }
+    },
+    {
+      "id_documento": "8006",
+      "sigla_fondo": "AMAL",
+      "nombre_fondo": "Archivo Municipal de Alhama de Murcia",
+      "signatura_nivel2": "4021-04",
+      "fecha_nivel2": "1874",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "807",
+        "serie_id": "3946",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8006&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/17/25000/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Alhama de Murcia (AMAL)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=807&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3946&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMAL 4021-04",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1874. Alhama de Murcia",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/17/25000/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8006",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8006",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8006"
+        }
+      }
+    }
+  ]
+}

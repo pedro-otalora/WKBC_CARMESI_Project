@@ -1,0 +1,112 @@
+__NOTOC__
+= Documento {{{id|}}} - {{#invoke:CustomLabel|label_Qlnk|{{{qdocumento|}}}}} ([[Item:{{{qdocumento|}}}]]) =
+== Clasificación ==
+* [[CUADRO_CLASIFICACION|{{#invoke:CustomLabel|label_Q|{{{qagrupacion|}}}}}]] ([[Item:{{{qagrupacion|}}}]])
+** [[CUADRO_CLASIFICACION|{{#invoke:CustomLabel|label_Q|{{{qfondo|}}}}}]] ([[Item:{{{qfondo|}}}]]){{#if: {{{qsubfondo|}}}|
+*** [[CUADRO_CLASIFICACION|{{#invoke:CustomLabel|label_Q|{{{qsubfondo|}}}}}]] ([[Item:{{{qsubfondo|}}}]])
+**** [[SR-{{{serie_id|}}}|{{#invoke:CustomLabel|label_Q|{{{qserie|}}}}}]] ([[Item:{{{qserie|}}}]])|
+*** [[SR-{{{serie_id|}}}|{{#invoke:CustomLabel|label_Q|{{{qserie|}}}}}]] ([[Item:{{{qserie|}}}]])}}
+
+== Datos del documento ==
+=== 1. Área de identificación ===
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_codigo_ref|}}}}}|: '''1.1 Código de referencia:'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_codigo_ref|}}}}}
+|}}
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_titulo|}}}}}|: '''1.2 Título:'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_titulo|}}}}}
+|}}
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_fecha|}}}}}|: '''1.3 Fecha(s):'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_fecha|}}}}}
+|}}
+{{#if: {{{nivel|}}}|: '''1.4 Nivel de descripción:'''
+:: [[Item:{{{nivel|}}}|{{#invoke:CustomLabel|label_Q|{{{nivel|}}}}}]] ([[Item:{{{nivel|}}}]])
+|}}
+{{#if: {{#invoke:CustomLabel|propiedad_derivada_Qlnk|{{{qdocumento}}}|{{{p_instanciacion_fisica|}}}|{{{p_volumen_soporte|}}}}}|: '''1.5 Volumen y soporte de la unidad de descripción:'''
+:: {{#invoke:CustomLabel|propiedad_derivada_Qlnk|{{{qdocumento}}}|{{{p_instanciacion_fisica|}}}|{{{p_volumen_soporte|}}}}}
+|}}
+
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_productor|}}}}}{{{ingreso|}}}|
+=== 2. Área de contexto ===
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_productor|}}}}}|: '''2.1 Nombre del o de los productor(es):'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_productor|}}}}}
+|}}
+{{#if: {{{ingreso|}}}|: '''2.4 Forma de ingreso:'''
+:: {{{ingreso}}}
+|}}
+|}}
+
+=== 3. Área de contenido y estructura ===
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_alcance_contenido|}}}}}|: '''3.1 Alcance y contenido:'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_alcance_contenido|}}}}}
+|}}
+
+=== 4. Área de condiciones de acceso y utilización ===
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_condiciones_acceso|}}}}}|: '''4.1 Condiciones de acceso:'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_condiciones_acceso|}}}}}
+|}}
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk_multi|{{{qdocumento}}}|{{{p_lengua|}}}}}|: '''4.3 Lengua de los documentos:'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk_multi|{{{qdocumento}}}|{{{p_lengua|}}}}}
+|}}
+{{#if: {{#invoke:CustomLabel|propiedad_derivada_Qlnk_multi|{{{qdocumento}}}|{{{p_instanciacion_fisica|}}}|{{{p_tipo_escritura|}}}}}|: '''4.3 Escritura de los documentos:'''
+:: {{#invoke:CustomLabel|propiedad_derivada_Qlnk_multi|{{{qdocumento}}}|{{{p_instanciacion_fisica|}}}|{{{p_tipo_escritura|}}}}}
+|}}
+{{#if: {{#invoke:CustomLabel|propiedad_derivada_Qlnk|{{{qdocumento}}}|{{{p_instanciacion_fisica|}}}|{{{p_estado_conservacion|}}}}}|: '''4.4 Características físicas y requisitos técnicos:'''
+:: {{#invoke:CustomLabel|propiedad_derivada_Qlnk|{{{qdocumento}}}|{{{p_instanciacion_fisica|}}}|{{{p_estado_conservacion|}}}}}
+|}}
+
+{{#if: {{{originales|}}}{{{copias|}}}{{{relacionadas|}}}{{{publicaciones|}}}|
+=== 5. Área de documentación asociada ===
+{{#if: {{{originales|}}}|: '''5.1 Localización de originales:'''
+:: {{{originales}}}
+|}}{{#if: {{{copias|}}}|: '''5.2 Localización de copias:'''
+:: {{{copias}}}
+|}}{{#if: {{{relacionadas|}}}|: '''5.3 Unidades de descripción relacionadas:'''
+:: {{{relacionadas}}}
+|}}{{#if: {{{publicaciones|}}}|: '''5.4 Notas de publicaciones:'''
+:: {{{publicaciones}}}
+|}}
+|}}
+
+{{#if: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_nota|}}}}}|
+=== 6. Área de notas ===
+: '''6.1 Notas:'''
+:: {{#invoke:CustomLabel|propiedad_Qlnk|{{{qdocumento}}}|{{{p_nota|}}}}}
+|}}
+
+{{#if: {{{nota_archivero|}}}|
+=== 7. Área de control de la descripción ===
+: '''7.1 Nota del archivero:'''
+:: {{{nota_archivero}}}
+|}}
+
+{{#if: {{{pdf|}}}{{{djvu|}}}|
+== Instanciación digital ==
+{{#if: {{{pdf|}}}|: '''PDF'''
+:: {{{pdf}}}
+|}}{{#if: {{{djvu|}}}|: '''DjVu'''
+:: {{{djvu}}}
+|}}
+|}}
+
+{{#if: {{{personas|}}}{{{instituciones|}}}{{{materias|}}}{{{lugares|}}}|
+== Puntos de acceso ==
+{{#if: {{{personas|}}}|
+=== Personas ===
+{{{personas}}}
+|}}
+{{#if: {{{instituciones|}}}|
+=== Instituciones ===
+{{{instituciones}}}
+|}}
+{{#if: {{{materias|}}}|
+=== Materias ===
+{{{materias}}}
+|}}
+{{#if: {{{lugares|}}}|
+=== Lugares ===
+{{{lugares}}}
+|}}
+|}}
+
+== Referencias ==
+* [[Special:WhatLinksHere/{{FULLPAGENAME}}|Ver qué páginas enlazan a este documento]]

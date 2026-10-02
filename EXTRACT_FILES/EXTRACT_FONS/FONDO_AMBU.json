@@ -1,0 +1,1315 @@
+{
+  "fondo": "AMBU",
+  "total_registros": 24,
+  "registros": [
+    {
+      "id_documento": "3387",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec. 1 LEGAJO 231 Nº 1",
+      "fecha_nivel2": "1691-05-27 / 1720-11-16",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3247",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3387&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/10001/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3247&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec. 1 LEGAJO 231 Nº 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1691-05-27/1720-11-16. Bullas",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "505 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Bullas",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Bullas, Concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=204&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Bullas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=241&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/10001/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3387",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3387",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3387"
+        }
+      }
+    },
+    {
+      "id_documento": "5819",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "SEC1_LEGAJO232_N1",
+      "fecha_nivel2": "1741-04-15 / 1741-10-31",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3247",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5819&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/16188/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3247&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU SEC1_LEGAJO232_N1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1741-04-15/1741-10-31. Bullas",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "1071 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Bullas",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Bullas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=207&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/16188/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5819",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5819",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5819"
+        }
+      }
+    },
+    {
+      "id_documento": "5820",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "SEC1_LEGAJO233_N1",
+      "fecha_nivel2": "1742-01-01 / 1761-01-01",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3247",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5820&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/16189/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3247&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU SEC1_LEGAJO233_N1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1742-01-01/1761-01-01. Bullas",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "671 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Bullas",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Bullas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=207&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/16189/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5820",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5820",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5820"
+        }
+      }
+    },
+    {
+      "id_documento": "5821",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "SEC1_LEGAJO233_N2",
+      "fecha_nivel2": "1761-05-08 / 1790-12-31",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3247",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5821&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/16190/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3247&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU SEC1_LEGAJO233_N2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1761-05-08/1790-12-31. Bullas",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "756 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Bullas",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/16190/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5821",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5821",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5821"
+        }
+      }
+    },
+    {
+      "id_documento": "5822",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "SEC1_LEGAJO234_N1",
+      "fecha_nivel2": "1791-01-01 / 1799-12-31",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3247",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5822&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/16191/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3247&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU SEC1_LEGAJO234_N1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1791-01-01/1799-12-31. Bullas",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "667 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Bullas",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Bullas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=207&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/16191/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5822",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5822",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5822"
+        }
+      }
+    },
+    {
+      "id_documento": "7621",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "LEG 234-2",
+      "fecha_nivel2": "1800 / 1806",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3247",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7621&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/21005/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3247&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU LEG 234-2",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1800/1806.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/21005/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7621",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7621",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7621"
+        }
+      }
+    },
+    {
+      "id_documento": "7622",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "LEG 235-1",
+      "fecha_nivel2": "1808 / 1815",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3247",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7622&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/21006/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3247&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU LEG 235-1",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1808/1815.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/21006/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7622",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7622",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7622"
+        }
+      }
+    },
+    {
+      "id_documento": "7623",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "LEG 235-2",
+      "fecha_nivel2": "1816 / 1825",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3247",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7623&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/21007/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3247&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU LEG 235-2",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1816/1825.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/21007/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7623",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7623",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7623"
+        }
+      }
+    },
+    {
+      "id_documento": "7619",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "LEG 1-1",
+      "fecha_nivel2": "1826 / 1833",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3247",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7619&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/21003/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3247&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU LEG 1-1",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1826/1833.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/21003/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7619",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7619",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7619"
+        }
+      }
+    },
+    {
+      "id_documento": "7620",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "LEG 2-1",
+      "fecha_nivel2": "1849 / 1857",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3247",
+        "nombre_serie": "Actas Capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7620&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/21004/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Actas Capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3247&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU LEG 2-1",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1849/1857.",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/21004/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7620",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7620",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7620"
+        }
+      }
+    },
+    {
+      "id_documento": "6425",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-27-10",
+      "fecha_nivel2": "1712",
+      "titulo_nivel2": "Padrón de vecinos por calles.",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6425&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/18052/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-27-10",
+          "1.2 Título": "Padrón de vecinos por calles.",
+          "1.3  Fecha(s)": "1712. Bullas",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "4 páginas Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Bullas",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/18052/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6425",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6425",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6425"
+        }
+      }
+    },
+    {
+      "id_documento": "6423",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-27-01",
+      "fecha_nivel2": "1718",
+      "titulo_nivel2": "Vecindario de la villa de Bullas",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6423&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/18050/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-27-01",
+          "1.2 Título": "Vecindario de la villa de Bullas",
+          "1.3  Fecha(s)": "1718. Bullas",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "12 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Bullas",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/18050/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6423",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6423",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6423"
+        }
+      }
+    },
+    {
+      "id_documento": "6424",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-27-02",
+      "fecha_nivel2": "1719",
+      "titulo_nivel2": "Padrón de vecinos de la Villa",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6424&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/18051/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-27-02",
+          "1.2 Título": "Padrón de vecinos de la Villa",
+          "1.3  Fecha(s)": "1719. Bullas",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "24 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cehegín",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/18051/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6424",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6424",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6424"
+        }
+      }
+    },
+    {
+      "id_documento": "6422",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-26-01",
+      "fecha_nivel2": "1753",
+      "titulo_nivel2": "Padrón de vecinos",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6422&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/18049/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-26-01",
+          "1.2 Título": "Padrón de vecinos",
+          "1.3  Fecha(s)": "1753. Bullas",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "18 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Bullas",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/18049/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6422",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6422",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6422"
+        }
+      }
+    },
+    {
+      "id_documento": "8020",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-27-05",
+      "fecha_nivel2": "1803",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8020&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/25018/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-27-05",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1803. Bullas",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/25018/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8020",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8020",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8020"
+        }
+      }
+    },
+    {
+      "id_documento": "8021",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-27-06",
+      "fecha_nivel2": "1808",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8021&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/25019/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-27-06",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1808. Bullas",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/25019/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8021",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8021",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8021"
+        }
+      }
+    },
+    {
+      "id_documento": "8019",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-26-02",
+      "fecha_nivel2": "1821",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8019&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/25017/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-26-02",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1821. Bullas",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/25017/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8019",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8019",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8019"
+        }
+      }
+    },
+    {
+      "id_documento": "8014",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Miscelanio-Lega-13-expte-05",
+      "fecha_nivel2": "1823",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8014&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/25011/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Miscelanio-Lega-13-expte-05",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1823. Bullas",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/25011/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8014",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8014",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8014"
+        }
+      }
+    },
+    {
+      "id_documento": "8022",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-27-07",
+      "fecha_nivel2": "1824",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8022&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/25020/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-27-07",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1824. Bullas",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/25020/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8022",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8022",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8022"
+        }
+      }
+    },
+    {
+      "id_documento": "8015",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-4-1",
+      "fecha_nivel2": "1853",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8015&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/25013/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-4-1",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1853. Bullas",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/25013/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8015",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8015",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8015"
+        }
+      }
+    },
+    {
+      "id_documento": "8016",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-4-2",
+      "fecha_nivel2": "1855",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8016&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/25014/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-4-2",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1855. Bullas",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/25014/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8016",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8016",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8016"
+        }
+      }
+    },
+    {
+      "id_documento": "8017",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-4-3",
+      "fecha_nivel2": "1864",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8017&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/25015/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-4-3",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1864. Bullas",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/25015/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8017",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8017",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8017"
+        }
+      }
+    },
+    {
+      "id_documento": "8018",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sec-4-Leg-5-3",
+      "fecha_nivel2": "1875",
+      "titulo_nivel2": "Padrones de vecindario",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "3948",
+        "nombre_serie": "Padrones de vecindario",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8018&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/25016/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Padrones de vecindario",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3948&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sec-4-Leg-5-3",
+          "1.2 Título": "Padrones de vecindario",
+          "1.3  Fecha(s)": "1875. Bullas",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/25016/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8018",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8018",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8018"
+        }
+      }
+    },
+    {
+      "id_documento": "8089",
+      "sigla_fondo": "AMBU",
+      "nombre_fondo": "Archivo Municipal de Bullas",
+      "signatura_nivel2": "Sección 1ª legajo 184   /1",
+      "fecha_nivel2": "1695 / 1795",
+      "titulo_nivel2": "Libro de ordenanzas y registros de ganado, montes, caza y seda",
+      "serie_info": {
+        "archivo_id": "808",
+        "serie_id": "4163",
+        "nombre_serie": "Reales y superiores órdenes",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=4163&nombreSerie=Reales y superiores órdenes&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=8089&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/20/26015/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Bullas (AMBU)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=808&v=a"
+          },
+          {
+            "texto": "Reales y superiores órdenes",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4163&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMBU Sección 1ª legajo 184  /1",
+          "1.2 Título": "Libro de ordenanzas y registros de ganado, montes, caza y seda",
+          "1.3  Fecha(s)": "1695/1795. Bullas",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Bullas",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/20/26015/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.8089",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.8089",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.8089"
+        }
+      }
+    }
+  ]
+}

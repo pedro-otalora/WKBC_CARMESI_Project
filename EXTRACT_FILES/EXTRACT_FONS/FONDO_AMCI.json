@@ -1,0 +1,2428 @@
+{
+  "fondo": "AMCI",
+  "total_registros": 39,
+  "registros": [
+    {
+      "id_documento": "5187",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 2   Nº 1",
+      "fecha_nivel2": "1589-01-12/1595-08-10",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5187&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/5640/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 2  Nº 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1589-01-12/1595-08-10.",
+          "1.4 Nivel de descripción": "Unidad Documental Compueta",
+          "1.5 Volumen y soporte de la unidad de descripción": "428 páginas. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/5640/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5187",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5187",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5187"
+        }
+      }
+    },
+    {
+      "id_documento": "3654",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 2 Nº 2",
+      "fecha_nivel2": "1609-06-24 / 1623-01-07",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3654&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10301/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 2 Nº 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1609-06-24/1623-01-07. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "352 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHumanística",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10301/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3654",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3654",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3654"
+        }
+      }
+    },
+    {
+      "id_documento": "3655",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 2 Nº 3",
+      "fecha_nivel2": "1632-06-24 / 1637-02-16",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3655&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10302/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 2 Nº 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1632-06-24/1637-02-16. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "135 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda\r\n\t\t\t\t,\r\nHumanística\r\n\t\t\t\t,\r\nProcesal",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10302/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3655",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3655",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3655"
+        }
+      }
+    },
+    {
+      "id_documento": "3656",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 3 Nº 1",
+      "fecha_nivel2": "1637-03-26 / 1656-12-12",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3656&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10303/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 3 Nº 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1637-03-26/1656-12-12. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "240 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda\r\n\t\t\t\t,\r\nProcesal",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10303/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3656",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3656",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3656"
+        }
+      }
+    },
+    {
+      "id_documento": "3657",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 3 Nº 2",
+      "fecha_nivel2": "1659-01-13 / 1661-12-25",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3657&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10304/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 3 Nº 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1659-01-13/1661-12-25. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "128 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda\r\n\t\t\t\t,\r\nHíbrida\r\n\t\t\t\t,\r\nProcesal",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10304/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3657",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3657",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3657"
+        }
+      }
+    },
+    {
+      "id_documento": "3658",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 3 Nº 3",
+      "fecha_nivel2": "1663-02-03 / 1667-09-03",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3658&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10305/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 3 Nº 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1663-02-03/1667-09-03. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "298 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda\r\n\t\t\t\t,\r\nHíbrida\r\n\t\t\t\t,\r\nProcesal",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10305/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3658",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3658",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3658"
+        }
+      }
+    },
+    {
+      "id_documento": "3659",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 4 Nº 1",
+      "fecha_nivel2": "1668-02-28 / 1672-12-01",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3659&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10306/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 4 Nº 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1668-02-28/1672-12-01. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "162 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10306/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3659",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3659",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3659"
+        }
+      }
+    },
+    {
+      "id_documento": "3660",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 4 Nº 2",
+      "fecha_nivel2": "1673-01-16 / 1678-11-20",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3660&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10307/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 4 Nº 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1673-01-16/1678-11-20. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "235 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10307/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3660",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3660",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3660"
+        }
+      }
+    },
+    {
+      "id_documento": "3661",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 4 Nº 3",
+      "fecha_nivel2": "1678-01-16 / 1680-08-30",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3661&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10308/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 4 Nº 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1678-01-16/1680-08-30. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "151 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10308/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3661",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3661",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3661"
+        }
+      }
+    },
+    {
+      "id_documento": "3662",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 5 Nº 1",
+      "fecha_nivel2": "1683-01-04 / 1689-12-17",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3662&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10309/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 5 Nº 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1683-01-04/1689-12-17. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "195 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10309/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3662",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3662",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3662"
+        }
+      }
+    },
+    {
+      "id_documento": "3663",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 5 Nº 2",
+      "fecha_nivel2": "1690-01-22 / 1695-12-28",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3663&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10310/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 5 Nº 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1690-01-22/1695-12-28. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "342 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10310/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3663",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3663",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3663"
+        }
+      }
+    },
+    {
+      "id_documento": "3664",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 5 Nº 3",
+      "fecha_nivel2": "1696-01-05 / 1699-12-27",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3664&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/10311/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 5 Nº 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1696-01-05/1699-12-27. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "162 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nBastarda",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Cieza, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=88&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=321&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/10311/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3664",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3664",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3664"
+        }
+      }
+    },
+    {
+      "id_documento": "5783",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 6 N 1",
+      "fecha_nivel2": "1700-01-24 / 1704-12-28",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5783&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16141/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 6 N 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1700-01-24/1704-12-28. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "467 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16141/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5783",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5783",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5783"
+        }
+      }
+    },
+    {
+      "id_documento": "5784",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 6 N 2",
+      "fecha_nivel2": "1705-01-11 / 1709-12-30",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5784&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16142/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 6 N 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1705-01-11/1709-12-30. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "523 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16142/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5784",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5784",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5784"
+        }
+      }
+    },
+    {
+      "id_documento": "5785",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 6 N 3",
+      "fecha_nivel2": "1710-01-28 / 1714-12-29",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5785&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16143/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 6 N 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1710-01-28/1714-12-29. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "539 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16143/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5785",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5785",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5785"
+        }
+      }
+    },
+    {
+      "id_documento": "5786",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 7 N 1",
+      "fecha_nivel2": "1715-01-20 / 1719-12-17",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5786&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16144/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 7 N 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1715-01-20/1719-12-17. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "570 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16144/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5786",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5786",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5786"
+        }
+      }
+    },
+    {
+      "id_documento": "5787",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 7 N 2",
+      "fecha_nivel2": "1720-01-02 / 1724-08-20",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5787&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16145/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 7 N 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1720-01-02/1724-08-20. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "321 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16145/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5787",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5787",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5787"
+        }
+      }
+    },
+    {
+      "id_documento": "5788",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 7 N 3",
+      "fecha_nivel2": "1725-01-08 / 1726-12-31",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5788&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16146/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 7 N 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1725-01-08/1726-12-31. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "236 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16146/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5788",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5788",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5788"
+        }
+      }
+    },
+    {
+      "id_documento": "5789",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 7 N 4",
+      "fecha_nivel2": "1728-01-02 / 1729-12-13",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5789&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16147/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 7 N 4",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1728-01-02/1729-12-13. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "252 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16147/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5789",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5789",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5789"
+        }
+      }
+    },
+    {
+      "id_documento": "5790",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 8 N 1",
+      "fecha_nivel2": "1730-01-08 / 1734-12-30",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5790&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16148/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 8 N 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1730-01-08/1734-12-30. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "644 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16148/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5790",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5790",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5790"
+        }
+      }
+    },
+    {
+      "id_documento": "5791",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 8 N 2",
+      "fecha_nivel2": "1735-01-06 / 1739-11-29",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5791&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16149/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 8 N 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1735-01-06/1739-11-29. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "737 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16149/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5791",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5791",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5791"
+        }
+      }
+    },
+    {
+      "id_documento": "5792",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 9 N 1",
+      "fecha_nivel2": "1740-01-31 / 1742-12-23",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5792&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16150/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 9 N 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1740-01-31/1742-12-23. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "352 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16150/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5792",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5792",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5792"
+        }
+      }
+    },
+    {
+      "id_documento": "5794",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 9 N 3",
+      "fecha_nivel2": "1743-03-20 / 1743-12-31",
+      "titulo_nivel2": "Cuadernillo de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5794&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16152/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 9 N 3",
+          "1.2 Título": "Cuadernillo de Actas Capitulares",
+          "1.3  Fecha(s)": "1743-03-20/1743-12-31. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "112 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16152/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5794",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5794",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5794"
+        }
+      }
+    },
+    {
+      "id_documento": "5793",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 9 N 2",
+      "fecha_nivel2": "1744-01-04 / 1744-11-28",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5793&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16151/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 9 N 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1744-01-04/1744-11-28. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "125 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16151/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5793",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5793",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5793"
+        }
+      }
+    },
+    {
+      "id_documento": "5795",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 9 N 3",
+      "fecha_nivel2": "1745-01-31 / 1749-11-25",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5795&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16153/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 9 N 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1745-01-31/1749-11-25. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "339 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16153/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5795",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5795",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5795"
+        }
+      }
+    },
+    {
+      "id_documento": "5796",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 9 N 4",
+      "fecha_nivel2": "1750-01-09 / 1754-12-17",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5796&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16154/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 9 N 4",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1750-01-09/1754-12-17. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "404 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16154/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5796",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5796",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5796"
+        }
+      }
+    },
+    {
+      "id_documento": "5797",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 10 N 1",
+      "fecha_nivel2": "1755-01-24 / 1759-11-28",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5797&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16155/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 10 N 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1755-01-24/1759-11-28. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "348 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16155/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5797",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5797",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5797"
+        }
+      }
+    },
+    {
+      "id_documento": "5798",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 10 N 2",
+      "fecha_nivel2": "1760-01-10 / 1764-11-18",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5798&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16156/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 10 N 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1760-01-10/1764-11-18. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "541 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16156/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5798",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5798",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5798"
+        }
+      }
+    },
+    {
+      "id_documento": "5799",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 10 N 3",
+      "fecha_nivel2": "1765-01-02 / 1769-12-31",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5799&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16157/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 10 N 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1765-01-02/1769-12-31. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "427 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16157/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5799",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5799",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5799"
+        }
+      }
+    },
+    {
+      "id_documento": "5800",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 11 N 1",
+      "fecha_nivel2": "1770-01-01 / 1774-07-10",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5800&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16158/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 11 N 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1770-01-01/1774-07-10. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "339 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16158/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5800",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5800",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5800"
+        }
+      }
+    },
+    {
+      "id_documento": "5801",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 11 N 2",
+      "fecha_nivel2": "1775-01-01 / 1779-12-30",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5801&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16159/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 11 N 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1775-01-01/1779-12-30. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "565 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16159/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5801",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5801",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5801"
+        }
+      }
+    },
+    {
+      "id_documento": "5802",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 12 N 1",
+      "fecha_nivel2": "1780-01-01 / 1784-12-31",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5802&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16160/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 12 N 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1780-01-01/1784-12-31. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "900 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16160/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5802",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5802",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5802"
+        }
+      }
+    },
+    {
+      "id_documento": "5803",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 12 N 2",
+      "fecha_nivel2": "1785-01-01 / 1786-11-13",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5803&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16161/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 12 N 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1785-01-01/1786-11-13. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "218 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Mala",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16161/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5803",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5803",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5803"
+        }
+      }
+    },
+    {
+      "id_documento": "5804",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 12 N 3",
+      "fecha_nivel2": "1788-01-01 / 1788-12-12",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5804&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16162/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 12 N 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1788-01-01/1788-12-12. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "197 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16162/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5804",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5804",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5804"
+        }
+      }
+    },
+    {
+      "id_documento": "5805",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 13 N 1",
+      "fecha_nivel2": "1790-01-01 / 1790-12-23",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5805&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16163/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 13 N 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1790-01-01/1790-12-23. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "99 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16163/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5805",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5805",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5805"
+        }
+      }
+    },
+    {
+      "id_documento": "5806",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 13 N 2",
+      "fecha_nivel2": "1792-01-01 / 1795-11-05",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5806&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16164/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 13 N 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1792-01-01/1795-11-05. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "349 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16164/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5806",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5806",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5806"
+        }
+      }
+    },
+    {
+      "id_documento": "5807",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG 13 N 3",
+      "fecha_nivel2": "1796-01-01 / 1799-12-03",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3280",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5807&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/16165/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3280&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG 13 N 3",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1796-01-01/1799-12-03. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "510 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Cieza",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=148&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/16165/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5807",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5807",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5807"
+        }
+      }
+    },
+    {
+      "id_documento": "6003",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG-160-D-01",
+      "fecha_nivel2": "1554-02-22 / 1608-07-07",
+      "titulo_nivel2": "Libro de elección de oficios",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3962",
+        "nombre_serie": "Elección de cargos municipales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3962&nombreSerie=Elección de cargos municipales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6003&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/18087/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Elección de cargos municipales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3962&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG-160-D-01",
+          "1.2 Título": "Libro de elección de oficios",
+          "1.3  Fecha(s)": "1554-02-22/1608-07-07. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "487 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/18087/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6003",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6003",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6003"
+        }
+      }
+    },
+    {
+      "id_documento": "6004",
+      "sigla_fondo": "AMCI",
+      "nombre_fondo": "Archivo Municipal de Cieza",
+      "signatura_nivel2": "LEG-00-N-01",
+      "fecha_nivel2": "1556-07-15 / 1629",
+      "titulo_nivel2": "Libros de cuentas de penas de cámara y gastos de justicia",
+      "serie_info": {
+        "archivo_id": "813",
+        "serie_id": "3963",
+        "nombre_serie": "Libros de Penas de cámara y gastos de justicia",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3963&nombreSerie=Libros de Penas de cámara y gastos de justicia&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=6004&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/12/18086/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Cieza (AMCI)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=813&v=a"
+          },
+          {
+            "texto": "Libros de Penas de cámara y gastos de justicia",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3963&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMCI LEG-00-N-01",
+          "1.2 Título": "Libros de cuentas de penas de cámara y gastos de justicia",
+          "1.3  Fecha(s)": "1556-07-15/1629. Cieza",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "471 páginas Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Cieza",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/12/18086/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.6004",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.6004",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.6004"
+        }
+      }
+    }
+  ]
+}

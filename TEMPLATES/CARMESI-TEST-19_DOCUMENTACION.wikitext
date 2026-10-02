@@ -1,0 +1,442 @@
+<div style="background-color: #f8f9fa; border: 1px solid #e9ecef; padding: 25px; border-radius: 8px; margin-bottom: 20px;">
+<div style="font-size: 1.8em; font-weight: bold; line-height: 1.3; color: #202122;">Wikificación del Proyecto Carmesí</div>
+<em style="font-size: 1.3em;">Documentación técnica de la instancia: origen de los datos, modelo conceptual ISAD(G) → RiC-CM, perfil de aplicación en Wikibase, pipeline de construcción y vías de explotación del conjunto de datos</em>
+</div>
+<div style="background-color: #eaf6ea; border-left: 4px solid #2a8f3c; padding: 12px 18px; margin: 15px 0; font-size: 0.9em;">
+En el repositorio Github del proyecto se localiza toda la documentación del proyecto, scripts del pipeline y ficheros de extracción y carga de todo el proceso, incluida la salida del conjunto de datos en formato rdf/ttl
+
+https://github.com/pedro-otalora/WKBC_CARMESI_Project
+</div>
+
+__TOC__
+
+== 1. Origen del conjunto de datos ==
+
+Esta instancia de Wikibase publica el resultado de migrar los fondos documentales del '''Proyecto Carmesí''' (Catálogo de Archivos de la Región de Murcia en la Sociedad de la Información) desde su descripción original en norma '''ISAD(G)''' hacia un grafo de conocimiento basado en la ontología '''RiC-O''' (Records in Contexts Ontology).
+
+* '''Publicador y fuente original:''' Fundación Integra, accesible en [https://www.regmurcia.com/servlet/s.Sl?METHOD=FRMSENCILLA2&sit=c,373,m,139,serv,Carmesi www.regmurcia.com]. El proyecto no recibe actualizaciones desde 2019, pero el repositorio original permanece activo y de acceso abierto.
+* '''Alcance cronológico y volumétrico:''' fondos documentales de la Región de Murcia comprendidos entre los siglos XIII y XIX, con más de '''8.000 documentos''' cargados e interconectados en esta instancia.
+* '''Vía de extracción elegida:''' el repositorio de origen ofrece dos accesos — un punto OAI-PMH (salida Dublin Core/MARC21) y una interfaz web pública organizada según ISAD(G). Se descartó OAI-PMH por aplanar severamente la información: omite los niveles superiores del cuadro de clasificación y pierde áreas completas de la ISAD(G) (condiciones de acceso, notas, descripción física), quedando reducida a un puñado de campos Dublin Core genéricos, insuficientes para una reconstrucción ontológica rigurosa. Se optó por tanto por raspado web directo sobre la interfaz pública, mediante un script basado en ''BeautifulSoup'' que desciende recursivamente por el cuadro de clasificación completo (agrupación de fondos → fondo → subfondo → serie → documento) y descarga cada ficha ISAD(G).
+* '''Salida de la extracción:''' el resultado de este raspado (el cuadro de clasificación en <code>EXTRACT_FILES/cuadro_clasificacion_definitivo.json</code> y las fichas de cada fondo en <code>EXTRACT_FILES/EXTRACT_FONS/</code>) es el fichero de entrada que consume el resto del pipeline descrito en el apartado 4. El script de raspado en sí no forma parte de los ficheros de pipeline documentados en este proyecto, ya que no se consideran reutilizables para otros repositorios. No obstante, en el repositorio de GitHub se dispone de los ficheros extraídos mencionados.
+
+== 2. Del modelo ISAD(G) al modelo conceptual RiC-CM ==
+
+=== 2.1 Por qué migrar ===
+
+ISAD(G) organiza la descripción archivística como una '''unidad de descripción''' con hasta 26 campos o elementos, dentro de una jerarquía estricta de padres e hijos. RiC-CM, en cambio, sustituye ese modelo entidad-atributo por un '''grafo de entidades y relaciones''' con tipos propios (agentes, fechas, lugares, instanciaciones, actividades...), donde cualquier entidad puede relacionarse con cualquier otra, no solo verticalmente en un árbol. La consecuencia práctica es que una sola unidad de descripción ISAD(G) se descompone, al migrar, en varias entidades RiC-CM independientes — un desplazamiento que Feliciati (2021) sitúa en el debate internacional más amplio sobre la superación del instrumento de descripción como documento aislado en favor de una publicación nativa en Linked Open Data, y que Pastor-Sánchez y Llanes-Padrón (2017) documentan ya en el propio origen de RiC como unificación de ISAD(G), ISAAR(CPF), ISDF e ISDIAH.
+
+El modelo RiC-CM 1.0.1 (ICA/EGAD, septiembre de 2026, apartado 1.6.2.2, "De la descripción multinivel a la descripción multidimensional") formaliza explícitamente este desplazamiento. Frente al modelo multinivel de ISAD(G) — una jerarquía única y autocontenida que arranca en el fondo como descripción completa y desciende hacia sus partes — RiC-CM propone una descripción multidimensional en la que la relación entre entidades puede adoptar la forma de un grafo o una red, sin renunciar por ello a la jerarquía: el propio estándar asume que un conjunto de registros puede a su vez agrupar otros conjuntos de registros dispuestos jerárquicamente, pero los sitúa dentro de una red más amplia de relaciones con agentes, lugares, materias y actividades. RiC-CM añade, además, que el conjunto de registros (<code>rico:RecordSet</code>) tiene una procedencia propia, distinta de la de los documentos que agrupa, y que la descripción de estos últimos puede diferenciarse en dos planos: una '''descripción-resumen''' del propio conjunto —por ejemplo, un rango de fechas agregado— que solo es heredable intelectualmente como contexto interpretativo y no como atributo propio de cada documento; y '''relaciones compartidas''' declaradas una sola vez a nivel del conjunto que resultan legítimamente atribuibles a cada uno de los documentos miembro, lo que constituye la herencia de descripción  que persigue el modelo. 
+
+En este trabajo se aplican estas tres vertientes en la medida que lo permite la fuente original: el grafo de entidades en torno al documento —vía agentes, lugares y materias compartidos entre fichas (apartado 2.3.2)— está plenamente implementado desde el diseño original; la procedencia y la descripción-resumen propias del <code>rico:RecordSet</code> se han incorporado de forma genérica a partir de la información del propio directorio (apartado 2.3.1); y el mecanismo de herencia de descripción procesable por máquina hacia los documentos miembro, que RiC-O resuelve mediante relaciones específicas de cardinalidad (<code>hasOrHadAllMembersWith...</code> y <code>hasOrHadSomeMembersWith...</code> en lugar de inferencia OWL genérica, se ha incorporado también a partir de información inferida a partir de la fuente original: fechas extremas de cada fondo calculadas a partir de los propios documentos, y lengua agregada de los documentos miembro. Las decisiones adoptadas se desarrollan en el apartado 2.4.6. 
+
+=== 2.2 Correspondencia general ISAD(G) → RiC-CM (26 elementos) ===
+
+La tabla siguiente recoge la correspondencia entre los 26 elementos de la norma ISAD(G) y el modelo conceptual RiC-CM, contrastada con el listado oficial de atributos de '''RiC-CM 1.0.1''' (ICA/EGAD, septiembre de 2026) y las fichas de propiedad de '''RiC-O 1.1''' (ICA/EGAD, mayo 2025). La columna '''Implementación en CARMESI''' indica, para cada elemento, si existe como propiedad directa de <code>Q_documento</code>, si el valor es literal o apunta a otra entidad, y qué entidades adicionales hay que crear y cómo se enlazan. Las decisiones de modelado se razonan en el apartado 2.4.
+
+{| class="wikitable sortable" style="width: 100%;"
+! ISAD(G) !! Elemento !! Entidad / atributo RiC-CM !! Implementación en CARMESI
+|-
+! colspan="4" style="background-color: #eaecf0; text-align: left;" | Área de identificación
+|-
+| 1.1 || Código de referencia || RiC-A22 Identifier (<code>rico:identifier</code>) || En el ítem <code>Q_documento</code> (<code>rico:Record</code>):
+* Propiedad de tipo string: <code>P_codigo_ref</code>
+|-
+| 1.2 || Título || RiC-A28 Name (<code>rico:title</code>) || En el ítem <code>Q_documento</code> (<code>rico:Record</code>):
+* Propiedad de tipo string: <code>P_titulo</code>
+|-
+| 1.3 || Fecha(s) || RiC-E18 Date (<code>rico:hasCreationDate</code>) || En el ítem <code>Q_documento</code> (<code>rico:Record</code>):
+* Propiedad de tipo Elemento: <code>P_fecha</code>
+* Enlaza a un ítem <code>Q_fecha</code> (<code>rico:Date</code>)
+
+En el ítem <code>Q_fecha</code>:
+* Propiedad de tipo string: <code>P_fecha_expresada</code> (literal, campo origen ISAD 1.3)
+* Propiedad de tipo fecha: <code>P_fecha_inicio</code> (calculada)
+* Propiedad de tipo fecha: <code>P_fecha_final</code> (calculada)
+|-
+| 1.4 || Nivel de descripción || RiC-A36 Record Set Type (<code>rico:hasRecordSetType</code>), propiedad con dominio restringido a <code>rico:RecordSet</code> || Para <code>Q_documento</code> (<code>rico:Record</code>):
+* Implícito en el tipo de entidad (<code>Q_documento</code> = <code>rico:Record</code>); no hay propiedad Wikibase directa.
+
+Para las agrupaciones documentales (<code>Q_fondo</code>/<code>Q_subfondo</code>/<code>Q_serie</code> = instancias de <code>rico:RecordSet</code>):
+* Propiedad de tipo Elemento: <code>P_tipo_agrupacion_doc</code>
+* Enlaza a un ítem <code>Q_tipo_agrupacion_doc</code> (<code>skos:Concept</code>)
+|-
+| 1.5 || Volumen y soporte || RiC-A04 Carrier Extent (<code>rico:carrierExtent</code>) || En el ítem <code>Q_documento</code> (<code>rico:Record</code>):
+* Propiedad de tipo Elemento: <code>P_instanciacion_fisica</code>
+* Enlaza a un ítem <code>Q_instanciacion</code> (<code>rico:Instantiation</code>)
+
+En el ítem <code>Q_instanciacion</code>:
+* Propiedad de tipo string: <code>P_volumen_soporte</code> (literal, campo origen ISAD 1.5)
+|-
+! colspan="4" style="background-color: #eaecf0; text-align: left;" | Área de contexto
+|-
+| 2.1 || Productor || RiC-R027 (<code>rico:hasCreator</code>) → Agent || En el ítem <code>Q_documento</code> (<code>rico:Record</code>):
+* Propiedad de tipo Elemento: <code>P_productor</code>
+* Enlaza a un ítem <code>Q_institucion</code> o <code>Q_persona</code>
+|-
+| 2.2 || Historia institucional / biográfica || RiC-A21 History, o <code>rico:isOrWasAffectedBy</code> → Event || No implementado (sin datos en la fuente original)
+|-
+| 2.3 || Historia archivística || RiC-A21 History, o <code>rico:isOrWasAffectedBy</code> → Event || No implementado (sin datos en la fuente original)
+|-
+| 2.4 || Forma de ingreso || <code>rico:resultsOrResultedFrom</code> / <code>rico:isOrWasAffectedBy</code> || No implementado como propiedad Wikibase — dato disperso y poco sistemático en la fuente ISAD(G) original (campo <code>isad_24</code>); no se ha considerado justificado modelarlo como propiedad independiente en esta fase
+|-
+! colspan="4" style="background-color: #eaecf0; text-align: left;" | Área de contenido y estructura
+|-
+| 3.1 || Alcance y contenido || RiC-A38 Scope and content (<code>rico:scopeAndContent</code>) || En el ítem <code>Q_documento</code> (<code>rico:Record</code>):
+* Propiedad de tipo string: <code>P_alcance_contenido</code>
+|-
+| 3.2 || Valoración, selección y eliminación || <code>rico:isOrWasAffectedBy</code> → Activity, regulada por Rule || No implementado (sin datos en la fuente original)
+|-
+| 3.3 || Nuevos ingresos || RiC-A01 Accruals (<code>rico:accruals</code>, solo aplicable a Record Set) || No implementado (sin datos en la fuente original)
+|-
+| 3.4 || Organización || RiC-A40 Structure (<code>rico:structure</code>) || No implementado (sin datos en la fuente original)
+|-
+! colspan="4" style="background-color: #eaecf0; text-align: left;" | Área de condiciones de acceso y uso
+|-
+| 4.1 || Condiciones de acceso || RiC-A08 Conditions of Access (<code>rico:conditionsOfAccess</code>) || En el ítem <code>Q_documento</code> (<code>rico:Record</code>):
+* Propiedad de tipo string: <code>P_condiciones_acceso</code>
+|-
+| 4.2 || Condiciones de reproducción || RiC-A09 Conditions of Use (<code>rico:conditionsOfUse</code>) || No implementado (sin datos en la fuente original)
+|-
+| 4.3 || Lengua / escritura(s) || RiC-A25 Language (<code>rico:hasOrHadLanguage</code>) || '''Lengua del documento'''
+En el ítem <code>Q_documento</code> (<code>rico:Record</code>):
+* Propiedad de tipo Elemento, repetible: <code>P_lengua</code>
+* Enlaza a un ítem <code>Q_lengua</code> (<code>rico:Language</code>)
+
+Vocabulario de 3 ítems (<code>Q_castellano</code>, <code>Q_valenciano</code>, <code>Q_latin</code>); cada uno:
+* Propiedad de tipo Elemento: <code>P_instancia_de</code> → <code>Q_lengua</code>
+
+'''Tipo de escritura'''
+
+En el ítem <code>Q_instanciacion</code> (ya enlazado desde <code>P_instanciacion_fisica</code>, véase 1.5):
+* Propiedad de tipo Elemento, repetible: <code>P_tipo_escritura</code>
+* Enlaza a un ítem <code>Q_tipo_escritura</code> (<code>skos:Concept</code>)
+
+Vocabulario de 10 ítems (<code>Q_escritura_cortesana</code>, <code>Q_escritura_procesal</code>, <code>Q_escritura_gotica_semicursiva</code>, etc.); cada uno:
+* Propiedad de tipo Elemento: <code>P_instancia_de</code> → <code>Q_tipo_escritura</code>
+|-
+| 4.4 || Características físicas y requisitos técnicos || RiC-A31 Physical Characteristics Note (<code>rico:physicalCharacteristicsNote</code>) || En el ítem <code>Q_instanciacion</code> (ya enlazado desde <code>P_instanciacion_fisica</code>, véase 1.5):
+* Propiedad de tipo string: <code>P_estado_conservacion</code>
+|-
+| 4.5 || Instrumentos de descripción || <code>rico:isOrWasDescribedBy</code> → Record Resource || No implementado (sin datos en la fuente original)
+|-
+! colspan="4" style="background-color: #eaecf0; text-align: left;" | Área de documentación asociada
+|-
+| 5.1 || Existencia y localización de originales || <code>rico:hasOriginal</code> (RiC-R010i) || No implementado como propiedad Wikibase — dato disperso y poco sistemático en la fuente ISAD(G) original (campo <code>isad_51</code>); no se ha considerado justificado modelarlo como propiedad independiente en esta fase
+|-
+| 5.2 || Existencia y localización de copias || <code>rico:hasCopy</code> (RiC-R012) / <code>rico:hasOrHadDerivedInstantiation</code> (RiC-R014) || No implementado (sin datos en la fuente original)
+|-
+| 5.3 || Unidades de descripción relacionadas || <code>rico:isOrWasRelatedTo</code> || No implementado como propiedad Wikibase — dato disperso y poco sistemático en la fuente ISAD(G) original (campo <code>isad_53</code>); no se ha considerado justificado modelarlo como propiedad independiente en esta fase
+|-
+| 5.4 || Nota de publicaciones || <code>rico:isOrWasDescribedBy</code> / <code>isOrWasSubjectOf</code> || No implementado como propiedad Wikibase — dato disperso y poco sistemático en la fuente ISAD(G) original (campo <code>isad_54</code>); no se ha considerado justificado modelarlo como propiedad independiente en esta fase
+|-
+! colspan="4" style="background-color: #eaecf0; text-align: left;" | Área de notas
+|-
+| 6.1 || Notas || <code>rico:generalDescription</code> (RiC-A43) || En el ítem <code>Q_documento</code> (<code>rico:Record</code>):
+* Propiedad de tipo string: <code>P_nota</code>
+|-
+! colspan="4" style="background-color: #eaecf0; text-align: left;" | Área de control de la descripción
+|-
+| 7.1 || Nota del archivero || <code>isOrWasDescribedBy</code> || No implementado como propiedad Wikibase — dato disperso y poco sistemático en la fuente ISAD(G) original (campo <code>isad_71</code>); no se ha considerado justificado modelarlo como propiedad independiente en esta fase
+|-
+| 7.2 || Reglas o convenciones || <code>isOrWasRegulatedBy</code> → Rule (sobre una Activity de descripción) || No implementado (sin datos en la fuente original)
+|-
+| 7.3 || Fecha(s) de las descripciones || <code>rico:endDate</code> / <code>hasEndDate</code> (sobre una Activity de descripción) || No implementado (sin datos en la fuente original)
+|}
+
+=== 2.3 Elementos adicionales ===
+Además de los elementos contemplados en ISAD(G), se han modelado de forma adicional dos elementos importantes que acompañan a la descripción de los registros: el cuadro de clasificación —herramienta que mantiene la procedencia jerárquica del documento— y los puntos de acceso, elemento de vital importancia para la recuperación de información.
+
+==== 2.3.1 Cuadro de clasificación ====
+En ISAD(G) el cuadro de clasificación no constituye un área propia, sino que usa niveles jerárquicos ascendentes para representar la procedencia. Estos niveles se componen de agrupaciones documentales que corresponden a <code>rico:RecordSet</code>. Estas agrupaciones (fondo, subfondo, serie...) se identifican en la entidad <code>rico:RecordSet</code> con el atributo <code>rico:hasRecordSetType</code> apuntando a una entidad. El modelado se ha resuelto creando un vocabulario cuyos elementos son ítems para cada uno de los niveles de agrupación, de la siguiente forma:
+
+En el ítem <code>Q_documento</code> (<code>rico:Record</code>):
+* Propiedad de tipo Elemento: <code>P_incluido_en</code> (<code>rico:isDirectlyIncludedIn</code>)
+** Enlaza a un ítem <code>Q_agrupacion_doc</code> (<code>rico:RecordSet</code>)
+En el ítem <code>Q_agrupacion_doc</code> (<code>rico:RecordSet</code>):
+* Propiedad de tipo Elemento: <code>P_tipo_agrupacion_doc</code> (<code>rico:hasRecordSetType</code>)
+** Enlaza a un ítem <code>Q_tipo_agrupacion_doc</code> (<code>skos:Concept</code>)
+
+El ítem <code>Q_tipo_agrupacion_doc</code> (<code>skos:Concept</code>):
+
+* Pertenece a un vocabulario de ítems (<code>Q_agrupacion_fondos</code>, <code>Q_fondo</code>, <code>Q_subfondo</code>, <code>Q_serie</code>, etc.)
+
+* Los elementos del vocabulario tienen propiedad de tipo Elemento: <code>P_instancia_de</code> → <code>Q_tipo_agrupacion_doc</code>
+
+La propiedad <code>P_incluido_en</code> se puede aplicar tanto a <code>Q_documento</code> (<code>rico:Record</code>) como a <code>Q_agrupacion_doc</code> (<code>rico:RecordSet</code>), por lo que mediante esta propiedad se forma la jerarquía ascendente Documento → Serie → Subfondo → Fondo → Agrupación de fondos. Por rendimiento, se enlaza siempre el hijo con el padre mediante la propiedad inversa <code>rico:isDirectlyIncludedIn</code> (<code>P_incluido_en</code>), evitando declarar la relación directa en cada nodo contenedor.
+
+Sobre cada ítem <code>Q_agrupacion_doc</code> (fondo, subfondo, serie), además de <code>P_incluido_en</code> se añaden las siguientes propiedades:
+
+* Propiedad de tipo string: <code>P_titulo</code> RiC-A28 Name (<code>rico:title</code>)
+* Propiedad de tipo string: <code>P_alcance_contenido</code> (RiC-A38, <code>rico:scopeAndContent</code>): descripción generada a partir del título de la agrupación.
+* Propiedad de tipo Elemento<code>P_productor</code> (RiC-R027, <code>rico:hasCreator</code>): se crea o reutiliza un único ítem <code>Q_institucion</code> por fondo. Como el dato no está disponible en la fuente original, se genera a partir del propio título del fondo. Los subfondos y series descendientes de ese fondo heredan y reutilizan sin modificación el mismo <code>Q_institucion</code> ya resuelto para su fondo, propagado recursivamente durante el descenso por el cuadro de clasificación.
+
+* Propiedad de tipo Elemento<code>P_fecha_agrupacion</code> (<code>rico:hasOrHadAllMembersWithCreationDate</code>, RiC-CM 1.0: RiC-R081i): enlaza el fondo/subfondo/serie con un ítem <code>Q_fecha</code> propio cuya etiqueta es el rango cronológico extremo calculado a partir de <code>P_fecha_inicio</code>/<code>P_fecha_final</code> de todos los documentos de la agrupación.
+* Propiedad de tipo Elemento<code>P_lengua_agrupacion</code> (<code>rico:hasOrHadAllMembersWithLanguage</code>, sin código RiC-CM 1.0 propio; relación introducida directamente en RiC-O 1.1, sin equivalente formal en el modelo conceptual): enlaza la agrupación con el ítem <code>Q_lengua</code> correspondiente únicamente cuando todos sus documentos miembro comparten una única lengua; una agrupación con documentos en varias lenguas, o con algún documento sin lengua resuelta, queda sin este valor, en coherencia con la semántica de la relación.
+
+==== 2.3.2 Puntos de acceso ====
+En ISAD(G) los '''Puntos de acceso''' (personas, instituciones, lugares, materias) no constituyen un área propia ni campos obligatorios: son descriptores extraídos del Título y del Alcance y contenido. En el proyecto se han modelado como entidades RiC-CM de primer orden, compartidas entre documentos: <code>Q_persona</code>/<code>Q_institucion</code> (<code>rico:hasOrHadSubject</code> vía <code>P_persona</code>/<code>P_institucion</code>), <code>Q_lugar</code> (<code>rico:isAssociatedWithPlace</code> vía <code>P_lugar</code>) y <code>Q_materia</code> (<code>rico:hasOrHadSubject</code> vía <code>P_materia</code>, como <code>skos:Concept</code>).
+
+=== 2.4 Decisiones de modelado ===
+
+Este apartado justifica las decisiones que no se derivan de forma automática en el mapeo ISAD(G) → RiC-CM, y las sitúa frente a otras implementaciones de RiC-CM publicadas, sirviendo así para contrastar las diferentes interpretaciones a las que da lugar el modelo RiC-CM.
+
+==== 2.4.1 Productor como agente autónomo ====
+ISAD(G) trata el productor (2.1) como una anotación de texto libre sobre la unidad de descripción, sin identidad propia ni relaciones con otras entidades. RiC-CM, continuando la misma lógica que ya proponía ISAAR(CPF) para los registros de autoridad, convierte al productor en una entidad independiente <code>rico:Agent</code>, especializada en <code>rico:CorporateBody</code> (<code>Q_institucion</code>) o <code>rico:Person</code> (<code>Q_persona</code>), vinculada al documento mediante <code>rico:hasCreator</code>. Es la decisión que más beneficio aporta en recuperación: permite listar en una sola consulta SPARQL todos los documentos producidos por una misma institución o persona, frente a una búsqueda de texto libre poco fiable sobre el campo 2.1 original. Santos y Revez (2023) y Dimitriou et al. (2025) adoptan la misma solución en sus respectivos casos de aplicación de RiC-CM, la correspondencia científica del Museo do Dundo y los fondos judiciales del Tribunal Penal de Corfú, respectivamente, lo que confirma que se trata de una decisión de modelado consolidada.
+
+==== 2.4.2 Fechas ====
+El campo 1.3 de ISAD(G) admite tanto una fecha normalizada como una expresión libre ("s. XIV, post 1350"), y ambas conviven habitualmente en la práctica archivística sin que una sustituya a la otra. RiC-CM resuelve esta dualidad con la entidad <code>rico:Date</code>, que separa la expresión literal (<code>rico:expressedDate</code>) de los límites cronológicos normalizados (<code>rico:beginningDate</code>/<code>rico:endDate</code>). En el proyecto se adopta este mismo patrón de tres propiedades sobre el ítem <code>Q_fecha</code> en lugar de forzar una fecha ISO 8601 única por documento, evitando perder matices de precisión o incertidumbre que la normalización estricta no puede representar, y manteniendo cada documento consultable por rango cronológico sin renunciar al texto original de la fuente.
+
+==== 2.4.3 Nivel de descripción ====
+RiC-CM no dedica un atributo propio al nivel de descripción archivística: la propia elección del tipo de entidad — <code>rico:Record</code> para el documento, <code>rico:RecordSet</code> para cualquier agrupación — ya codifica esa información, y RiC-A36 (Record Set Type) matiza además qué tipo de agrupación es (fondo, subfondo, serie...) cuando aplica. Carmesí sigue esta misma lectura, confirmada de forma independiente en ''ISAD(G) to RiC Conversion Skill'' de Matthew Bruton, que documenta idéntica ausencia de atributo directo para este elemento. Se descartó por tanto crear una <code>P_nivel_descripcion</code> redundante con el tipo de entidad ya asignado. Para las representaciones ISAD(G) del Nivel de descripción (1.4) implementados en el proyecto, en el caso de los documentos <code>rico:Record</code> se enlaza al ítem <code>Q_documento</code> , mientras que en las agrupaciones <code>rico:RecordSet</code> se enlaza al ítem del vocabulario <code>Q_tipo_agrupacion_doc</code> que representa su nivel (<code>Q_fondo</code>, <code>Q_subfondo</code>, <code>Q_serie</code>, etc.) mediante la propiedad de elemento <code>P_tipo_agrupacion_doc</code> (<code>rico:hasRecordSetType</code>).
+
+==== 2.4.4 Instanciación física frente a digital ====
+ISAD(G) no distingue estructuralmente entre las características intelectuales del documento y las de su soporte: el volumen y soporte (1.5) y las características físicas (4.4) se describen como si fueran atributos directos de la unidad de descripción. RiC-CM separa ambos planos mediante la entidad <code>rico:Instantiation</code>, que representa cada materialización concreta — física o digital — de un mismo recurso documental. En el proyecto  explota esta separación de forma doble: la propiedad de elemento <code>rico:hasOrHadAnalogueInstantiation</code> enlaza el documento con un ítem <code>Q_instanciacion</code> que contiene las propiedades de tipo string <code>P_volumen_soporte</code> y <code>P_estado_conservacion</code> con el soporte físico original (volumen, folios, estado de conservación), mientras que en la propiedad de tipo elemento <code>rico:hasOrHadDigitalInstantiation</code>, repetible, enlaza con cada formato digital disponible (PDF, DjVu) como un ítem <code>Q_instanciacion</code> independiente, con su propia URL (<code>P_url_acceso</code>) y tipo MIME (<code>P_mimetype</code>). Este mismo patrón de separación instanciación física/digital es el que documentan Giagnolini y Koch (2025) en su dataset de referencia con RiC-O Converter, y resulta imprescindible en cuanto un mismo documento cuenta con más de una digitalización o formato de acceso.
+
+==== 2.4.5 Lengua y tipo de escritura como entidades propias ====
+El campo 4.3 de ISAD(G) mezcla en un único apartado de texto libre dos informaciones de naturaleza distinta: la lengua del documento y el sistema paleográfico empleada en su redacción. El proyecto desgrana este campo en dos vocabularios controlados independientes. Por una parte, la lengua del documento se guarda en la propiedad de elemento <code>rico:hasOrHadLanguage</code> que apunta a un ítem del vocabulario<code>Q_lengua</code> (<code>rico:Language)</code> . Por otro lado, el tipo de escritura se informa in la instanciación física del documento en su propiedad de elemento P<code>_tipo_escritura</code> que apunta a un ítem <code>Q_tipo_escritura</code> (sin equivalente formal en RiC-O, modelado con un vocabulario <code>skos:Concept</code>). El vocabulario contiene un ítem por cada tipo de escritura. En lugar de conservarlos como una anotación conjunta de texto libre, este modelado sobre vocabularios controlados permite aislar por SPARQL, por ejemplo, todos los documentos en valenciano o todos los escritos en gótica cortesana, algo imposible sobre el campo de texto libre original. Es también la decisión que exige mayor disciplina de mantenimiento, al depender de un vocabulario cerrado que debe ampliarse explícitamente ante cualquier estilo de escritura no contemplado.
+
+==== 2.4.6 Alcance de la herencia de descripción entre Record Set y Record ====
+Las dos vías de descripción multidimensional ya introducidas en el apartado 2.1, se implementan en este proyecto de forma consolidada. La primera vía queda cubierta, sobre cada ítem <code>Q_agrupacion_doc</code> (<code>Q_fondo</code>/<code>Q_subfondo</code>/<code>Q_serie</code>), mediante <code>P_productor</code> y <code>P_alcance_contenido</code> (apartado 2.3.1): el conjunto deja de ser un nodo puramente estructural (etiqueta, tipo y posición en <code>P_incluido_en</code>) y adquiere una procedencia y una descripción-resumen propias, distintas de las de sus documentos miembro. La segunda vía —relaciones declaradas una sola vez a nivel del conjunto y legítimamente atribuibles a cada documento miembro, sin inferencia OWL— se implementa mediante la familia de relaciones de cardinalidad de RiC-O 1.1 (apartado 2.1), limitada al cuantificador "All" calculado por agregación directa sobre los documentos miembro, y a dos de las categorías que RiC-O habilita para este mecanismo: fecha y lengua (<code>P_fecha_agrupacion</code> y <code>P_lengua_agrupacion</code>, apartado 2.3.1). Se descartó un tercer candidato evaluado, el muestreo de puntos de acceso frecuentes vía <code>hasOrHadSomeMembersWithSubject</code>, por la complejidad de modelado no justificada que introducía.
+
+Esta combinación es además fiel a las limitaciones de la fuente: la interfaz ISAD(G) original no ofrece una ficha descriptiva independiente por fondo o serie, solo agregación estructural en el cuadro de clasificación (apartado 1), por lo que los valores de <code>P_productor</code> y <code>P_alcance_contenido</code> inyectados proceden de la propia ficha del fondo (su título y su descripción), y no de una generalización estadística sobre sus documentos miembro, mientras que <code>P_fecha_agrupacion</code> y <code>P_lengua_agrupacion</code> sí son, por construcción, agregaciones calculadas directamente sobre los documentos ya inyectados.
+
+== 3. Ontología del perfil de aplicación (ítems y propiedades reales) ==
+
+El perfil de aplicación traduce el modelo anterior a ítems (<code>Q</code>) y propiedades (<code>P</code>) nativos de Wikibase. Las tablas siguientes muestran el '''identificador Wikibase real''' de cada elemento, recogido en el fichero de salida <code>mapa_ontologia_wikibase.json</code> y coincidente con la asignación secuencial de <code>1_creacion_Q.tsv</code> y <code>2_creacion_P.tsv</code>.
+
+=== 3.1 Ítems (clases y vocabularios controlados) ===
+
+{| class="wikitable sortable" style="width: 100%;"
+! QID !! Código local !! Etiqueta (es) !! Equivalencia RiC-O / semántica
+|-
+| [[Item:Q1|Q1]] || <code>Q_cosa</code> || Cosa || <code>rico:Thing</code>
+|-
+| [[Item:Q2|Q2]] || <code>Q_documento</code> || Documento || <code>rico:Record</code>
+|-
+| [[Item:Q3|Q3]] || <code>Q_agrupacion_doc</code> || Agrupación documental || <code>rico:RecordSet</code>
+|-
+| [[Item:Q4|Q4]] || <code>Q_tipo_agrupacion_doc</code> || Tipo de agrupación documental || <code>skos:Concept</code>
+|-
+| [[Item:Q5|Q5]] || <code>Q_agrupacion_fondos</code> || Agrupación de fondos || Instancia de <code>rico:RecordSet</code>
+|-
+| [[Item:Q6|Q6]] || <code>Q_fondo</code> || Fondo documental || Instancia de <code>rico:RecordSet</code>
+|-
+| [[Item:Q7|Q7]] || <code>Q_subfondo</code> || Subfondo documental || Instancia de <code>rico:RecordSet</code>
+|-
+| [[Item:Q8|Q8]] || <code>Q_serie</code> || Serie documental || Instancia de <code>rico:RecordSet</code>
+|-
+| [[Item:Q9|Q9]] || <code>Q_instanciacion</code> || Instanciación || <code>rico:Instantiation</code>
+|-
+| [[Item:Q10|Q10]] || <code>Q_agente</code> || Agente || <code>rico:Agent</code> (owl:sameAs wd:Q24229398)
+|-
+| [[Item:Q11|Q11]] || <code>Q_persona</code> || Persona || <code>rico:Person</code>
+|-
+| [[Item:Q12|Q12]] || <code>Q_institucion</code> || Institución || <code>rico:CorporateBody</code> (owl:sameAs wd:Q43229)
+|-
+| [[Item:Q13|Q13]] || <code>Q_lugar</code> || Lugar || <code>rico:Place</code> (owl:sameAs wd:Q2221906)
+|-
+| [[Item:Q14|Q14]] || <code>Q_materia</code> || Materia || <code>skos:Concept</code>
+|-
+| [[Item:Q15|Q15]] || <code>Q_fecha</code> || Fecha || <code>rico:Date</code> (owl:sameAs wd:Q205892)
+|-
+| [[Item:Q16|Q16]] || <code>Q_lengua</code> || Lengua || <code>rico:Language</code>
+|-
+| [[Item:Q17|Q17]] || <code>Q_castellano</code> || Castellano || Instancia de <code>Q_lengua</code>; owl:sameAs wd:Q1321
+|-
+| [[Item:Q18|Q18]] || <code>Q_valenciano</code> || Valenciano || Instancia de <code>Q_lengua</code>
+|-
+| [[Item:Q19|Q19]] || <code>Q_latin</code> || Latín || Instancia de <code>Q_lengua</code>; owl:sameAs wd:Q397
+|-
+| [[Item:Q20|Q20]] || <code>Q_tipo_escritura</code> || Tipo de escritura || <code>skos:Concept</code> (sin equivalente formal en RiC-O)
+|-
+| [[Item:Q21|Q21]] || <code>Q_escritura_cortesana</code> || Escritura cortesana || Instancia de <code>Q_tipo_escritura</code>
+|-
+| [[Item:Q22|Q22]] || <code>Q_escritura_precortesana</code> || Escritura precortesana || Instancia de <code>Q_tipo_escritura</code>
+|-
+| [[Item:Q23|Q23]] || <code>Q_escritura_procesal</code> || Escritura procesal || Instancia de <code>Q_tipo_escritura</code>
+|-
+| [[Item:Q24|Q24]] || <code>Q_escritura_gotica_semicursiva</code> || Escritura gótica semicursiva || Instancia de <code>Q_tipo_escritura</code>
+|-
+| [[Item:Q25|Q25]] || <code>Q_escritura_gotica_aragonesa</code> || Escritura gótica aragonesa || Instancia de <code>Q_tipo_escritura</code>
+|-
+| [[Item:Q26|Q26]] || <code>Q_escritura_humanistica</code> || Escritura humanística || Instancia de <code>Q_tipo_escritura</code>
+|-
+| [[Item:Q27|Q27]] || <code>Q_escritura_bastarda</code> || Escritura bastarda || Instancia de <code>Q_tipo_escritura</code>
+|-
+| [[Item:Q28|Q28]] || <code>Q_escritura_hibrida</code> || Escritura híbrida || Instancia de <code>Q_tipo_escritura</code>
+|-
+| [[Item:Q29|Q29]] || <code>Q_escritura_impresa</code> || Escritura impresa || Instancia de <code>Q_tipo_escritura</code>
+|-
+| [[Item:Q30|Q30]] || <code>Q_escritura_caligrafia_sXVIII</code> || Caligrafía de época (s. XVIII+) || Instancia de <code>Q_tipo_escritura</code>
+|}
+
+'''Total: 30 ítems Q''' (<code>mapa_ontologia_wikibase.json</code>).
+
+=== 3.2 Propiedades ===
+
+{| class="wikitable sortable" style="width: 100%;"
+! PID !! Código local !! Etiqueta (es) !! Mapeo RiC-CM / RiC-O !! Tipo de dato (Wikibase) !! Función
+|-
+! colspan="6" style="background-color: #eaecf0; text-align: left;" | Relaciones estructurales y de catalogación básica
+|-
+| [[Property:P1|P1]] || <code>P_instancia_de</code> || instancia de || <code>rdf:type</code> || <code>wikibase-item</code> || Clasificación ontológica del ítem
+|-
+| [[Property:P2|P2]] || <code>P_subclase_de</code> || subclase de || <code>rdfs:subClassOf</code> || <code>wikibase-item</code> || Relación taxonómica entre clases
+|-
+| [[Property:P3|P3]] || <code>P_incluido_en</code> || incluido en || <code>rico:isDirectlyIncludedIn</code> (RiC-R024i) || <code>wikibase-item</code> || Vinculación con el nivel jerárquico superior
+|-
+| [[Property:P4|P4]] || <code>P_tipo_agrupacion_doc</code> || tipo de agrupación documental || <code>rico:hasRecordSetType</code> (RiC-A36) || <code>wikibase-item</code> || Asignación tipológica (fondo, subfondo, serie)
+|-
+| [[Property:P7|P7]] || <code>P_codigo_ref</code> || código de referencia || <code>rico:identifier</code> (RiC-A22) || <code>string</code> || Signatura archivística (ISAD 1.1)
+|-
+| [[Property:P8|P8]] || <code>P_id_origen</code> || identificador de origen || <code>rico:identifier</code> (RiC-A22) || <code>string</code> || Identificador interno del sistema Carmesí; clave de reconciliación del pipeline
+|-
+| [[Property:P9|P9]] || <code>P_titulo</code> || título || <code>rico:title</code> (RiC-A28) || <code>string</code> || Denominación del recurso (ISAD 1.2)
+|-
+| [[Property:P10|P10]] || <code>P_alcance_contenido</code> || alcance y contenido || <code>rico:scopeAndContent</code> (RiC-A38) || <code>string</code> || Resumen del contenido informativo (ISAD 3.1)
+|-
+| [[Property:P29|P29]] || <code>P_nota</code> || nota || <code>rico:generalDescription</code> (RiC-A43) || <code>string</code> || Nota (ISAD 6.1)
+|-
+| [[Property:P11|P11]] || <code>P_condiciones_acceso</code> || condiciones de acceso || <code>rico:conditionsOfAccess</code> (RiC-A08) || <code>string</code> || Régimen de consulta (ISAD 4.1)
+|-
+| [[Property:P12|P12]] || <code>P_url_acceso</code> || URL de acceso al recurso || <code>schema:url</code> || <code>url</code> || Enlace resoluble a la ficha o archivo web
+|-
+! colspan="6" style="background-color: #eaecf0; text-align: left;" | Propiedades temporales
+|-
+| [[Property:P19|P19]] || <code>P_fecha</code> || fecha de creación || <code>rico:hasCreationDate</code> (RiC-R080i) || <code>wikibase-item</code> || Enlace al ítem <code>Q_fecha</code>
+|-
+| [[Property:P26|P26]] || <code>P_fecha_expresada</code> || expresión de fecha || <code>rico:expressedDate</code> || <code>string</code> || Fecha en texto libre, tal como figura en la fuente
+|-
+| [[Property:P27|P27]] || <code>P_fecha_inicio</code> || fecha de inicio || <code>rico:beginningDate</code> || <code>time</code> || Límite cronológico inferior (ISO 8601)
+|-
+| [[Property:P28|P28]] || <code>P_fecha_final</code> || fecha final || <code>rico:endDate</code> || <code>time</code> || Límite cronológico superior (ISO 8601)
+|-
+| [[Property:P33|P33]]|| <code>P_fecha_agrupacion</code> || fecha de creación de los miembros || <code>rico:hasOrHadAllMembersWithCreationDate</code> (RiC-CM 1.0: RiC-R081i) || <code>wikibase-item</code> || Rango cronológico agregado de los documentos de un fondo/subfondo/serie (apartado 2.3.1)
+|-
+! colspan="6" style="background-color: #eaecf0; text-align: left;" | Propiedades de instanciación y soportes
+|-
+| [[Property:P20|P20]] || <code>P_instanciacion_digital</code> || instanciación digital || <code>rico:hasOrHadDigitalInstantiation</code> (RiC-R025) || <code>wikibase-item</code> || Enlace repetible a <code>Q_instanciacion</code> (digital)
+|-
+| [[Property:P21|P21]] || <code>P_instanciacion_fisica</code> || instanciación física || <code>rico:hasOrHadAnalogueInstantiation</code> (RiC-R025) || <code>wikibase-item</code> || Enlace a <code>Q_instanciacion</code> (física)
+|-
+| [[Property:P22|P22]] || <code>P_volumen_soporte</code> || extensión del soporte || <code>rico:carrierExtent</code> (RiC-A04) || <code>string</code> || Folios, unidades y dimensiones (ISAD 1.5)
+|-
+| [[Property:P23|P23]] || <code>P_estado_conservacion</code> || estado de conservación || <code>rico:physicalCharacteristicsNote</code> (RiC-A31) || <code>string</code> || Deterioros y características materiales (ISAD 4.4)
+|-
+| [[Property:P24|P24]] || <code>P_mimetype</code> || tipo MIME del recurso || Calificador de <code>P_url_acceso</code> || <code>string</code> || Formato (<code>application/pdf</code>, <code>image/vnd.djvu</code>...)
+|-
+| [[Property:P25|P25]] || <code>P_tipo_escritura</code> || tipo de escritura || <code>dcterms:type</code> (sin equivalente formal en RiC-O) || <code>wikibase-item</code> || Enlace repetible a <code>Q_escritura_*</code>
+|-
+! colspan="6" style="background-color: #eaecf0; text-align: left;" | Propiedades contextuales: agentes, lugares, materia, lengua
+|-
+| [[Property:P17|P17]] || <code>P_productor</code> || productor || <code>rico:hasCreator</code> (RiC-R027) || <code>wikibase-item</code> || Enlace al agente productor (ISAD 2.1)
+|-
+| [[Property:P16|P16]] || <code>P_institucion</code> || institución relacionada || <code>rico:hasOrHadSubject</code> (RiC-R019) || <code>wikibase-item</code> || Institución como punto de acceso
+|-
+| [[Property:P15|P15]] || <code>P_persona</code> || persona relacionada || <code>rico:hasOrHadSubject</code> (RiC-R019) || <code>wikibase-item</code> || Persona como punto de acceso
+|-
+| [[Property:P13|P13]] || <code>P_lugar</code> || lugar relacionado || <code>rico:isAssociatedWithPlace</code> (RiC-R074i) || <code>wikibase-item</code> || Localización geográfica asociada
+|-
+| [[Property:P14|P14]] || <code>P_materia</code> || materia || <code>rico:hasOrHadSubject</code> (RiC-R019) || <code>wikibase-item</code> || Concepto temático (<code>Q_materia</code>)
+|-
+| [[Property:P18|P18]] || <code>P_lengua</code> || lengua / idioma || <code>rico:hasOrHadLanguage</code> (RiC-A25) || <code>wikibase-item</code> || Enlace repetible a <code>Q_castellano</code>/<code>Q_valenciano</code>/<code>Q_latin</code> (ISAD 4.3)
+|-
+| ''[[Property:P31|P31]]'' || <code>P_lengua_agrupacion</code> || lengua de los miembros || <code>rico:hasOrHadAllMembersWithLanguage</code> (sin código RiC-CM 1.0 propio) || <code>wikibase-item</code> || Lengua común a todos los documentos de la agrupación, solo si es homogénea (apartado 2.3.1)
+|-
+! colspan="6" style="background-color: #eaecf0; text-align: left;" | Meta-propiedades de alineación semántica
+|-
+| [[Property:P5|P5]] || <code>P_equivalente_a</code> || elemento externo equivalente || <code>owl:sameAs</code> || <code>external-id</code> || Identificador externo (Wikidata; VIAF/BNE aún no poblado)
+|-
+| [[Property:P6|P6]] || <code>P_uri</code> || URI RiC-O / RDFS / Schema / DC || <code>rdfs:isDefinedBy</code> || <code>url</code> || URI canónica en la ontología o vocabulario de origen
+|}
+
+'''Total: 31 propiedades P''' (<code>mapa_ontologia_wikibase.json</code>).
+
+== 4. El pipeline: construcción del dataset ==
+
+=== 4.1 Cómo se ha construido el dataset ===
+El conjunto de datos se genera y mantiene mediante un pipeline de scripts Python numerados, cada uno con una responsabilidad única y ficheros de control propios que garantizan la idempotencia (poder relanzar un script sin duplicar lo ya creado). Todos comparten configuración a través de <code>config_carmesi.py</code> (conexión a la API de Wikibase vía <code>wikibaseintegrator</code>, rutas de ficheros) y una utilidad común de progreso (<code>progreso.py</code>).
+
+{| class="wikitable" style="width: 100%;"
+! Script !! Función !! Entrada !! Salida
+|-
+| ''(extracción, fuera del pipeline numerado)'' || Raspado web del cuadro de clasificación y las fichas ISAD(G) mediante BeautifulSoup || Interfaz web de regmurcia.com || <code>EXTRACT_FILES/cuadro_clasificacion_definitivo.json</code>, fichas por fondo en <code>EXTRACT_FILES/EXTRACT_FONS/</code>
+|-
+| <code>000_publicar_plantillas.py</code> || Publica las plantillas wiki (<code>Template:FichaDocumento</code>, <code>Template:FichaSerie</code>) y el módulo Lua <code>Module:CustomLabel</code> desde ficheros locales. || Ficheros en <code>TEMPLATES/</code> || Páginas <code>Template:*</code> y <code>Module:*</code> en el wiki
+|-
+| <code>010_inyectar_ontologia.py</code> || Crea secuencialmente los ítems Q y las propiedades P de la ontología a partir de <code>1_creacion_Q.tsv</code>/<code>2_creacion_P.tsv</code>, e inyecta las declaraciones de incluidas en <code>3_declaraciones.tsv</code> || <code>1_creacion_Q.tsv</code>, <code>2_creacion_P.tsv</code>, <code>3_declaraciones.tsv</code> (en <code>LOAD_FILES/</code>) || <code>LOAD_FILES/mapa_ontologia_wikibase.json</code>
+|-
+| <code>020_cargar_cuadro_clasificacion.py</code> || Recrea recursivamente el cuadro de clasificación (agrupación de fondos → fondo → subfondo → serie) como ítems <code>Q_agrupacion_doc</code> enlazados por <code>P_incluido_en</code> || <code>EXTRACT_FILES/cuadro_clasificacion_definitivo.json</code> + <code>LOAD_FILES/mapa_ontologia_wikibase.json</code> || <code>LOAD_FILES/mapa_cuadro_wikibase.json</code>
+|-
+| <code>030_transformar_registros.py</code> || Normaliza cada ficha ISAD(G) extraída: limpieza de texto, extracción y normalización ISO 8601 de fechas (conservando la expresión original), desglose de lengua/escritura en los vocabularios controlados, identificación de puntos de acceso con su <code>clave_mapa</code> de reconciliación. Es una fase puramente local, sin escritura en Wikibase || <code>EXTRACT_FILES/EXTRACT_FONS/</code> (fichas ISAD(G) extraídas) + <code>LOAD_FILES/mapa_ontologia_wikibase.json</code> + <code>LOAD_FILES/mapa_cuadro_wikibase.json</code> || <code>LOAD_FILES/mapa_items_inyectar_wikibase.json</code>
+|-
+| <code>040_inyectar_registros.py</code> || Inyecta cada documento y sus entidades secundarias (fecha, instanciaciones) y compartidas (agentes/lugares/materias, deduplicadas por <code>clave_mapa</code>) en Wikibase || <code>LOAD_FILES/mapa_items_inyectar_wikibase.json</code> || <code>LOAD_FILES/mapa_items_inyectados_wikibase.json</code> (mapa de control, idempotencia) y <code>LOAD_FILES/registros_inyectados_resuelto.jsonl</code> (un documento por línea con todos sus QID reales ya resueltos)
+|-
+| <code>045_calcular_fechas_lengua_agrupacion.py</code> || Calcula <code>P_fecha_agrupacion</code> y <code>P_lengua_agrupacion</code> para cada fondo/subfondo/serie por agregación ascendente (serie → subfondo → fondo) de los documentos ya inyectados, validando el formato ISO 8601 de las fechas antes de agregarlas y declarando solo las propiedades aún no presentes en el ítem || <code>LOAD_FILES/mapa_cuadro_wikibase.json</code>, <code>LOAD_FILES/mapa_ontologia_wikibase.json</code>, <code>LOAD_FILES/registros_inyectados_resuelto.jsonl</code> || Declaraciones <code>P_fecha_agrupacion</code>/<code>P_lengua_agrupacion</code> en Wikibase; ítems <code>Q_fecha</code> nuevos por nodo agregado
+|-
+| <code>050_generar_wikitexto_cuadro.py</code> || Genera y publica la página wiki <code>CUADRO_CLASIFICACION</code> con la jerarquía completa, usando invocaciones al módulo Lua para mostrar etiquetas dinámicas || <code>LOAD_FILES/mapa_cuadro_wikibase.json</code> || Página wiki <code>CUADRO_CLASIFICACION</code>
+|-
+| <code>060_generar_fichas_series.py</code> || Genera y publica una página <code>Template:FichaSerie</code> por cada serie documental, incluyendo los ID de <code>P_productor</code>, <code>P_alcance_contenido</code>, <code>P_fecha_agrupacion</code> y <code>P_lengua_agrupacion</code> cuando están presentes en la ontología (el valor en sí se lee en vivo desde Wikibase al renderizar, véase apartado 4.3) || <code>LOAD_FILES/mapa_cuadro_wikibase.json</code> || Páginas wiki <code>SR-*</code>
+|-
+| <code>070_generar_fichas_documentos.py</code> || Genera y publica una página <code>Template:FichaDocumento</code> por cada documento inyectado || <code>LOAD_FILES/registros_inyectados_resuelto.jsonl</code> + <code>LOAD_FILES/mapa_cuadro_wikibase.json</code> || Páginas wiki <code>DOC-*</code> (ejemplo: [[DOC-103]])
+|-
+| <code>080_exportar_rdf_ttl.py</code> || Reconstruye el dataset completo en RDF/Turtle conforme a RiC-O a partir únicamente de los ficheros locales anteriores, sin consultar Wikibase en caliente (véase apartado 5.3) || <code>LOAD_FILES/mapa_ontologia_wikibase.json</code>, <code>LOAD_FILES/3_declaraciones.tsv</code>, <code>LOAD_FILES/registros_inyectados_resuelto.jsonl</code> || <code>carmesi_rico_dataset.ttl</code>
+|}
+
+=== 4.2 Reconciliación de entidades compartidas ===
+Un mismo agente, lugar, materia o incluso una expresión de fecha pueden aparecer en muchos documentos. Para no crear un ítem duplicado cada vez, <code>040_inyectar_registros.py</code> mantiene un mapa de <code>entidades_compartidas</code> indexado por una <code>clave_mapa</code> derivada del identificador de origen: la primera vez que aparece se crea el ítem; las siguientes se reutiliza su QID. Este mecanismo se ha reforzado forzando la persistencia a disco en cuanto se crea una clave nueva, para minimizar el riesgo de duplicados ante un corte de red a media inyección.
+
+=== 4.3 Plantillas wiki y módulo Lua ===
+La visualización de cada documento y serie en formato similar a una ficha ISAD(G) no es texto estático: las páginas <code>DOC-*</code> y <code>SR-*</code> transcluyen las plantillas <code>Template:FichaDocumento</code> y <code>Template:FichaSerie</code>, que a su vez invocan el módulo Lua <code>Module:CustomLabel</code> para leer en vivo las declaraciones del ítem Wikibase correspondiente. El resultado es que editar una propiedad en el ítem actualiza automáticamente el contenido visible de la ficha, sin necesidad de regenerar la página wiki.
+
+Las plantillas reciben como parámetros los QID relevantes (documento, agrupación, fondo, subfondo, serie) y los PID de cada propiedad a mostrar, y envuelven cada bloque en un condicional <code>IF</code> para que la sección entera desaparezca si el campo no tiene valor, así una ficha sin condiciones de reproducción, por ejemplo, no muestra un epígrafe vacío.
+
+El módulo Lua expone varias funciones, de complejidad creciente:
+* '''<code>label_Q</code> / <code>label_Qlnk</code>:''' etiqueta de un ítem (en español o inglés según disponibilidad); <code>label_Qlnk</code> añade el enlace <code>Item:Qx</code>. Muestran la clasificación jerárquica (fondo, serie...) en la cabecera de cada ficha.
+* '''<code>propiedad_Qlnk</code>:''' lee y renderiza la primera declaración de una propiedad sobre un ítem — como enlace si el valor es otro ítem, como texto plano si es una cadena o fecha —, añadiendo como apoyo la descripción del ítem enlazado o, si es un literal, de la propiedad misma. Resuelve la mayoría de los campos de la ficha (<code>P_codigo_ref</code>, <code>P_titulo</code>, <code>P_alcance_contenido</code>, <code>P_fecha</code>, <code>P_fecha_agrupacion</code>...).
+* '''<code>propiedad_Qlnk_desc_prop</code>:''' variante de la anterior para propiedades de tipo ítem cuya descripción de entidad sería redundante con el propio enlace (caso de <code>P_productor</code> en <code>Template:FichaSerie</code>); muestra en su lugar la descripción de la propiedad misma. No se usa para <code>P_fecha_agrupacion</code> ni <code>P_lengua_agrupacion</code>, cuya descripción de entidad enlazada sí es informativa por sí misma.
+* '''<code>propiedad_derivada_Qlnk</code>:''' resuelve un salto en dos pasos — documento → instanciación física → propiedad buscada (<code>P_volumen_soporte</code>, <code>P_estado_conservacion</code>) —, anotando en qué ítem reside el valor mostrado.
+* '''<code>propiedad_Qlnk_multi</code> / <code>propiedad_derivada_Qlnk_multi</code>:''' variantes repetibles de las dos anteriores (<code>P_lengua</code>, <code>P_tipo_escritura</code>), que muestran todos los valores declarados en lugar de solo el primero.
+
+Este diseño evita duplicar en la plantilla wiki cualquier dato que ya viva en Wikibase: la plantilla solo declara qué propiedad mostrar y dónde buscarla; el contenido siempre se lee en el momento de renderizar la página.
+
+== 5. Cómo aprovechar el dataset ==
+
+El grafo de conocimiento resultante puede explotarse en tres niveles distintos, de menor a mayor capacidad de consulta.
+
+=== 5.1 Navegación directa: páginas wiki e ítems ===
+
+Cualquier persona puede navegar la instancia como un wiki normal, sin conocimientos de SPARQL:
+* La [[Main Page|página principal]] enlaza al [[CUADRO_CLASIFICACION|cuadro de clasificación]] completo, navegable jerárquicamente.
+* Cada documento tiene una ficha propia generada desde <code>Template:FichaDocumento</code> (ejemplo: [[DOC-103]]) que muestra sus campos ISAD(G) con enlaces directos a los ítems Q/P subyacentes — editar la propiedad en el ítem actualiza dinámicamente la ficha, porque el contenido de la página no es texto estático sino una transclusión de los datos estructurados.
+* Cada ítem (p. ej. [[Item:Q2]] para la clase Documento, o el ítem de un documento o agente concreto) es accesible directamente en su propia página, con el histórico de ediciones habitual de cualquier wiki basado en MediaWiki.
+* El buscador integrado de Wikibase (basado en ElasticSearch) permite localizar cualquier ítem por etiqueta o por valor de una declaración (usando prefijos como <code>haswbstatement:</code>).
+
+=== 5.2 Consultas SPARQL (Wikibase Query Service) ===
+
+El punto de acceso SPARQL de la instancia permite consultas semánticas transversales imposibles en un catálogo ISAD(G) tradicional: recuentos por tipo de entidad, árboles de clasificación completos, distribución de documentos por siglo, lengua o mano paleográfica, búsqueda de texto libre combinada con navegación jerárquica, etc. Un conjunto de consultas de ejemplo ya resueltas, con sus prefijos y enlaces directos al Query Service, está disponible en [[CONSULTAS|CONSULTAS SPARQL]] — incluye también la lista completa de prefijos <code>PREFIX</code> recomendados para trabajar con la nomenclatura del modelo (<code>Q_documento:</code>, <code>P_lengua:</code>...) en lugar de los códigos nativos <code>Q2</code>/<code>P18</code>.
+
+=== 5.3 Exportación RDF/Turtle portable ===
+
+Para un consumo fuera de Wikibase —publicación como Linked Open Data, carga en otro triplestore, etct— el pipeline reconstruye en su fase final el dataset completo como un fichero <code>.ttl</code> autocontenido, sin necesidad de consultar la API ni el endpoint SPARQL de Wikibase en el momento de la exportación (lee únicamente los ficheros de control ya generados por el pipeline). Dos decisiones de diseño relevantes:
+* '''URIs propias, no las de Wikibase:''' cada entidad recibe una URI bajo un dominio propio configurable (por defecto <code>https://datos.carmesi.regmurcia.es/</code>, a sustituir por el dominio real de publicación), para que el dataset sea portable y no dependa de qué instancia lo generó. Se añade siempre un triple <code>owl:sameAs</code> de vuelta al ítem vivo de Wikibase, manteniendo la trazabilidad hacia la instancia editable.
+* '''Clases y propiedades con IRI oficiales:''' a diferencia de las URIs de sujeto, las clases y propiedades del grafo usan siempre las IRI reales de RiC-O/SKOS/Dublin Core/OWL (vía <code>P_uri</code>/<code>P_equivalente_a</code> de <code>3_declaraciones.tsv</code>), nunca las IRI locales de Wikibase. De esta forma el fichero de salida no es un simple volcado renombrado de Wikibase, ya que se forma conforme a la estructura RiC-O
+
+El fichero resultante es análogo en propósito y forma a otros conjuntos de datos publicados tomados como referencia que han sido generados con RiC-O Converter (Giagnolini & Koch, 2025; https://rdm.inesctec.pt/dataset/cs-2024-009).
+
+== 6. Limitaciones ==
+
+# '''Elementos ISAD(G) sin propiedad Wikibase:''' nueve de los 26 elementos (2.2, 2.3, 3.2, 3.3, 3.4, 4.2, 4.5, 7.2, 7.3) carecen de dato en la fuente ISAD(G) original y no se han modelado; otros seis (2.4, 5.1, 5.2, 5.3, 5.4, 7.1) sí presentan valores dispersos en la ficha de origen, pero no se ha considerado justificado crear una propiedad Wikibase independiente para ellos en esta fase.
+# '''Exportación RDF dependiente de ficheros locales:''' <code>080_exportar_rdf_ttl.py</code> (apartado 5.3) reconstruye el dataset exclusivamente a partir de los ficheros de control generados por el propio pipeline (<code>mapa_ontologia_wikibase.json</code>, <code>mapa_cuadro_wikibase.json</code>, <code>3_declaraciones.tsv</code>, <code>registros_inyectados_resuelto.jsonl</code>), sin consultar la API REST ni el endpoint SPARQL de Wikibase en el momento de la exportación. Una edición, alta o baja realizada directamente en la interfaz de Wikibase, al margen de los scripts, no se refleja en estos ficheros y por tanto queda ausente del <code>.ttl</code> exportado hasta que se reconcilie manualmente con el pipeline; no existe actualmente un mecanismo de verificación de sincronía entre el estado editable de la instancia y el estado exportado.
+# '''Restricción de unicidad etiqueta+descripción de Wikibase:''' la plataforma rechaza la creación de un ítem cuya etiqueta y descripción coincidan exactamente, en el mismo idioma, con las de otro ítem ya existente. Esta restricción, ajena al modelo RiC-CM, ha condicionado el diseño de varias rutinas de creación de entidades compartidas del pipeline, que incorporan sufijos de desambiguación —identificador de origen o id del nodo— en la descripción, o bien reutilizan el ítem en conflicto en lugar de fallar la inyección.
+
+== 7. Referencias bibliográficas ==
+
+* Bruton, M. (2026). ''ISAD(G) to RiC Conversion Skill''. [https://github.com/matthewbrutonall/isadg-to-ric-skill Repositorio GitHub].
+* Dimitriou, Y.; Damigos, M.; Kalogeros, E.; Boueti, C. (2025). "Describing Corfu Criminal Court Archives Using RiC-CM". ''Moderna arhivistika'', VIII(1), 93-. DOI: [https://doi.org/10.54356/MA/2025/GMNE4635 10.54356/MA/2025/GMNE4635].
+* Feliciati, P. (2021). "Archives in a Graph. The Records in Contexts Ontology within the framework of standards and practices of Archival Description". ''JLIS.it'', 12(1), 92-101. DOI: [https://doi.org/10.4403/jlis.it-12675 10.4403/jlis.it-12675].
+* Giagnolini, L.; Koch, I. et al. (2025). "Comparative insights into semantic archival modelling: evaluating RiC-O and ArchOnto representation capabilities". [https://www.sciencedirect.com/org/science/article/pii/S0022041825000281 ScienceDirect / JASIST]. Dataset asociado: ''Semantic representation of the Registos de Baptismos da Paróquia de Aldoar''. [https://rdm.inesctec.pt/dataset/cs-2024-009 INESC TEC RDM], DOI: 10.25747/15YG-GD86.
+* International Council on Archives (ICA) / Expert Group on Archival Description (EGAD) (2026). ''Records in Contexts - Conceptual Model (RiC-CM), v1.0.1''. [https://github.com/ICA-EGAD/RiC-CM/releases/tag/1.0.1 GitHub] (versión vigente, publicada el 30 de septiembre de 2026; sustituye a la v1.0 de noviembre de 2023).
+* International Council on Archives (ICA) / Expert Group on Archival Description (EGAD) (2025). ''Records in Contexts - Ontology (RiC-O), v1.1''. [https://github.com/ICA-EGAD/RiC-O GitHub] (versión vigente, publicada en mayo de 2025; conforme a RiC-CM 1.0).
+* Pastor-Sánchez, J.-A.; Llanes-Padrón, D. (2017). "Records in context: el camino de los archivos hacia la interoperabilidad semántica". ''Anuario ThinkEPI'', 11, 297-304. DOI: [https://doi.org/10.3145/thinkepi.2017.56 10.3145/thinkepi.2017.56].
+* Santos, C.; Revez, J. (2023). "Applying Records in Contexts in Portugal: the case of the scientific correspondence from António de Barros Machado and Dora Lustig archive". ''Archival Science'', 23, 137-158. DOI: [https://doi.org/10.1007/s10502-022-09401-7 10.1007/s10502-022-09401-7] (aceptado 2 ago. 2022; publicado en línea 25 ago. 2022; publicación en volumen 2023).

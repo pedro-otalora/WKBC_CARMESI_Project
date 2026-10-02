@@ -1,0 +1,767 @@
+{
+  "fondo": "AMABAR",
+  "total_registros": 12,
+  "registros": [
+    {
+      "id_documento": "3388",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "Caja 1142, Libro 1",
+      "fecha_nivel2": "1608-09-30 / 1615-01-27",
+      "titulo_nivel2": "Cuadernillo de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3388&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/10002/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR Caja 1142, Libro 1",
+          "1.2 Título": "Cuadernillo de Actas Capitulares",
+          "1.3  Fecha(s)": "1608-09-30/1615-01-27. Abarán",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Abarán",
+          "3.1 Alcance y contenido": "Expulsión de los moriscos",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nProcesal",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Abarán, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=184&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Abarán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=558&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/10002/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3388",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3388",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3388"
+        }
+      }
+    },
+    {
+      "id_documento": "3391",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "Caja 1142, libro 2",
+      "fecha_nivel2": "1627-07-15 / 1628-12-15",
+      "titulo_nivel2": "Cuadernillo de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3391&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/10003/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR Caja 1142, libro 2",
+          "1.2 Título": "Cuadernillo de Actas Capitulares",
+          "1.3  Fecha(s)": "1627-07-15/1628-12-15. Abarán",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "21 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Abarán",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHumanística\r\n\t\t\t\t,\r\nProcesal",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Abarán, concedo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=210&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Abarán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=558&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/10003/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3391",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3391",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3391"
+        }
+      }
+    },
+    {
+      "id_documento": "3392",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "Caja 1142, Libro 3",
+      "fecha_nivel2": "1629-02-17 / 1630-03-30",
+      "titulo_nivel2": "Cuadernillo de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3392&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/10004/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR Caja 1142, Libro 3",
+          "1.2 Título": "Cuadernillo de Actas Capitulares",
+          "1.3  Fecha(s)": "1629-02-17/1630-03-30. Abarán",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "26 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Abarán",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHumanística\r\n\t\t\t\t,\r\nProcesal",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Abarán, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=184&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Abarán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=558&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/10004/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3392",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3392",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3392"
+        }
+      }
+    },
+    {
+      "id_documento": "3393",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "Caja 1142, Libro 4",
+      "fecha_nivel2": "1633-12-21 / 1637-07-20",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3393&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/10005/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR Caja 1142, Libro 4",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1633-12-21/1637-07-20. Abarán",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "176 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Abarán",
+          "3.1 Alcance y contenido": "Contiene un padrón (Fols. 42r/46v)",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHumanística\r\n\t\t\t\t,\r\nProcesal",
+          "4.4 Características físicas y requisitos técnicos": "Regular",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Abarán, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=184&v=a"
+            }
+          ],
+          "materias": [
+            {
+              "nombre": "Padrones",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=524&v=a"
+            }
+          ],
+          "lugares": [
+            {
+              "nombre": "Abarán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=558&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/10005/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3393",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3393",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3393"
+        }
+      }
+    },
+    {
+      "id_documento": "3394",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "Caja 1142, Libro 5",
+      "fecha_nivel2": "1646-06-00 / 1722-01-02",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=3394&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/10006/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR Caja 1142, Libro 5",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1646-06-00/1722-01-02. Abarán",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "315 Fols. Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Abarán",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nHumanística",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Abarán, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=184&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Abarán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=558&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/10006/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.3394",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.3394",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.3394"
+        }
+      }
+    },
+    {
+      "id_documento": "5643",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "6, A/1",
+      "fecha_nivel2": "1760-03-04 / 1781-03-10",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5643&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/16001/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR 6, A/1",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1760-03-04/1781-03-10. Abarán",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "400 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Abarán",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Abarán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=206&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/16001/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5643",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5643",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5643"
+        }
+      }
+    },
+    {
+      "id_documento": "5642",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "6, A/2",
+      "fecha_nivel2": "1789 / 1809",
+      "titulo_nivel2": "Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=5642&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/16000/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR 6, A/2",
+          "1.2 Título": "Actas Capitulares",
+          "1.3  Fecha(s)": "1789/1809. Abarán",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "781 Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Abarán",
+          "3.1 Alcance y contenido": "Las últimas páginas del libro corresponden a dos oficios de correspondencia con el ayuntamiento de Ricote, fechados en 1809.",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano\r\n\t\t\t\t;\r\nCaligrafía de la época a partir del siglo XVIII",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Proyecto Digitalización Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Ayuntamiento de Abarán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=206&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/16000/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.5642",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.5642",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.5642"
+        }
+      }
+    },
+    {
+      "id_documento": "7709",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "Caja 511   Libro 1",
+      "fecha_nivel2": "1801 / 1819",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7709&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/23000/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR Caja 511  Libro 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1801/1819. Abarán",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Abarán",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Abarán, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=184&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Abarán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=558&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/23000/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7709",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7709",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7709"
+        }
+      }
+    },
+    {
+      "id_documento": "7710",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "Caja 511   Libro 2",
+      "fecha_nivel2": "1820 / 1836",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7710&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/23001/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR Caja 511  Libro 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1820/1836. Abarán",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Abarán",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Abarán, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=184&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Abarán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=558&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/23001/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7710",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7710",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7710"
+        }
+      }
+    },
+    {
+      "id_documento": "7711",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "Caja 512   Libro 1",
+      "fecha_nivel2": "1837 / 1851",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7711&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/23002/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR Caja 512  Libro 1",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1837/1851. Abarán",
+          "1.4 Nivel de descripción": "Unidad Documental Compuesta",
+          "1.5 Volumen y soporte de la unidad de descripción": "Papel",
+          "2.1 Nombre del o de los productor(es)": "Ayuntamiento de Abarán",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto CARMESI"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [
+            {
+              "nombre": "Abarán, concejo de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSINSTI&sit=c,373,m,139,serv,Carmesi&id=184&v=a"
+            }
+          ],
+          "materias": [],
+          "lugares": [
+            {
+              "nombre": "Abarán",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=558&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/23002/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7711",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7711",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7711"
+        }
+      }
+    },
+    {
+      "id_documento": "7870",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "Caja 512 Libro 2",
+      "fecha_nivel2": "1852 / 1860",
+      "titulo_nivel2": "Libro de Actas Capitulares",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "3245",
+        "nombre_serie": "Actas capitulares",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7870&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/24001/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Actas capitulares",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3245&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR Caja 512 Libro 2",
+          "1.2 Título": "Libro de Actas Capitulares",
+          "1.3  Fecha(s)": "1852/1860. Abarán",
+          "1.5 Volumen y soporte de la unidad de descripción": "Pergamino",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/24001/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7870",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7870",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7870"
+        }
+      }
+    },
+    {
+      "id_documento": "7984",
+      "sigla_fondo": "AMABAR",
+      "nombre_fondo": "Archivo Municipal de Abarán",
+      "signatura_nivel2": "A-12-1",
+      "fecha_nivel2": "1591",
+      "titulo_nivel2": "Privilegio de jurisdicción y villazgo otorgado por Felipe II a la villa de Abarán. Año 1591",
+      "serie_info": {
+        "archivo_id": "806",
+        "serie_id": "4092",
+        "nombre_serie": "Cartas de privilegios y de confirmación de privilegios",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=4092&nombreSerie=Cartas de privilegios y de confirmación de privilegios&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=7984&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/19/24000/_index.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo Municipal de Abarán (AMABAR)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=806&v=a"
+          },
+          {
+            "texto": "Cartas de privilegios y de confirmación de privilegios",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=4092&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AMABAR A-12-1",
+          "1.2 Título": "Privilegio de jurisdicción y villazgo otorgado por Felipe II a la villa de Abarán. Año 1591",
+          "1.3  Fecha(s)": "1591. Abarán",
+          "1.5 Volumen y soporte de la unidad de descripción": "Ninguno",
+          "4.4 Características físicas y requisitos técnicos": "Ninguno",
+          "5.2 Localización de copias": "Digitalización Proyecto Carmesí"
+        },
+        "puntos_acceso": {
+          "personas": [],
+          "instituciones": [],
+          "materias": [],
+          "lugares": []
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/19/24000/_index.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.7984",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.7984",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.7984"
+        }
+      }
+    }
+  ]
+}

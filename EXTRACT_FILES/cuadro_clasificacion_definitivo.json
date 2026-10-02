@@ -1,0 +1,2543 @@
+{
+  "nombre": "Proyecto Carmesí",
+  "tipo": "raiz",
+  "elementos": [
+    {
+      "archivo_id": "917",
+      "js_id": "3922",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Convento Carmelitas Descalzos de Caravaca (ACC)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Libros Becerros",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=917&series=3922&nombreSerie=Libros Becerros",
+          "archivo_id": "917",
+          "serie_id": "3922",
+          "nombre_serie": "Libros Becerros"
+        }
+      ]
+    },
+    {
+      "archivo_id": "840",
+      "js_id": "3978",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo General de la Región de Murcia (AGRM)",
+      "subfondos": [
+        {
+          "archivo_id": "840",
+          "js_id": "3163",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Fondo de Heredamiento de la Acequia de Beniaján (AGRM)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Actas Notariales",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=840&series=3163&nombreSerie=Actas Notariales",
+              "archivo_id": "840",
+              "serie_id": "3163",
+              "nombre_serie": "Actas Notariales"
+            }
+          ]
+        }
+      ],
+      "series": []
+    },
+    {
+      "archivo_id": "804",
+      "js_id": "3193",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Histórico Provincial de Murcia (AHPMU)",
+      "subfondos": [
+        {
+          "archivo_id": "842",
+          "js_id": "3441",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Fondo Notarial de Abanilla (AHPMU)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Ruiz Sandoval, Juan. 1504-1526",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=842&series=3441&nombreSerie=Ruiz Sandoval, Juan. 1504-1526",
+              "archivo_id": "842",
+              "serie_id": "3441",
+              "nombre_serie": "Ruiz Sandoval, Juan. 1504-1526"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Vidal, Francisco. 1561-1575",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=842&series=3442&nombreSerie=Vidal, Francisco. 1561-1575",
+              "archivo_id": "842",
+              "serie_id": "3442",
+              "nombre_serie": "Vidal, Francisco. 1561-1575"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Álvarez de Palma, Tomás. 1592-1593",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=842&series=3440&nombreSerie=Álvarez de Palma, Tomás. 1592-1593",
+              "archivo_id": "842",
+              "serie_id": "3440",
+              "nombre_serie": "Álvarez de Palma, Tomás. 1592-1593"
+            }
+          ]
+        },
+        {
+          "archivo_id": "843",
+          "js_id": "3706",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Fondo Notarial de Murcia (AHPMU)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Faura, Martín. 1496-1562",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=843&series=3706&nombreSerie=Faura, Martín. 1496-1562",
+              "archivo_id": "843",
+              "serie_id": "3706",
+              "nombre_serie": "Faura, Martín. 1496-1562"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Guirao, Ginés. 1504-1526",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=843&series=3443&nombreSerie=Guirao, Ginés. 1504-1526",
+              "archivo_id": "843",
+              "serie_id": "3443",
+              "nombre_serie": "Guirao, Ginés. 1504-1526"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "López, Pedro. 1475-1510",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=843&series=3444&nombreSerie=López, Pedro. 1475-1510",
+              "archivo_id": "843",
+              "serie_id": "3444",
+              "nombre_serie": "López, Pedro. 1475-1510"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Medina, Juan",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=843&series=3456&nombreSerie=Medina, Juan",
+              "archivo_id": "843",
+              "serie_id": "3456",
+              "nombre_serie": "Medina, Juan"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Pina, Bernardino de. 1490-1513",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=843&series=3446&nombreSerie=Pina, Bernardino de. 1490-1513",
+              "archivo_id": "843",
+              "serie_id": "3446",
+              "nombre_serie": "Pina, Bernardino de. 1490-1513"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Pérez Beltrán, Francisco. 1450-1474",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=843&series=3445&nombreSerie=Pérez Beltrán, Francisco. 1450-1474",
+              "archivo_id": "843",
+              "serie_id": "3445",
+              "nombre_serie": "Pérez Beltrán, Francisco. 1450-1474"
+            }
+          ]
+        },
+        {
+          "archivo_id": "844",
+          "js_id": "3447",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Fondo Real Monasterio de Santa Clara (AHPMU)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Fondo Real Monasterio de Santa Clara",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=844&series=3447&nombreSerie=Fondo Real Monasterio de Santa Clara",
+              "archivo_id": "844",
+              "serie_id": "3447",
+              "nombre_serie": "Fondo Real Monasterio de Santa Clara"
+            }
+          ]
+        },
+        {
+          "archivo_id": "845",
+          "js_id": "3448",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Fondo Vozmediano de Arroniz y Puxmarín y Soto (AHPMU)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Fondo Familia Vozmediano de Arroniz y Puxmarín y Soto",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=845&series=3448&nombreSerie=Fondo Familia Vozmediano de Arroniz y Puxmarín y Soto",
+              "archivo_id": "845",
+              "serie_id": "3448",
+              "nombre_serie": "Fondo Familia Vozmediano de Arroniz y Puxmarín y Soto"
+            }
+          ]
+        }
+      ],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Catastro del Marqués de la Ensenada. Libros de ganados",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=804&series=3959&nombreSerie=Catastro del Marqués de la Ensenada. Libros de ganados",
+          "archivo_id": "804",
+          "serie_id": "3959",
+          "nombre_serie": "Catastro del Marqués de la Ensenada. Libros de ganados"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Catastro del Marqués de la Ensenada. Libros de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=804&series=3945&nombreSerie=Catastro del Marqués de la Ensenada. Libros de vecindario",
+          "archivo_id": "804",
+          "serie_id": "3945",
+          "nombre_serie": "Catastro del Marqués de la Ensenada. Libros de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "957",
+      "js_id": "4157",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Abanilla (AMAB)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=957&series=4157&nombreSerie=Actas Capitulares",
+          "archivo_id": "957",
+          "serie_id": "4157",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Deslindes",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=957&series=4159&nombreSerie=Deslindes",
+          "archivo_id": "957",
+          "serie_id": "4159",
+          "nombre_serie": "Deslindes"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Nombramientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=957&series=4161&nombreSerie=Nombramientos",
+          "archivo_id": "957",
+          "serie_id": "4161",
+          "nombre_serie": "Nombramientos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Ordenanzas y reglamentos municipales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=957&series=4165&nombreSerie=Ordenanzas y reglamentos municipales",
+          "archivo_id": "957",
+          "serie_id": "4165",
+          "nombre_serie": "Ordenanzas y reglamentos municipales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=957&series=4158&nombreSerie=Padrones de vecindario",
+          "archivo_id": "957",
+          "serie_id": "4158",
+          "nombre_serie": "Padrones de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Pósito",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=957&series=4160&nombreSerie=Pósito",
+          "archivo_id": "957",
+          "serie_id": "4160",
+          "nombre_serie": "Pósito"
+        }
+      ]
+    },
+    {
+      "archivo_id": "806",
+      "js_id": "3245",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Abarán (AMABAR)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=3245&nombreSerie=Actas capitulares",
+          "archivo_id": "806",
+          "serie_id": "3245",
+          "nombre_serie": "Actas capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de privilegios y de confirmación de privilegios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=806&series=4092&nombreSerie=Cartas de privilegios y de confirmación de privilegios",
+          "archivo_id": "806",
+          "serie_id": "4092",
+          "nombre_serie": "Cartas de privilegios y de confirmación de privilegios"
+        }
+      ]
+    },
+    {
+      "archivo_id": "924",
+      "js_id": "3958",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Águilas (AMAG)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=924&series=3958&nombreSerie=Actas Capitulares",
+          "archivo_id": "924",
+          "serie_id": "3958",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=924&series=4087&nombreSerie=Padrones de vecindario",
+          "archivo_id": "924",
+          "serie_id": "4087",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "929",
+      "js_id": "4052",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Alcantarilla (AMALC)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=929&series=4052&nombreSerie=Actas Capitulares",
+          "archivo_id": "929",
+          "serie_id": "4052",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Catastro del Marqués de la Ensenada. Libros de Interrogatorio",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=929&series=4083&nombreSerie=Catastro del Marqués de la Ensenada. Libros de Interrogatorio",
+          "archivo_id": "929",
+          "serie_id": "4083",
+          "nombre_serie": "Catastro del Marqués de la Ensenada. Libros de Interrogatorio"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=929&series=4150&nombreSerie=Padrones de vecindario",
+          "archivo_id": "929",
+          "serie_id": "4150",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "807",
+      "js_id": "3246",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Alhama (AMAL)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3246&nombreSerie=Actas Capitulares",
+          "archivo_id": "807",
+          "serie_id": "3246",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=807&series=3946&nombreSerie=Padrones de vecindario",
+          "archivo_id": "807",
+          "serie_id": "3946",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "907",
+      "js_id": "3817",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Archena (AMAR)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=907&series=3817&nombreSerie=Actas capitulares",
+          "archivo_id": "907",
+          "serie_id": "3817",
+          "nombre_serie": "Actas capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Libros de registro",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=907&series=4162&nombreSerie=Libros de registro",
+          "archivo_id": "907",
+          "serie_id": "4162",
+          "nombre_serie": "Libros de registro"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=907&series=3947&nombreSerie=Padrones de vecindario",
+          "archivo_id": "907",
+          "serie_id": "3947",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "943",
+      "js_id": "4084",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Beniel (AMB)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=943&series=4084&nombreSerie=Actas Capitulares",
+          "archivo_id": "943",
+          "serie_id": "4084",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=943&series=4151&nombreSerie=Padrones de vecindario",
+          "archivo_id": "943",
+          "serie_id": "4151",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "944",
+      "js_id": "4088",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Blanca (AMBL)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=944&series=4088&nombreSerie=Padrones de vecindario",
+          "archivo_id": "944",
+          "serie_id": "4088",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "808",
+      "js_id": "3247",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Bullas (AMBU)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3247&nombreSerie=Actas Capitulares",
+          "archivo_id": "808",
+          "serie_id": "3247",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=3948&nombreSerie=Padrones de vecindario",
+          "archivo_id": "808",
+          "serie_id": "3948",
+          "nombre_serie": "Padrones de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Reales y superiores órdenes",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=808&series=4163&nombreSerie=Reales y superiores órdenes",
+          "archivo_id": "808",
+          "serie_id": "4163",
+          "nombre_serie": "Reales y superiores órdenes"
+        }
+      ]
+    },
+    {
+      "archivo_id": "839",
+      "js_id": "3251",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Calasparra (AMCAL)",
+      "subfondos": [
+        {
+          "archivo_id": "839",
+          "js_id": "3999",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Fondo del Conde del Valle de San Juan (AMCAL)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Agricultura. Acequias",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3999&nombreSerie=Agricultura. Acequias",
+              "archivo_id": "839",
+              "serie_id": "3999",
+              "nombre_serie": "Agricultura. Acequias"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Arrendamientos",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3249&nombreSerie=Arrendamientos",
+              "archivo_id": "839",
+              "serie_id": "3249",
+              "nombre_serie": "Arrendamientos"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Cartas de privilegios y de confirmación de privilegios",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3256&nombreSerie=Cartas de privilegios y de confirmación de privilegios",
+              "archivo_id": "839",
+              "serie_id": "3256",
+              "nombre_serie": "Cartas de privilegios y de confirmación de privilegios"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Cartas reales",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3468&nombreSerie=Cartas reales",
+              "archivo_id": "839",
+              "serie_id": "3468",
+              "nombre_serie": "Cartas reales"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Censos",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3250&nombreSerie=Censos",
+              "archivo_id": "839",
+              "serie_id": "3250",
+              "nombre_serie": "Censos"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Compraventas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3255&nombreSerie=Compraventas",
+              "archivo_id": "839",
+              "serie_id": "3255",
+              "nombre_serie": "Compraventas"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Donaciones",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3252&nombreSerie=Donaciones",
+              "archivo_id": "839",
+              "serie_id": "3252",
+              "nombre_serie": "Donaciones"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Dotes",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3997&nombreSerie=Dotes",
+              "archivo_id": "839",
+              "serie_id": "3997",
+              "nombre_serie": "Dotes"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Escritura de trueque",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3998&nombreSerie=Escritura de trueque",
+              "archivo_id": "839",
+              "serie_id": "3998",
+              "nombre_serie": "Escritura de trueque"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Mayorazgos",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3253&nombreSerie=Mayorazgos",
+              "archivo_id": "839",
+              "serie_id": "3253",
+              "nombre_serie": "Mayorazgos"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Particiones de bienes",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3259&nombreSerie=Particiones de bienes",
+              "archivo_id": "839",
+              "serie_id": "3259",
+              "nombre_serie": "Particiones de bienes"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Pleitos",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=4004&nombreSerie=Pleitos",
+              "archivo_id": "839",
+              "serie_id": "4004",
+              "nombre_serie": "Pleitos"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Poderes",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3254&nombreSerie=Poderes",
+              "archivo_id": "839",
+              "serie_id": "3254",
+              "nombre_serie": "Poderes"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Provisiones Reales",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3385&nombreSerie=Provisiones Reales",
+              "archivo_id": "839",
+              "serie_id": "3385",
+              "nombre_serie": "Provisiones Reales"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Sentencias",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3260&nombreSerie=Sentencias",
+              "archivo_id": "839",
+              "serie_id": "3260",
+              "nombre_serie": "Sentencias"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Testamentos",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3261&nombreSerie=Testamentos",
+              "archivo_id": "839",
+              "serie_id": "3261",
+              "nombre_serie": "Testamentos"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Testimonios",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=839&series=3262&nombreSerie=Testimonios",
+              "archivo_id": "839",
+              "serie_id": "3262",
+              "nombre_serie": "Testimonios"
+            }
+          ]
+        },
+        {
+          "archivo_id": "838",
+          "js_id": "3248",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Fondo Municipal (AMCAL)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Actas Capitulares",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=838&series=3248&nombreSerie=Actas Capitulares",
+              "archivo_id": "838",
+              "serie_id": "3248",
+              "nombre_serie": "Actas Capitulares"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Padrones de vecindario",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=838&series=3949&nombreSerie=Padrones de vecindario",
+              "archivo_id": "838",
+              "serie_id": "3949",
+              "nombre_serie": "Padrones de vecindario"
+            }
+          ]
+        }
+      ],
+      "series": []
+    },
+    {
+      "archivo_id": "958",
+      "js_id": "4164",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Campos del Río (AMCR)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=958&series=4164&nombreSerie=Actas Capitulares",
+          "archivo_id": "958",
+          "serie_id": "4164",
+          "nombre_serie": "Actas Capitulares"
+        }
+      ]
+    },
+    {
+      "archivo_id": "810",
+      "js_id": "3263",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Caravaca (AMCAR)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=810&series=3263&nombreSerie=Actas Capitulares",
+          "archivo_id": "810",
+          "serie_id": "3263",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de confirmación de privilegios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=810&series=3264&nombreSerie=Cartas de confirmación de privilegios",
+          "archivo_id": "810",
+          "serie_id": "3264",
+          "nombre_serie": "Cartas de confirmación de privilegios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Catastro del Marqués de la Ensenada. Libros de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=810&series=3955&nombreSerie=Catastro del Marqués de la Ensenada. Libros de vecindario",
+          "archivo_id": "810",
+          "serie_id": "3955",
+          "nombre_serie": "Catastro del Marqués de la Ensenada. Libros de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Correspondencia",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=810&series=3973&nombreSerie=Correspondencia",
+          "archivo_id": "810",
+          "serie_id": "3973",
+          "nombre_serie": "Correspondencia"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=810&series=4152&nombreSerie=Padrones de vecindario",
+          "archivo_id": "810",
+          "serie_id": "4152",
+          "nombre_serie": "Padrones de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Provisiones Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=810&series=3265&nombreSerie=Provisiones Reales",
+          "archivo_id": "810",
+          "serie_id": "3265",
+          "nombre_serie": "Provisiones Reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Repartimientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=810&series=3972&nombreSerie=Repartimientos",
+          "archivo_id": "810",
+          "serie_id": "3972",
+          "nombre_serie": "Repartimientos"
+        }
+      ]
+    },
+    {
+      "archivo_id": "811",
+      "js_id": "3266",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Cartagena (AMCT)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3266&nombreSerie=Actas Capitulares",
+          "archivo_id": "811",
+          "serie_id": "3266",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Autos judiciales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3268&nombreSerie=Autos judiciales",
+          "archivo_id": "811",
+          "serie_id": "3268",
+          "nombre_serie": "Autos judiciales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3269&nombreSerie=Cartas Reales",
+          "archivo_id": "811",
+          "serie_id": "3269",
+          "nombre_serie": "Cartas Reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de hermandad",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3391&nombreSerie=Cartas de hermandad",
+          "archivo_id": "811",
+          "serie_id": "3391",
+          "nombre_serie": "Cartas de hermandad"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de privilegios y de confirmación de privilegios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3392&nombreSerie=Cartas de privilegios y de confirmación de privilegios",
+          "archivo_id": "811",
+          "serie_id": "3392",
+          "nombre_serie": "Cartas de privilegios y de confirmación de privilegios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas del Concejo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3267&nombreSerie=Cartas del Concejo",
+          "archivo_id": "811",
+          "serie_id": "3267",
+          "nombre_serie": "Cartas del Concejo"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cédulas",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3393&nombreSerie=Cédulas",
+          "archivo_id": "811",
+          "serie_id": "3393",
+          "nombre_serie": "Cédulas"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Obras municipales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3272&nombreSerie=Obras municipales",
+          "archivo_id": "811",
+          "serie_id": "3272",
+          "nombre_serie": "Obras municipales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Privilegios Rodados",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3394&nombreSerie=Privilegios Rodados",
+          "archivo_id": "811",
+          "serie_id": "3394",
+          "nombre_serie": "Privilegios Rodados"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Provisiones Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3395&nombreSerie=Provisiones Reales",
+          "archivo_id": "811",
+          "serie_id": "3395",
+          "nombre_serie": "Provisiones Reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Rentas municipales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=811&series=3270&nombreSerie=Rentas municipales",
+          "archivo_id": "811",
+          "serie_id": "3270",
+          "nombre_serie": "Rentas municipales"
+        }
+      ]
+    },
+    {
+      "archivo_id": "812",
+      "js_id": "3273",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Cehegín (AMCE)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3273&nombreSerie=Actas Capitulares",
+          "archivo_id": "812",
+          "serie_id": "3273",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Autos judiciales y pleitos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3274&nombreSerie=Autos judiciales y pleitos",
+          "archivo_id": "812",
+          "serie_id": "3274",
+          "nombre_serie": "Autos judiciales y pleitos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=4011&nombreSerie=Cartas Reales",
+          "archivo_id": "812",
+          "serie_id": "4011",
+          "nombre_serie": "Cartas Reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de venta",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3275&nombreSerie=Cartas de venta",
+          "archivo_id": "812",
+          "serie_id": "3275",
+          "nombre_serie": "Cartas de venta"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas del Concejo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3276&nombreSerie=Cartas del Concejo",
+          "archivo_id": "812",
+          "serie_id": "3276",
+          "nombre_serie": "Cartas del Concejo"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cuentas del Concejo. Libros de Mayordomos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3277&nombreSerie=Cuentas del Concejo. Libros de Mayordomos",
+          "archivo_id": "812",
+          "serie_id": "3277",
+          "nombre_serie": "Cuentas del Concejo. Libros de Mayordomos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Nombramientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3396&nombreSerie=Nombramientos",
+          "archivo_id": "812",
+          "serie_id": "3396",
+          "nombre_serie": "Nombramientos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3950&nombreSerie=Padrones de vecindario",
+          "archivo_id": "812",
+          "serie_id": "3950",
+          "nombre_serie": "Padrones de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Pósito",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3397&nombreSerie=Pósito",
+          "archivo_id": "812",
+          "serie_id": "3397",
+          "nombre_serie": "Pósito"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Quintas y milicias",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3278&nombreSerie=Quintas y milicias",
+          "archivo_id": "812",
+          "serie_id": "3278",
+          "nombre_serie": "Quintas y milicias"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Reales Provisiones",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=4012&nombreSerie=Reales Provisiones",
+          "archivo_id": "812",
+          "serie_id": "4012",
+          "nombre_serie": "Reales Provisiones"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Rentas municipales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3398&nombreSerie=Rentas municipales",
+          "archivo_id": "812",
+          "serie_id": "3398",
+          "nombre_serie": "Rentas municipales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Repartimientos fiscales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3400&nombreSerie=Repartimientos fiscales",
+          "archivo_id": "812",
+          "serie_id": "3400",
+          "nombre_serie": "Repartimientos fiscales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Testimonios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3279&nombreSerie=Testimonios",
+          "archivo_id": "812",
+          "serie_id": "3279",
+          "nombre_serie": "Testimonios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Tributos Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=812&series=3399&nombreSerie=Tributos Reales",
+          "archivo_id": "812",
+          "serie_id": "3399",
+          "nombre_serie": "Tributos Reales"
+        }
+      ]
+    },
+    {
+      "archivo_id": "813",
+      "js_id": "3280",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Cieza (AMCI)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3280&nombreSerie=Actas capitulares",
+          "archivo_id": "813",
+          "serie_id": "3280",
+          "nombre_serie": "Actas capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Elección de cargos municipales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3962&nombreSerie=Elección de cargos municipales",
+          "archivo_id": "813",
+          "serie_id": "3962",
+          "nombre_serie": "Elección de cargos municipales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Libros de Penas de cámara y gastos de justicia",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=813&series=3963&nombreSerie=Libros de Penas de cámara y gastos de justicia",
+          "archivo_id": "813",
+          "serie_id": "3963",
+          "nombre_serie": "Libros de Penas de cámara y gastos de justicia"
+        }
+      ]
+    },
+    {
+      "archivo_id": "814",
+      "js_id": "3281",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Fortuna (AMFO)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=814&series=3281&nombreSerie=Actas capitulares",
+          "archivo_id": "814",
+          "serie_id": "3281",
+          "nombre_serie": "Actas capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Autos judiciales y pleitos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=814&series=3282&nombreSerie=Autos judiciales y pleitos",
+          "archivo_id": "814",
+          "serie_id": "3282",
+          "nombre_serie": "Autos judiciales y pleitos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas del Concejo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=814&series=3283&nombreSerie=Cartas del Concejo",
+          "archivo_id": "814",
+          "serie_id": "3283",
+          "nombre_serie": "Cartas del Concejo"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Escrituras notariales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=814&series=3284&nombreSerie=Escrituras notariales",
+          "archivo_id": "814",
+          "serie_id": "3284",
+          "nombre_serie": "Escrituras notariales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Rentas municipales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=814&series=3285&nombreSerie=Rentas municipales",
+          "archivo_id": "814",
+          "serie_id": "3285",
+          "nombre_serie": "Rentas municipales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Repartimientos fiscales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=814&series=3401&nombreSerie=Repartimientos fiscales",
+          "archivo_id": "814",
+          "serie_id": "3401",
+          "nombre_serie": "Repartimientos fiscales"
+        }
+      ]
+    },
+    {
+      "archivo_id": "946",
+      "js_id": "4089",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Fuente Álamo (AMFA)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=946&series=4089&nombreSerie=Actas capitulares",
+          "archivo_id": "946",
+          "serie_id": "4089",
+          "nombre_serie": "Actas capitulares"
+        }
+      ]
+    },
+    {
+      "archivo_id": "815",
+      "js_id": "3969",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Jumilla (AMJU)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Abastos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3969&nombreSerie=Abastos",
+          "archivo_id": "815",
+          "serie_id": "3969",
+          "nombre_serie": "Abastos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3287&nombreSerie=Actas Capitulares",
+          "archivo_id": "815",
+          "serie_id": "3287",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Autos judiciales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3970&nombreSerie=Autos judiciales",
+          "archivo_id": "815",
+          "serie_id": "3970",
+          "nombre_serie": "Autos judiciales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Bandos y edictos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3968&nombreSerie=Bandos y edictos",
+          "archivo_id": "815",
+          "serie_id": "3968",
+          "nombre_serie": "Bandos y edictos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de concordia",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3288&nombreSerie=Cartas de concordia",
+          "archivo_id": "815",
+          "serie_id": "3288",
+          "nombre_serie": "Cartas de concordia"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Correspondencia",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3966&nombreSerie=Correspondencia",
+          "archivo_id": "815",
+          "serie_id": "3966",
+          "nombre_serie": "Correspondencia"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Denuncias y reclamaciones",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3971&nombreSerie=Denuncias y reclamaciones",
+          "archivo_id": "815",
+          "serie_id": "3971",
+          "nombre_serie": "Denuncias y reclamaciones"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Despacho de Oficios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3981&nombreSerie=Despacho de Oficios",
+          "archivo_id": "815",
+          "serie_id": "3981",
+          "nombre_serie": "Despacho de Oficios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Deuda",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3983&nombreSerie=Deuda",
+          "archivo_id": "815",
+          "serie_id": "3983",
+          "nombre_serie": "Deuda"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Expedientes de Secretaría",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3986&nombreSerie=Expedientes de Secretaría",
+          "archivo_id": "815",
+          "serie_id": "3986",
+          "nombre_serie": "Expedientes de Secretaría"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Nombramientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3980&nombreSerie=Nombramientos",
+          "archivo_id": "815",
+          "serie_id": "3980",
+          "nombre_serie": "Nombramientos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Ordenanzas municipales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3967&nombreSerie=Ordenanzas municipales",
+          "archivo_id": "815",
+          "serie_id": "3967",
+          "nombre_serie": "Ordenanzas municipales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=4149&nombreSerie=Padrones de vecindario",
+          "archivo_id": "815",
+          "serie_id": "4149",
+          "nombre_serie": "Padrones de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Provisiones",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3965&nombreSerie=Provisiones",
+          "archivo_id": "815",
+          "serie_id": "3965",
+          "nombre_serie": "Provisiones"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Provisiones Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=815&series=3402&nombreSerie=Provisiones Reales",
+          "archivo_id": "815",
+          "serie_id": "3402",
+          "nombre_serie": "Provisiones Reales"
+        }
+      ]
+    },
+    {
+      "archivo_id": "816",
+      "js_id": "3289",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Lorca (AMLO)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3289&nombreSerie=Actas Capitulares",
+          "archivo_id": "816",
+          "serie_id": "3289",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Autos judiciales y pleitos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3294&nombreSerie=Autos judiciales y pleitos",
+          "archivo_id": "816",
+          "serie_id": "3294",
+          "nombre_serie": "Autos judiciales y pleitos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3293&nombreSerie=Cartas Reales",
+          "archivo_id": "816",
+          "serie_id": "3293",
+          "nombre_serie": "Cartas Reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de hermandad",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3403&nombreSerie=Cartas de hermandad",
+          "archivo_id": "816",
+          "serie_id": "3403",
+          "nombre_serie": "Cartas de hermandad"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de privilegios y de confirmación de privilegios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3404&nombreSerie=Cartas de privilegios y de confirmación de privilegios",
+          "archivo_id": "816",
+          "serie_id": "3404",
+          "nombre_serie": "Cartas de privilegios y de confirmación de privilegios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de venta",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3974&nombreSerie=Cartas de venta",
+          "archivo_id": "816",
+          "serie_id": "3974",
+          "nombre_serie": "Cartas de venta"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas del Concejo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3290&nombreSerie=Cartas del Concejo",
+          "archivo_id": "816",
+          "serie_id": "3290",
+          "nombre_serie": "Cartas del Concejo"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas episcopales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3291&nombreSerie=Cartas episcopales",
+          "archivo_id": "816",
+          "serie_id": "3291",
+          "nombre_serie": "Cartas episcopales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Censos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3406&nombreSerie=Censos",
+          "archivo_id": "816",
+          "serie_id": "3406",
+          "nombre_serie": "Censos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Concordias y convenios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3990&nombreSerie=Concordias y convenios",
+          "archivo_id": "816",
+          "serie_id": "3990",
+          "nombre_serie": "Concordias y convenios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cuentas del Concejo. Libros de Mayordomos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3296&nombreSerie=Cuentas del Concejo. Libros de Mayordomos",
+          "archivo_id": "816",
+          "serie_id": "3296",
+          "nombre_serie": "Cuentas del Concejo. Libros de Mayordomos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cédulas",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3405&nombreSerie=Cédulas",
+          "archivo_id": "816",
+          "serie_id": "3405",
+          "nombre_serie": "Cédulas"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Deslindes",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3407&nombreSerie=Deslindes",
+          "archivo_id": "816",
+          "serie_id": "3407",
+          "nombre_serie": "Deslindes"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Escrituras notariales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3292&nombreSerie=Escrituras notariales",
+          "archivo_id": "816",
+          "serie_id": "3292",
+          "nombre_serie": "Escrituras notariales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Mandamientos de pago",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3988&nombreSerie=Mandamientos de pago",
+          "archivo_id": "816",
+          "serie_id": "3988",
+          "nombre_serie": "Mandamientos de pago"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Nombramientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3991&nombreSerie=Nombramientos",
+          "archivo_id": "816",
+          "serie_id": "3991",
+          "nombre_serie": "Nombramientos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Ordenamientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3409&nombreSerie=Ordenamientos",
+          "archivo_id": "816",
+          "serie_id": "3409",
+          "nombre_serie": "Ordenamientos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Ordenanzas y reglamentos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3176&nombreSerie=Ordenanzas y reglamentos",
+          "archivo_id": "816",
+          "serie_id": "3176",
+          "nombre_serie": "Ordenanzas y reglamentos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de aguas",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=4003&nombreSerie=Padrones de aguas",
+          "archivo_id": "816",
+          "serie_id": "4003",
+          "nombre_serie": "Padrones de aguas"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3951&nombreSerie=Padrones de vecindario",
+          "archivo_id": "816",
+          "serie_id": "3951",
+          "nombre_serie": "Padrones de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones fiscales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3410&nombreSerie=Padrones fiscales",
+          "archivo_id": "816",
+          "serie_id": "3410",
+          "nombre_serie": "Padrones fiscales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Penas de cámara",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3992&nombreSerie=Penas de cámara",
+          "archivo_id": "816",
+          "serie_id": "3992",
+          "nombre_serie": "Penas de cámara"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Peticiones",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3411&nombreSerie=Peticiones",
+          "archivo_id": "816",
+          "serie_id": "3411",
+          "nombre_serie": "Peticiones"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Privilegios Rodados",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3412&nombreSerie=Privilegios Rodados",
+          "archivo_id": "816",
+          "serie_id": "3412",
+          "nombre_serie": "Privilegios Rodados"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Provisiones Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3413&nombreSerie=Provisiones Reales",
+          "archivo_id": "816",
+          "serie_id": "3413",
+          "nombre_serie": "Provisiones Reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Quintas y milicias",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3989&nombreSerie=Quintas y milicias",
+          "archivo_id": "816",
+          "serie_id": "3989",
+          "nombre_serie": "Quintas y milicias"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Rentas municipales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3415&nombreSerie=Rentas municipales",
+          "archivo_id": "816",
+          "serie_id": "3415",
+          "nombre_serie": "Rentas municipales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Repartimiento de tierras",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3414&nombreSerie=Repartimiento de tierras",
+          "archivo_id": "816",
+          "serie_id": "3414",
+          "nombre_serie": "Repartimiento de tierras"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Testimonios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3299&nombreSerie=Testimonios",
+          "archivo_id": "816",
+          "serie_id": "3299",
+          "nombre_serie": "Testimonios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Tributos Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=816&series=3295&nombreSerie=Tributos Reales",
+          "archivo_id": "816",
+          "serie_id": "3295",
+          "nombre_serie": "Tributos Reales"
+        }
+      ]
+    },
+    {
+      "archivo_id": "955",
+      "js_id": "4153",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Lorquí (AMLOR)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=955&series=4153&nombreSerie=Padrones de vecindario",
+          "archivo_id": "955",
+          "serie_id": "4153",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "817",
+      "js_id": "3300",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Mazarrón (AMMA)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=817&series=3300&nombreSerie=Actas Capitulares",
+          "archivo_id": "817",
+          "serie_id": "3300",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Correspondencia",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=817&series=3995&nombreSerie=Correspondencia",
+          "archivo_id": "817",
+          "serie_id": "3995",
+          "nombre_serie": "Correspondencia"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cédula Real",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=817&series=3994&nombreSerie=Cédula Real",
+          "archivo_id": "817",
+          "serie_id": "3994",
+          "nombre_serie": "Cédula Real"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Educación",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=817&series=3996&nombreSerie=Educación",
+          "archivo_id": "817",
+          "serie_id": "3996",
+          "nombre_serie": "Educación"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=817&series=3952&nombreSerie=Padrones de vecindario",
+          "archivo_id": "817",
+          "serie_id": "3952",
+          "nombre_serie": "Padrones de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Provisión Real",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=817&series=3993&nombreSerie=Provisión Real",
+          "archivo_id": "817",
+          "serie_id": "3993",
+          "nombre_serie": "Provisión Real"
+        }
+      ]
+    },
+    {
+      "archivo_id": "818",
+      "js_id": "3301",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Molina de Segura (AMMOL)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=818&series=3301&nombreSerie=Actas capitulares",
+          "archivo_id": "818",
+          "serie_id": "3301",
+          "nombre_serie": "Actas capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Libros de leyes de cortes",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=818&series=3964&nombreSerie=Libros de leyes de cortes",
+          "archivo_id": "818",
+          "serie_id": "3964",
+          "nombre_serie": "Libros de leyes de cortes"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Libros de repartimientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=818&series=3956&nombreSerie=Libros de repartimientos",
+          "archivo_id": "818",
+          "serie_id": "3956",
+          "nombre_serie": "Libros de repartimientos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=818&series=4155&nombreSerie=Padrones de vecindario",
+          "archivo_id": "818",
+          "serie_id": "4155",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "819",
+      "js_id": "4090",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Moratalla (AMMOR)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=4090&nombreSerie=Actas Capitulares",
+          "archivo_id": "819",
+          "serie_id": "4090",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de confirmación de privilegios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=3303&nombreSerie=Cartas de confirmación de privilegios",
+          "archivo_id": "819",
+          "serie_id": "3303",
+          "nombre_serie": "Cartas de confirmación de privilegios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Ordenanzas",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=819&series=3302&nombreSerie=Ordenanzas",
+          "archivo_id": "819",
+          "serie_id": "3302",
+          "nombre_serie": "Ordenanzas"
+        }
+      ]
+    },
+    {
+      "archivo_id": "820",
+      "js_id": "3304",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Mula (AMMUL)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=820&series=3304&nombreSerie=Actas Capitulares",
+          "archivo_id": "820",
+          "serie_id": "3304",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Autos judiciales y pleitos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=820&series=4001&nombreSerie=Autos judiciales y pleitos",
+          "archivo_id": "820",
+          "serie_id": "4001",
+          "nombre_serie": "Autos judiciales y pleitos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de privilegios y de confirmación de privilegios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=820&series=3306&nombreSerie=Cartas de privilegios y de confirmación de privilegios",
+          "archivo_id": "820",
+          "serie_id": "3306",
+          "nombre_serie": "Cartas de privilegios y de confirmación de privilegios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas del Concejo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=820&series=3305&nombreSerie=Cartas del Concejo",
+          "archivo_id": "820",
+          "serie_id": "3305",
+          "nombre_serie": "Cartas del Concejo"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Deslindes",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=820&series=3309&nombreSerie=Deslindes",
+          "archivo_id": "820",
+          "serie_id": "3309",
+          "nombre_serie": "Deslindes"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Ordenamientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=820&series=3180&nombreSerie=Ordenamientos",
+          "archivo_id": "820",
+          "serie_id": "3180",
+          "nombre_serie": "Ordenamientos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de hidalgos y pecheros",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=820&series=3308&nombreSerie=Padrones de hidalgos y pecheros",
+          "archivo_id": "820",
+          "serie_id": "3308",
+          "nombre_serie": "Padrones de hidalgos y pecheros"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=820&series=3957&nombreSerie=Padrones de vecindario",
+          "archivo_id": "820",
+          "serie_id": "3957",
+          "nombre_serie": "Padrones de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Privilegios Rodados",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=820&series=3416&nombreSerie=Privilegios Rodados",
+          "archivo_id": "820",
+          "serie_id": "3416",
+          "nombre_serie": "Privilegios Rodados"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Provisiones Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=820&series=3417&nombreSerie=Provisiones Reales",
+          "archivo_id": "820",
+          "serie_id": "3417",
+          "nombre_serie": "Provisiones Reales"
+        }
+      ]
+    },
+    {
+      "archivo_id": "821",
+      "js_id": "3418",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Murcia (AMMU)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Abastos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3418&nombreSerie=Abastos",
+          "archivo_id": "821",
+          "serie_id": "3418",
+          "nombre_serie": "Abastos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3310&nombreSerie=Actas Capitulares",
+          "archivo_id": "821",
+          "serie_id": "3310",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Adelantamiento",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3426&nombreSerie=Adelantamiento",
+          "archivo_id": "821",
+          "serie_id": "3426",
+          "nombre_serie": "Adelantamiento"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Autos judiciales y pleitos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3319&nombreSerie=Autos judiciales y pleitos",
+          "archivo_id": "821",
+          "serie_id": "3319",
+          "nombre_serie": "Autos judiciales y pleitos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas Episcopales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3312&nombreSerie=Cartas Episcopales",
+          "archivo_id": "821",
+          "serie_id": "3312",
+          "nombre_serie": "Cartas Episcopales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas Pontificias",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3314&nombreSerie=Cartas Pontificias",
+          "archivo_id": "821",
+          "serie_id": "3314",
+          "nombre_serie": "Cartas Pontificias"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3315&nombreSerie=Cartas Reales",
+          "archivo_id": "821",
+          "serie_id": "3315",
+          "nombre_serie": "Cartas Reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de hermandad",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3419&nombreSerie=Cartas de hermandad",
+          "archivo_id": "821",
+          "serie_id": "3419",
+          "nombre_serie": "Cartas de hermandad"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de privilegios y de confirmación de privilegios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3420&nombreSerie=Cartas de privilegios y de confirmación de privilegios",
+          "archivo_id": "821",
+          "serie_id": "3420",
+          "nombre_serie": "Cartas de privilegios y de confirmación de privilegios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas del Concejo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3311&nombreSerie=Cartas del Concejo",
+          "archivo_id": "821",
+          "serie_id": "3311",
+          "nombre_serie": "Cartas del Concejo"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartularios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3317&nombreSerie=Cartularios",
+          "archivo_id": "821",
+          "serie_id": "3317",
+          "nombre_serie": "Cartularios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Censos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3421&nombreSerie=Censos",
+          "archivo_id": "821",
+          "serie_id": "3421",
+          "nombre_serie": "Censos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Corregimiento",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3427&nombreSerie=Corregimiento",
+          "archivo_id": "821",
+          "serie_id": "3427",
+          "nombre_serie": "Corregimiento"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Correspondencia",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3422&nombreSerie=Correspondencia",
+          "archivo_id": "821",
+          "serie_id": "3422",
+          "nombre_serie": "Correspondencia"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cuentas del Concejo. Libros de Mayordomos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3321&nombreSerie=Cuentas del Concejo. Libros de Mayordomos",
+          "archivo_id": "821",
+          "serie_id": "3321",
+          "nombre_serie": "Cuentas del Concejo. Libros de Mayordomos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Deslindes",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3428&nombreSerie=Deslindes",
+          "archivo_id": "821",
+          "serie_id": "3428",
+          "nombre_serie": "Deslindes"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Escrituras notariales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3429&nombreSerie=Escrituras notariales",
+          "archivo_id": "821",
+          "serie_id": "3429",
+          "nombre_serie": "Escrituras notariales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Mandamientos de pago",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3322&nombreSerie=Mandamientos de pago",
+          "archivo_id": "821",
+          "serie_id": "3322",
+          "nombre_serie": "Mandamientos de pago"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Mesta",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3430&nombreSerie=Mesta",
+          "archivo_id": "821",
+          "serie_id": "3430",
+          "nombre_serie": "Mesta"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Nombramientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3431&nombreSerie=Nombramientos",
+          "archivo_id": "821",
+          "serie_id": "3431",
+          "nombre_serie": "Nombramientos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Obras y urbanismo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=4013&nombreSerie=Obras y urbanismo",
+          "archivo_id": "821",
+          "serie_id": "4013",
+          "nombre_serie": "Obras y urbanismo"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Ordenamientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3433&nombreSerie=Ordenamientos",
+          "archivo_id": "821",
+          "serie_id": "3433",
+          "nombre_serie": "Ordenamientos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Ordenanzas",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3432&nombreSerie=Ordenanzas",
+          "archivo_id": "821",
+          "serie_id": "3432",
+          "nombre_serie": "Ordenanzas"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3434&nombreSerie=Padrones de vecindario",
+          "archivo_id": "821",
+          "serie_id": "3434",
+          "nombre_serie": "Padrones de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Peticiones",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3324&nombreSerie=Peticiones",
+          "archivo_id": "821",
+          "serie_id": "3324",
+          "nombre_serie": "Peticiones"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Pregones",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3325&nombreSerie=Pregones",
+          "archivo_id": "821",
+          "serie_id": "3325",
+          "nombre_serie": "Pregones"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Privilegios Rodados",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3435&nombreSerie=Privilegios Rodados",
+          "archivo_id": "821",
+          "serie_id": "3435",
+          "nombre_serie": "Privilegios Rodados"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Pósito",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=4000&nombreSerie=Pósito",
+          "archivo_id": "821",
+          "serie_id": "4000",
+          "nombre_serie": "Pósito"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Quintas y Milicias",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3323&nombreSerie=Quintas y Milicias",
+          "archivo_id": "821",
+          "serie_id": "3323",
+          "nombre_serie": "Quintas y Milicias"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Reales Ordenes del Consejo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3326&nombreSerie=Reales Ordenes del Consejo",
+          "archivo_id": "821",
+          "serie_id": "3326",
+          "nombre_serie": "Reales Ordenes del Consejo"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Reales Provisiones",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3436&nombreSerie=Reales Provisiones",
+          "archivo_id": "821",
+          "serie_id": "3436",
+          "nombre_serie": "Reales Provisiones"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Rentas municipales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3181&nombreSerie=Rentas municipales",
+          "archivo_id": "821",
+          "serie_id": "3181",
+          "nombre_serie": "Rentas municipales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Repartimiento de tierras",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3437&nombreSerie=Repartimiento de tierras",
+          "archivo_id": "821",
+          "serie_id": "3437",
+          "nombre_serie": "Repartimiento de tierras"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Repartimientos fiscales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3438&nombreSerie=Repartimientos fiscales",
+          "archivo_id": "821",
+          "serie_id": "3438",
+          "nombre_serie": "Repartimientos fiscales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Santa Hermandad",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3439&nombreSerie=Santa Hermandad",
+          "archivo_id": "821",
+          "serie_id": "3439",
+          "nombre_serie": "Santa Hermandad"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Sentencias",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3327&nombreSerie=Sentencias",
+          "archivo_id": "821",
+          "serie_id": "3327",
+          "nombre_serie": "Sentencias"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Testimonios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3328&nombreSerie=Testimonios",
+          "archivo_id": "821",
+          "serie_id": "3328",
+          "nombre_serie": "Testimonios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Tributos Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=821&series=3313&nombreSerie=Tributos Reales",
+          "archivo_id": "821",
+          "serie_id": "3313",
+          "nombre_serie": "Tributos Reales"
+        }
+      ]
+    },
+    {
+      "archivo_id": "822",
+      "js_id": "3329",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Ojós (AMO)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=822&series=3329&nombreSerie=Actas capitulares",
+          "archivo_id": "822",
+          "serie_id": "3329",
+          "nombre_serie": "Actas capitulares"
+        }
+      ]
+    },
+    {
+      "archivo_id": "956",
+      "js_id": "4171",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Ricote (AMRI)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=956&series=4171&nombreSerie=Actas Capitulares",
+          "archivo_id": "956",
+          "serie_id": "4171",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=956&series=4154&nombreSerie=Padrones de vecindario",
+          "archivo_id": "956",
+          "serie_id": "4154",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "961",
+      "js_id": "4167",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de San Javier (AMSJ)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=961&series=4167&nombreSerie=Actas Capitulares",
+          "archivo_id": "961",
+          "serie_id": "4167",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=961&series=4166&nombreSerie=Padrones de vecindario",
+          "archivo_id": "961",
+          "serie_id": "4166",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "932",
+      "js_id": "4053",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de San Pedro del Pinatar (AMSPP)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=932&series=4053&nombreSerie=Actas Capitulares",
+          "archivo_id": "932",
+          "serie_id": "4053",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=932&series=4054&nombreSerie=Padrones de vecindario",
+          "archivo_id": "932",
+          "serie_id": "4054",
+          "nombre_serie": "Padrones de vecindario"
+        }
+      ]
+    },
+    {
+      "archivo_id": "823",
+      "js_id": "3330",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Totana (AMTO)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas Capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=3330&nombreSerie=Actas Capitulares",
+          "archivo_id": "823",
+          "serie_id": "3330",
+          "nombre_serie": "Actas Capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Autos judiciales y pleitos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=4006&nombreSerie=Autos judiciales y pleitos",
+          "archivo_id": "823",
+          "serie_id": "4006",
+          "nombre_serie": "Autos judiciales y pleitos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de privilegios y confirmación de privilegios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=3975&nombreSerie=Cartas de privilegios y confirmación de privilegios",
+          "archivo_id": "823",
+          "serie_id": "3975",
+          "nombre_serie": "Cartas de privilegios y confirmación de privilegios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=3976&nombreSerie=Cartas reales",
+          "archivo_id": "823",
+          "serie_id": "3976",
+          "nombre_serie": "Cartas reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cuentas del Concejo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=4008&nombreSerie=Cuentas del Concejo",
+          "archivo_id": "823",
+          "serie_id": "4008",
+          "nombre_serie": "Cuentas del Concejo"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Deslindes",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=3332&nombreSerie=Deslindes",
+          "archivo_id": "823",
+          "serie_id": "3332",
+          "nombre_serie": "Deslindes"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Escrituras notariales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=4007&nombreSerie=Escrituras notariales",
+          "archivo_id": "823",
+          "serie_id": "4007",
+          "nombre_serie": "Escrituras notariales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Ordenamientos",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=3183&nombreSerie=Ordenamientos",
+          "archivo_id": "823",
+          "serie_id": "3183",
+          "nombre_serie": "Ordenamientos"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Ordenanzas",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=4005&nombreSerie=Ordenanzas",
+          "archivo_id": "823",
+          "serie_id": "4005",
+          "nombre_serie": "Ordenanzas"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrones de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=3954&nombreSerie=Padrones de vecindario",
+          "archivo_id": "823",
+          "serie_id": "3954",
+          "nombre_serie": "Padrones de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Patrimonio",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=4010&nombreSerie=Patrimonio",
+          "archivo_id": "823",
+          "serie_id": "4010",
+          "nombre_serie": "Patrimonio"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Provisiones Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=3424&nombreSerie=Provisiones Reales",
+          "archivo_id": "823",
+          "serie_id": "3424",
+          "nombre_serie": "Provisiones Reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Testimonios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=4009&nombreSerie=Testimonios",
+          "archivo_id": "823",
+          "serie_id": "4009",
+          "nombre_serie": "Testimonios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Tributos reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=823&series=3331&nombreSerie=Tributos reales",
+          "archivo_id": "823",
+          "serie_id": "3331",
+          "nombre_serie": "Tributos reales"
+        }
+      ]
+    },
+    {
+      "archivo_id": "824",
+      "js_id": "3580",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Municipal de Yecla (AMYE)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Actas capitulares",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=824&series=3580&nombreSerie=Actas capitulares",
+          "archivo_id": "824",
+          "serie_id": "3580",
+          "nombre_serie": "Actas capitulares"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de poder",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=824&series=3333&nombreSerie=Cartas de poder",
+          "archivo_id": "824",
+          "serie_id": "3333",
+          "nombre_serie": "Cartas de poder"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas de privilegios y de confirmación de privilegios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=824&series=3449&nombreSerie=Cartas de privilegios y de confirmación de privilegios",
+          "archivo_id": "824",
+          "serie_id": "3449",
+          "nombre_serie": "Cartas de privilegios y de confirmación de privilegios"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas del Concejo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=824&series=3425&nombreSerie=Cartas del Concejo",
+          "archivo_id": "824",
+          "serie_id": "3425",
+          "nombre_serie": "Cartas del Concejo"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Cartas reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=824&series=3334&nombreSerie=Cartas reales",
+          "archivo_id": "824",
+          "serie_id": "3334",
+          "nombre_serie": "Cartas reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Padrón de vecindario",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=824&series=4156&nombreSerie=Padrón de vecindario",
+          "archivo_id": "824",
+          "serie_id": "4156",
+          "nombre_serie": "Padrón de vecindario"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Provisiones Reales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=824&series=3450&nombreSerie=Provisiones Reales",
+          "archivo_id": "824",
+          "serie_id": "3450",
+          "nombre_serie": "Provisiones Reales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Testimonios",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=824&series=3335&nombreSerie=Testimonios",
+          "archivo_id": "824",
+          "serie_id": "3335",
+          "nombre_serie": "Testimonios"
+        }
+      ]
+    },
+    {
+      "archivo_id": "953",
+      "js_id": "4133",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo personal Juan G. Soubrier y Belén Laguía (APJB)",
+      "subfondos": [],
+      "series": [
+        {
+          "tipo": "serie",
+          "titulo": "Documentos personales",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=953&series=4133&nombreSerie=Documentos personales",
+          "archivo_id": "953",
+          "serie_id": "4133",
+          "nombre_serie": "Documentos personales"
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Recetarios de Belén Sandoval Melgarejo",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=953&series=4135&nombreSerie=Recetarios de Belén Sandoval Melgarejo ",
+          "archivo_id": "953",
+          "serie_id": "4135",
+          "nombre_serie": "Recetarios de Belén Sandoval Melgarejo "
+        },
+        {
+          "tipo": "serie",
+          "titulo": "Recetarios de Pilar Zarandona Sandoval",
+          "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=953&series=4134&nombreSerie=Recetarios de Pilar Zarandona Sandoval",
+          "archivo_id": "953",
+          "serie_id": "4134",
+          "nombre_serie": "Recetarios de Pilar Zarandona Sandoval"
+        }
+      ]
+    },
+    {
+      "archivo_id": null,
+      "js_id": "0",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Real Academia de Medicina y Cirugía de la Región de Murcia (RAMEMUR)",
+      "subfondos": [],
+      "series": []
+    },
+    {
+      "archivo_id": "835",
+      "js_id": "3162",
+      "tipo": "archivo_o_fondo",
+      "titulo": "Archivo Real Sociedad Económica de Amigos del País de Murcia (ARSEAPMUR)",
+      "subfondos": [
+        {
+          "archivo_id": "835",
+          "js_id": "3367",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Beneficencia (ARSEAPMUR)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Memorias e Informes",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=835&series=3367&nombreSerie=Memorias e Informes",
+              "archivo_id": "835",
+              "serie_id": "3367",
+              "nombre_serie": "Memorias e Informes"
+            }
+          ]
+        },
+        {
+          "archivo_id": "825",
+          "js_id": "3368",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Docencia (ARSEAPMUR)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Discursos Inaugurales",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=825&series=3368&nombreSerie=Discursos Inaugurales",
+              "archivo_id": "825",
+              "serie_id": "3368",
+              "nombre_serie": "Discursos Inaugurales"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Docentes",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=825&series=3369&nombreSerie=Docentes",
+              "archivo_id": "825",
+              "serie_id": "3369",
+              "nombre_serie": "Docentes"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Listados de alumnos",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=825&series=3336&nombreSerie=Listados de alumnos",
+              "archivo_id": "825",
+              "serie_id": "3336",
+              "nombre_serie": "Listados de alumnos"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Memorias e Informes",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=825&series=3370&nombreSerie=Memorias e Informes",
+              "archivo_id": "825",
+              "serie_id": "3370",
+              "nombre_serie": "Memorias e Informes"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Planes de estudio y cartillas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=825&series=3185&nombreSerie=Planes de estudio y cartillas",
+              "archivo_id": "825",
+              "serie_id": "3185",
+              "nombre_serie": "Planes de estudio y cartillas"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Reglamentos de las Academias, Escuelas y Salas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=825&series=3371&nombreSerie=Reglamentos de las Academias, Escuelas y Salas",
+              "archivo_id": "825",
+              "serie_id": "3371",
+              "nombre_serie": "Reglamentos de las Academias, Escuelas y Salas"
+            }
+          ]
+        },
+        {
+          "archivo_id": "801",
+          "js_id": "3375",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Gobierno y Administración (ARSEAPMUR)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Acuerdos, propuestas y reclamaciones",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=801&series=3375&nombreSerie=Acuerdos, propuestas y reclamaciones",
+              "archivo_id": "801",
+              "serie_id": "3375",
+              "nombre_serie": "Acuerdos, propuestas y reclamaciones"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Correspondencia general",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=801&series=3189&nombreSerie=Correspondencia general",
+              "archivo_id": "801",
+              "serie_id": "3189",
+              "nombre_serie": "Correspondencia general"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Estatutos",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=801&series=3338&nombreSerie=Estatutos",
+              "archivo_id": "801",
+              "serie_id": "3338",
+              "nombre_serie": "Estatutos"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Memoriales",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=801&series=3423&nombreSerie=Memoriales",
+              "archivo_id": "801",
+              "serie_id": "3423",
+              "nombre_serie": "Memoriales"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Memorias anuales",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=801&series=3161&nombreSerie=Memorias anuales",
+              "archivo_id": "801",
+              "serie_id": "3161",
+              "nombre_serie": "Memorias anuales"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Patrimonio",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=801&series=3374&nombreSerie=Patrimonio",
+              "archivo_id": "801",
+              "serie_id": "3374",
+              "nombre_serie": "Patrimonio"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Relaciones con otras sociedades económicas",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=801&series=3192&nombreSerie=Relaciones con otras sociedades económicas",
+              "archivo_id": "801",
+              "serie_id": "3192",
+              "nombre_serie": "Relaciones con otras sociedades económicas"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Sesiones de la Junta",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=801&series=3337&nombreSerie=Sesiones de la Junta",
+              "archivo_id": "801",
+              "serie_id": "3337",
+              "nombre_serie": "Sesiones de la Junta"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Socios",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=801&series=3341&nombreSerie=Socios",
+              "archivo_id": "801",
+              "serie_id": "3341",
+              "nombre_serie": "Socios"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Tesorería",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=801&series=3190&nombreSerie=Tesorería",
+              "archivo_id": "801",
+              "serie_id": "3190",
+              "nombre_serie": "Tesorería"
+            }
+          ]
+        },
+        {
+          "archivo_id": "833",
+          "js_id": "3191",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Promoción Económica (ARSEAPMUR)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Memorias e Informes",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=833&series=3340&nombreSerie=Memorias e Informes",
+              "archivo_id": "833",
+              "serie_id": "3340",
+              "nombre_serie": "Memorias e Informes"
+            }
+          ]
+        },
+        {
+          "archivo_id": "837",
+          "js_id": "3339",
+          "tipo": "archivo_o_fondo",
+          "titulo": "Proyectos Culturales (ARSEAPMUR)",
+          "subfondos": [],
+          "series": [
+            {
+              "tipo": "serie",
+              "titulo": "Concursos y Premios",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=837&series=3339&nombreSerie=Concursos y Premios",
+              "archivo_id": "837",
+              "serie_id": "3339",
+              "nombre_serie": "Concursos y Premios"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Exposiciones",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=837&series=3372&nombreSerie=Exposiciones",
+              "archivo_id": "837",
+              "serie_id": "3372",
+              "nombre_serie": "Exposiciones"
+            },
+            {
+              "tipo": "serie",
+              "titulo": "Publicaciones",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=837&series=3373&nombreSerie=Publicaciones",
+              "archivo_id": "837",
+              "serie_id": "3373",
+              "nombre_serie": "Publicaciones"
+            }
+          ]
+        }
+      ],
+      "series": []
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+<div style="background-color: #f8f9fa; border: 1px solid #e9ecef; padding: 25px; border-radius: 8px; margin-bottom: 20px;">
+<div style="font-size: 1.8em; font-weight: bold; line-height: 1.3; color: #202122;">Wikificación del Proyecto Carmesí</div>
+<em style="font-size: 1.2em; color: #54595d;">Representación en Wikibase de fondos archivísticos ISAD(G) mediante el modelo RiC-CM / RiC-O (Records in Contexts)</em>
+</div>
+
+<div style="background-color: #eaf6ea; border-left: 4px solid #2a8f3c; padding: 12px 18px; margin: 15px 0; font-size: 0.9em;">
+En el repositorio GitHub del proyecto se localiza toda la documentación, los scripts del pipeline y los ficheros de extracción y carga de todo el proceso, incluida la salida del conjunto de datos en formato RDF/Turtle.
+
+https://github.com/pedro-otalora/WKBC_CARMESI_Project
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <div style="flex: 1 1 140px; background-color: #ffffff; border: 1px solid #c8ccd1; border-radius: 4px; padding: 15px; text-align: center; box-sizing: border-box;">
+        <div style="font-size: 1.8em; font-weight: bold; color: #36c;">8.000+</div>
+        <div style="font-size: 0.8em; color: #54595d; text-transform: uppercase; letter-spacing: 0.3px;">Documentos</div>
+    </div>
+    <div style="flex: 1 1 140px; background-color: #ffffff; border: 1px solid #c8ccd1; border-radius: 4px; padding: 15px; text-align: center; box-sizing: border-box;">
+        <div style="font-size: 1.8em; font-weight: bold; color: #00a368;">XIII&ndash;XIX</div>
+        <div style="font-size: 0.8em; color: #54595d; text-transform: uppercase; letter-spacing: 0.3px;">Siglos cubiertos</div>
+    </div>
+    <div style="flex: 1 1 140px; background-color: #ffffff; border: 1px solid #c8ccd1; border-radius: 4px; padding: 15px; text-align: center; box-sizing: border-box;">
+        <div style="font-size: 1.8em; font-weight: bold; color: #795548;">30</div>
+        <div style="font-size: 0.8em; color: #54595d; text-transform: uppercase; letter-spacing: 0.3px;">Ítems Q</div>
+    </div>
+    <div style="flex: 1 1 140px; background-color: #ffffff; border: 1px solid #c8ccd1; border-radius: 4px; padding: 15px; text-align: center; box-sizing: border-box;">
+        <div style="font-size: 1.8em; font-weight: bold; color: #b8860b;">31</div>
+        <div style="font-size: 0.8em; color: #54595d; text-transform: uppercase; letter-spacing: 0.3px;">Propiedades P</div>
+    </div>
+</div>
+
+__NOTOC__
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 25px 0;">
+
+    <!-- BLOQUE 1 -->
+    <div style="background-color: #ffffff; border: 1px solid #c8ccd1; border-left: 5px solid #36c; padding: 20px; border-radius: 4px; flex: 1 1 250px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
+        <div style="margin-bottom: 15px;">
+            <div style="font-size: 1.2em; font-weight: bold; color: #202122; margin-bottom: 5px;">Exploración jerárquica</div>
+            <div style="color: #54595d; font-size: 0.95em;">Accede al cuadro de clasificación para navegar por los niveles documentales y las fichas ISAD(G).</div>
+        </div>
+        <div style="text-align: left;">
+            <span style="background-color: #eaf1fb; border: 1px solid #a8c2e8; padding: 12px 15px; border-radius: 4px; text-decoration: none; font-weight: bold; display: block; box-sizing: border-box; text-transform: uppercase; font-size: 0.9em; letter-spacing: 0.3px; text-align: center;">[[CUADRO_CLASIFICACION|Ver cuadro de clasificación]]</span>
+        </div>
+    </div>
+
+    <!-- BLOQUE 2 -->
+    <div style="background-color: #ffffff; border: 1px solid #c8ccd1; border-left: 5px solid #00a368; padding: 20px; border-radius: 4px; flex: 1 1 250px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
+        <div style="margin-bottom: 15px;">
+            <div style="font-size: 1.2em; font-weight: bold; color: #202122; margin-bottom: 5px;">Wikibase Query Service</div>
+            <div style="color: #54595d; font-size: 0.95em;">Consultas SPARQL de ejemplo con visualizaciones estadísticas sobre el conjunto de datos.</div>
+        </div>
+        <div style="text-align: left;">
+            <span style="background-color: #e3f7ee; border: 1px solid #8fd6b3; padding: 12px 15px; border-radius: 4px; text-decoration: none; font-weight: bold; display: block; box-sizing: border-box; text-transform: uppercase; font-size: 0.9em; letter-spacing: 0.3px; text-align: center;">[[CONSULTAS|Ver consultas SPARQL]]</span>
+        </div>
+    </div>
+
+    <!-- BLOQUE 3 -->
+    <div style="background-color: #ffffff; border: 1px solid #c8ccd1; border-left: 5px solid #795548; padding: 20px; border-radius: 4px; flex: 1 1 250px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
+        <div style="margin-bottom: 15px;">
+            <div style="font-size: 1.2em; font-weight: bold; color: #202122; margin-bottom: 5px;">Documentación del trabajo</div>
+            <div style="color: #54595d; font-size: 0.95em;">Detalles de la creación del modelo ontológico ISAD(G) &rarr; RiC-O &rarr; Wikibase, la migración de datos y el pipeline.</div>
+        </div>
+        <div style="text-align: left;">
+            <span style="background-color: #f3e9e4; border: 1px solid #c9a896; padding: 12px 15px; border-radius: 4px; text-decoration: none; font-weight: bold; display: block; box-sizing: border-box; text-transform: uppercase; font-size: 0.9em; letter-spacing: 0.3px; text-align: center;">[[DOCUMENTACION|Ver documentación]]</span>
+        </div>
+    </div>
+
+    <!-- BLOQUE 4 -->
+    <div style="background-color: #ffffff; border: 1px solid #c8ccd1; border-left: 5px solid #b8860b; padding: 20px; border-radius: 4px; flex: 1 1 250px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;">
+        <div style="margin-bottom: 15px;">
+            <div style="font-size: 1.2em; font-weight: bold; color: #202122; margin-bottom: 5px;">Ver un documento real</div>
+            <div style="color: #54595d; font-size: 0.95em;">Ficha dinámica de ejemplo: cada campo enlaza al ítem Wikibase del que procede y se actualiza automáticamente al editarlo.</div>
+        </div>
+        <div style="text-align: left;">
+            <span style="background-color: #fdf3e0; border: 1px solid #e3c278; padding: 12px 15px; border-radius: 4px; text-decoration: none; font-weight: bold; display: block; box-sizing: border-box; text-transform: uppercase; font-size: 0.9em; letter-spacing: 0.3px; text-align: center;">[[DOC-103|Ver ficha DOC-103]]</span>
+        </div>
+    </div>
+
+</div>
+
+=== ¿Qué hay en esta wiki? ===
+Esta instancia de Wikibase contiene los resultados del trabajo de migración de los fondos documentales del <strong>Proyecto CARMESÍ</strong>.
+
+El <strong>Proyecto CARMESÍ</strong> (Catálogo de Archivos de la Región de Murcia en la Sociedad de la Información) trata, entre otros, de la digitalización de fondos archivísticos de la Región de Murcia comprendidos entre los siglos XIII y XIX. Su publicador es la Fundación Integra y actualmente se encuentra accesible en [https://www.regmurcia.com/servlet/s.Sl?METHOD=FRMSENCILLA2&sit=c,373,m,139,serv,Carmesi www.regmurcia.com]. Pese a su gran valor histórico, el proyecto no ha recibido actualizaciones desde 2019. No obstante, el repositorio del proyecto sigue activo y permite acceso abierto a los documentos digitalizados.
+
+El repositorio cuenta con dos tipos de acceso: un acceso OAI-PMH y una presentación web basada en la norma ISAD(G). El repositorio OAI-PMH, con salida Dublín Core y MARC21, tiene una cantidad de metadatos restringida. El acceso web permite la consulta de los fondos a través de la navegación jerárquica por su cuadro de clasificación, además de incorporar un buscador con opciones avanzadas de recuperación de información.
+
+=== Pero, ¿qué ocurre si lo que se desea es hacer búsquedas de tipo estadístico o inferencial? ===
+La respuesta es usar Linked Open Data o un modelo semántico similar. Al estar trabajando en un contexto archivístico, la evolución natural de fondos archivísticos descritos bajo la ISAD(G) es su migración al modelo RiC-CM (Records in Contexts) y su ontología RiC-O.
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 10px; margin: 25px 0;">
+    <div style="flex: 0 1 180px; background-color: #efebe9; border: 2px solid #795548; border-radius: 6px; padding: 15px; text-align: center; font-weight: bold; color: #4e342e; box-sizing: border-box;">ISAD(G)<br><span style="font-size: 0.8em; font-weight: normal;">26 elementos, jerarquía estricta</span></div>
+    <div style="flex: 0 0 auto; font-size: 1.6em; color: #8a8d91;">&rarr;</div>
+    <div style="flex: 0 1 180px; background-color: #e3f2fd; border: 2px solid #36c; border-radius: 6px; padding: 15px; text-align: center; font-weight: bold; color: #1a3e72; box-sizing: border-box;">RiC-CM / RiC-O<br><span style="font-size: 0.8em; font-weight: normal;">grafo de entidades y relaciones</span></div>
+    <div style="flex: 0 0 auto; font-size: 1.6em; color: #8a8d91;">&rarr;</div>
+    <div style="flex: 0 1 180px; background-color: #e8f5e9; border: 2px solid #00a368; border-radius: 6px; padding: 15px; text-align: center; font-weight: bold; color: #1b5e20; box-sizing: border-box;">Wikibase<br><span style="font-size: 0.8em; font-weight: normal;">ítems Q y propiedades P</span></div>
+</div>
+
+Wikibase se presenta como una infraestructura capaz de gestionar un grafo de conocimiento como el propuesto. La adaptación de la ontología RiC-O a elementos Wikibase (entidades como ítems Q y atributos como propiedades P) mantiene cada elemento de manera atómica con sus propiedades, relaciones y equivalencia RiC-O. Gracias a las capacidades nativas de Wikibase, la creación y modificación de estos elementos se puede gestionar por los usuarios con la misma interfaz que usa Wikidata. Además, cuenta con la ventaja añadida del acceso a los datos a través de su API o de su punto de acceso SPARQL.
+
+Esta instancia (CARMESI-TEST-19) implementa un perfil de aplicación de '''30 ítems Q y 31 propiedades P''', que además de las entidades estructurales, de agentes, fechas, lugares e instanciaciones ya presentes en versiones anteriores del proyecto, desglosa también la lengua y el tipo de escritura (paleográfica o tipográfica) de cada documento como entidades propias, en lugar de como simples notas de texto libre.
+
+=== Y el usuario acostumbrado a ISAD(G), ¿cómo puede encontrar, visualizar y comprender los datos? ===
+El usuario puede recuperar información de manera flexible mediante el buscador incorporado en Wikibase, que hereda todas las características de ElasticSearch.
+
+No obstante, para comprender la información dispersa en diferentes entidades relacionadas se requiere una visualización agregada de elementos. Wikibase ofrece un espacio de nombres separado de los datos estructurados Q y P donde se pueden crear páginas wiki. Estas páginas pueden contener enlaces a los datos estructurados y usar plantillas, por lo que la creación de páginas wiki con la estructura de datos ISAD(G) se convierte en el punto de conexión directo para usuarios acostumbrados a la descripción tradicional. La ventaja de usar los elementos Q y P enlazados en estas páginas es que la información contenida en la página es dinámica, con origen directo en los datos estructurados.
+
+Se puede ver un ejemplo de visualización de la ficha de un documento aquí: [[DOC-103]].
+
+En esta ficha los enlaces de las distintas áreas ISAD(G) llevan al ítem Q correspondiente, donde se puede editar el contenido de la propiedad, que será actualizado dinámicamente en la propia ficha del documento.
+
+=== ¿Lo que hay en Wikibase se queda en Wikibase? ===
+Se puede utilizar el punto de acceso SPARQL para realizar consultas avanzadas como las propuestas en [[CONSULTAS]] de ejemplo, directamente en la propia interfaz de Wikibase Query Service. Pero también se puede prescindir de la interfaz de Wikibase y usar la API para acceder directamente al contenido. Muchos lenguajes de programación cuentan con librerías que facilitan en gran medida la creación de herramientas específicas.
+
+Además, en el repositorio GitHub del proyecto está disponible el fichero <code>carmesi_rico_dataset.ttl</code>. Este fichero contiene el dataset exportado por el pipeline en formato RDF/Turtle y puede cargarse en otros gestores de grafos como Fuseki.
+
+=== ¿Hay más documentación sobre este trabajo? ===
+Además del repositorio GitHub, en el artículo [[DOCUMENTACION|DOCUMENTACIÓN]] se puede encontrar información acerca de la ontología y el mapeo, la carga de datos y otros detalles de interés.
+
+<div style="border-top: 1px solid #c8ccd1; margin-top: 35px; padding-top: 15px; font-size: 0.85em; color: #72777d; text-align: center;">
+Proyecto CARMESÍ — datos originales: Fundación Integra ([https://www.regmurcia.com/servlet/s.Sl?METHOD=FRMSENCILLA2&sit=c,373,m,139,serv,Carmesi regmurcia.com]) · Código y documentación del pipeline: [https://github.com/pedro-otalora/WKBC_CARMESI_Project GitHub]
+</div>

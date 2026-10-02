@@ -1,0 +1,170 @@
+{
+  "fondo": "AGRM",
+  "total_registros": 1,
+  "registros": [
+    {
+      "id_documento": "1123",
+      "sigla_fondo": "AGRM",
+      "nombre_fondo": "Fondo de Heredamiento de la Acequia de Beniaján",
+      "signatura_nivel2": "Miscelaneos   Caja 1  Nº 5",
+      "fecha_nivel2": "1474-05-08/1474-07-24",
+      "titulo_nivel2": "Actas notariales del juntamento de los herederos de la Acequia de Beniaján, de la huerta de Murcia, en el que se aprueban las ordenanzas de riego de dicha acequia.",
+      "serie_info": {
+        "archivo_id": "840",
+        "serie_id": "3163",
+        "nombre_serie": "Actas Notariales",
+        "url_serie": "https://www.regmurcia.com/servlet/s.Sl?METHOD=BSQAVANZADA&sit=c,373,m,139,serv,Carmesi&archivo=840&series=3163&nombreSerie=Actas Notariales&elementosPorPagina=5000"
+      },
+      "detalle_isad_g": {
+        "url_detalle": "https://www.regmurcia.com/servlet/s.Sl?METHOD=DETALLE&sit=c,373,m,139,serv,Carmesi&id=1123&v=a",
+        "url_pdf": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTOPDF&sit=serv,Carmesi&n=/02/2160/indice.djvu",
+        "miga_pan": [
+          {
+            "texto": "Proyecto Carmesi",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTCATEGORIAS&sit=c,373,m,139,serv,Carmesi&v=a"
+          },
+          {
+            "texto": "Archivo General de la Región de Murcia (AGRM)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=803&v=a"
+          },
+          {
+            "texto": "Fondo de Heredamiento de la Acequia de Beniaján (AGRM)",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTMENUS&sit=c,373,m,139,serv,Carmesi&id=840&v=a"
+          },
+          {
+            "texto": "Actas Notariales",
+            "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCUMENTOSXMENU&sit=c,373,m,139,serv,Carmesi&id=3163&v=a"
+          }
+        ],
+        "isad_g": {
+          "1.1 Código de referencia": "AGRM Miscelaneos  Caja 1  Nº 5",
+          "1.2 Título": "Actas notariales del juntamento de los herederos de la Acequia de Beniaján, de la huerta de Murcia, en el que se aprueban las ordenanzas de riego de dicha acequia.",
+          "1.3  Fecha(s)": "1474-05-08/1474-07-24.",
+          "1.4 Nivel de descripción": "Documento",
+          "1.5 Volumen y soporte de la unidad de descripción": "9 hojas Papel 210 x 150 mm.",
+          "2.1 Nombre del o de los productor(es)": "Heredamiento de la acequia de Beniaján (Murcia)",
+          "2.4 Forma de ingreso": "Transferido por: Se desconoce. Apareció hace años entre los fondos del Archivo de la Diputación de Murcia",
+          "3.1 Alcance y contenido": "Contiene las ordenanzas acordadas en el juntamento de 1474-5-8 para el reparto y uso del agua  en la huerta, viñas y campo de de Beniaján.Folios 2 r-4 v original del siglo XVFolios 6 r-9 v copia del siglo XIX",
+          "4.1 Condiciones de acceso": "Libre. Se sirve copia digital. Conservación permanente al formar parte del patrimonio documental.",
+          "4.3  Lengua/escritura(s) de los documentos": "Castellano",
+          "4.4 Características físicas y requisitos técnicos": "Buena",
+          "5.2 Localización de copias": "Prohibida la fotocopia.",
+          "5.3 Unidades de descripción relacionadas": "El Archivo Histórico Provincial conserva varios conjuntos de escrituras de este escribano incluido uno entre 1474-1510 (AHPMu Prot. 634).",
+          "7.1 Nota del archivero": "Javier Castillo Fernández"
+        },
+        "puntos_acceso": {
+          "personas": [
+            {
+              "nombre": "Aniorte, Alfonso",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2876&v=a"
+            },
+            {
+              "nombre": "Atienza, Juan de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2877&v=a"
+            },
+            {
+              "nombre": "Bernad, Francisco",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=422&v=a"
+            },
+            {
+              "nombre": "Blasco, Alfonso",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2869&v=a"
+            },
+            {
+              "nombre": "Dolca, Alfonso",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2870&v=a"
+            },
+            {
+              "nombre": "Fernán, Gonzalo",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2872&v=a"
+            },
+            {
+              "nombre": "Fernández de Pantoja, Sancho",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2874&v=a"
+            },
+            {
+              "nombre": "Guerao, Alfonso. Vecino de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2528&v=a"
+            },
+            {
+              "nombre": "Martínez, Antón. Regidor",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=282&v=a"
+            },
+            {
+              "nombre": "Oruño, Diego de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2868&v=a"
+            },
+            {
+              "nombre": "Pineda, Juan de. Vecino de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2875&v=a"
+            },
+            {
+              "nombre": "Puxmarín, Pedro de. Vecino de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2867&v=a"
+            },
+            {
+              "nombre": "Pérez de Valladolid, Juan",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2163&v=a"
+            },
+            {
+              "nombre": "Pérez, Juan",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=1158&v=a"
+            },
+            {
+              "nombre": "Riquelme, Juan. Jurado",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2607&v=a"
+            },
+            {
+              "nombre": "Roda, Guillén de",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2871&v=a"
+            },
+            {
+              "nombre": "Roda, Rodrigo de. Procurador de la acequia de Beniaján",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=2873&v=a"
+            },
+            {
+              "nombre": "Ruiz de Sandoval, Sancho. Alcalde ordinario de Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=289&v=a"
+            },
+            {
+              "nombre": "Valero, Bartolomé",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSONO&sit=c,373,m,139,serv,Carmesi&id=630&v=a"
+            }
+          ],
+          "instituciones": [],
+          "materias": [
+            {
+              "nombre": "Huerta",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=192&v=a"
+            },
+            {
+              "nombre": "Ordenamientos",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=92&v=a"
+            },
+            {
+              "nombre": "Regadío",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSMATE&sit=c,373,m,139,serv,Carmesi&id=206&v=a"
+            }
+          ],
+          "lugares": [
+            {
+              "nombre": "Beniaján",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=383&v=a"
+            },
+            {
+              "nombre": "Murcia",
+              "url": "https://www.regmurcia.com/servlet/s.Sl?METHOD=LSTDOCSLUGAR&sit=c,373,m,139,serv,Carmesi&id=2&v=a"
+            }
+          ]
+        },
+        "url_djvu": "https://www.regmurcia.com/servlet/s.Sl?METHOD=VERDOCUMENTO&sit=serv,Carmesi&n=/02/2160/indice.djvu",
+        "url_transcripcion_global": null,
+        "oai_pmh": {
+          "marc 21": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=marc21&identifier=oai:regmurcia.com:fintegr.1123",
+          "ese": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=ese&identifier=oai:regmurcia.com:fintegr.1123",
+          "oai dc": "http://oai.regmurcia.com/oai2/oai2.php?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:regmurcia.com:fintegr.1123"
+        }
+      }
+    }
+  ]
+}
