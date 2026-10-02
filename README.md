@@ -16,7 +16,7 @@ Contiene todo el proceso de migración de extremo a extremo:
 4. **Generación de páginas wiki** (fichas de documento y de serie) que leen en vivo las declaraciones de Wikibase mediante un módulo Lua, de forma que editar una propiedad actualiza automáticamente la ficha visible.
 5. **Exportación** del dataset completo a RDF/Turtle, con URIs propias y las IRI oficiales de RiC-O/SKOS/Dublin Core/OWL para las clases y propiedades.
 
-El perfil de aplicación resultante (ítems Q y propiedades P reales, con su correspondencia RiC-CM/RiC-O) está documentado en detalle en [`TEMPLATES/CARMESI-TEST-19_DOCUMENTACION.wikitext`](TEMPLATES/CARMESI-TEST-19_DOCUMENTACION.wikitext).
+El perfil de aplicación resultante (ítems Q y propiedades P reales, con su correspondencia RiC-CM/RiC-O) está documentado en detalle en [`PIPELINE/TEMPLATES/CARMESI-TEST-19_DOCUMENTACION.wikitext`](PIPELINE/TEMPLATES/CARMESI-TEST-19_DOCUMENTACION.wikitext).
 
 ## Mapa de ficheros
 
@@ -26,14 +26,14 @@ WKBC_CARMESI_Project/
 │   ├── EXTRACT_FILES/         # Salida de la fase de extracción (raspado web), entrada del pipeline
 │   │   └── EXTRACT_FONS/      # Una ficha JSON por fondo documental
 │   ├── LOAD_FILES/            # Tablas de inyección y ficheros de control/idempotencia del pipeline
+│   ├── TEMPLATES/             # Plantillas y páginas wiki publicadas en la instancia Wikibase
 │   ├── requirements.txt       # Dependencias Python del pipeline
 │   └── .env.example           # Plantilla de configuración de credenciales e instancia
 ├── ONTOLOGY/                  # Diseño y documentación visual del modelo ontológico
-├── TEMPLATES/                 # Plantillas y páginas wiki publicadas en la instancia Wikibase
 └── OUTPUT_RDF/                 # Dataset final exportado en RDF/Turtle
 ```
 
-> Las carpetas `EXTRACT_FILES/` y `LOAD_FILES/` residen dentro de `PIPELINE/` (y no en la raíz del repositorio), ya que los scripts anclan sus rutas al directorio de `config_carmesi.py` para que el proyecto sea autocontenido y portable sin tocar código.
+> Las carpetas `EXTRACT_FILES/`, `LOAD_FILES/` y `TEMPLATES/` residen dentro de `PIPELINE/` (y no en la raíz del repositorio), ya que los scripts anclan sus rutas al directorio de `config_carmesi.py` para que el proyecto sea autocontenido y portable sin tocar código.
 
 ### `PIPELINE/` — scripts del proceso, en orden de ejecución
 
@@ -73,7 +73,7 @@ WKBC_CARMESI_Project/
 - `registros_inyectados_resuelto.jsonl` — un documento por línea, con todos sus QID reales ya resueltos.
 - `mapa_pagina_cuadro_wikitext.txt`, `mapa_paginas_documentos_wikitext.txt`, `mapa_series_wikitext.txt` — mapas de control de las páginas wiki ya generadas.
 
-### `TEMPLATES/` — documentación y plantillas publicadas en la wiki
+### `PIPELINE/TEMPLATES/` — documentación y plantillas publicadas en la wiki
 
 - `CARMESI-TEST-19_MAIN.wikitext` — página principal de la instancia.
 - `CARMESI-TEST-19_DOCUMENTACION.wikitext` — documentación técnica completa: modelo conceptual, perfil de aplicación, pipeline y limitaciones.
@@ -117,7 +117,7 @@ CARMESI_BOT_PASSWORD=su_contraseña
 
 ### 3. Ejecutar los scripts en orden
 
-Cada script está numerado según el orden en que debe ejecutarse, y se invoca desde dentro de `PIPELINE/`. Todos son idempotentes: pueden relanzarse sin duplicar lo ya creado, gracias a los ficheros de control de `LOAD_FILES/` (ambas carpetas, `EXTRACT_FILES/` y `LOAD_FILES/`, se resuelven automáticamente como subcarpetas de `PIPELINE/`, sin necesidad de configuración adicional).
+Cada script está numerado según el orden en que debe ejecutarse, y se invoca desde dentro de `PIPELINE/`. Todos son idempotentes: pueden relanzarse sin duplicar lo ya creado, gracias a los ficheros de control de `LOAD_FILES/` (las subcarpetas `EXTRACT_FILES/`, `LOAD_FILES/` y `TEMPLATES/` se resuelven automáticamente como rutas relativas al directorio de `config_carmesi.py`, es decir `PIPELINE/`, sin necesidad de configuración adicional).
 
 ```bash
 python 000_publicar_plantillas.py
@@ -136,7 +136,7 @@ python 080_exportar_rdf_ttl.py
 
 ## Documentación técnica completa
 
-Para el detalle del modelo conceptual, las decisiones de modelado razonadas, el perfil de aplicación completo (ítems Q y propiedades P con su correspondencia RiC-CM/RiC-O) y las limitaciones conocidas, véase [`TEMPLATES/CARMESI-TEST-19_DOCUMENTACION.wikitext`](TEMPLATES/CARMESI-TEST-19_DOCUMENTACION.wikitext) — el mismo contenido publicado en la [página de documentación de la instancia](https://carmesi-test-19.wikibase.cloud/wiki/DOCUMENTACION).
+Para el detalle del modelo conceptual, las decisiones de modelado razonadas, el perfil de aplicación completo (ítems Q y propiedades P con su correspondencia RiC-CM/RiC-O) y las limitaciones conocidas, véase [`PIPELINE/TEMPLATES/CARMESI-TEST-19_DOCUMENTACION.wikitext`](PIPELINE/TEMPLATES/CARMESI-TEST-19_DOCUMENTACION.wikitext) — el mismo contenido publicado en la [página de documentación de la instancia](https://carmesi-test-19.wikibase.cloud/wiki/DOCUMENTACION).
 
 ## Licencia
 
