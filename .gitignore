@@ -1,3 +1,4 @@
-.env
-__pycache__/
-*.pyc
+PIPELINE/.env
+PIPELINE/__pycache__/
+PIPELINE/*.pyc
+.DS_Store
